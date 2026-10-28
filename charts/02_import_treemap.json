@@ -1,0 +1,154 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "DM Sans,Arial,sans-serif",
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 350,
+  "data": {
+    "url": "data/import_treemap.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "stroke": "#fffdfa",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "x0",
+          "type": "quantitative",
+          "axis": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          }
+        },
+        "x2": {
+          "field": "x1"
+        },
+        "y": {
+          "field": "y0",
+          "type": "quantitative",
+          "axis": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "reverse": true
+          }
+        },
+        "y2": {
+          "field": "y1"
+        },
+        "color": {
+          "field": "food_group",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Pantry",
+              "Dairy, eggs & fridge",
+              "Drinks",
+              "Meat & seafood",
+              "Fruit & vegetables",
+              "Bakery"
+            ],
+            "range": [
+              "#8D6A4B",
+              "#D9CCAE",
+              "#A7C957",
+              "#F4A261",
+              "#6A994E",
+              "#C58F5A"
+            ]
+          },
+          "title": "Food department"
+        },
+        "tooltip": [
+          {
+            "field": "food_group",
+            "title": "Department"
+          },
+          {
+            "field": "country",
+            "title": "Origin"
+          },
+          {
+            "field": "tonnes",
+            "title": "Sea imports (tonnes)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "middle",
+        "fontSize": 12,
+        "fontWeight": "bold",
+        "color": "#211c16",
+        "limit": 102
+      },
+      "encoding": {
+        "x": {
+          "field": "x",
+          "type": "quantitative",
+          "axis": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          }
+        },
+        "y": {
+          "field": "y",
+          "type": "quantitative",
+          "axis": null,
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "reverse": true
+          }
+        },
+        "text": {
+          "field": "label",
+          "type": "nominal"
+        }
+      },
+      "data": {
+        "url": "data/treemap_inside_labels.csv"
+      }
+    }
+  ]
+}

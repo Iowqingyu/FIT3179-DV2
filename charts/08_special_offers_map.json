@@ -1,0 +1,160 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "Inter, Arial, sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": 560,
+  "height": 455,
+  "projection": {
+    "type": "mercator",
+    "center": [
+      134,
+      -28
+    ],
+    "scale": 540,
+    "translate": [
+      280,
+      230
+    ]
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "datum.properties.STATE_NAME",
+          "as": "state_name"
+        },
+        {
+          "calculate": "datum.properties.STATE_NAME === 'New South Wales' ? 'NSW' : datum.properties.STATE_NAME === 'Victoria' ? 'VIC' : datum.properties.STATE_NAME === 'Queensland' ? 'QLD' : datum.properties.STATE_NAME === 'South Australia' ? 'SA' : datum.properties.STATE_NAME === 'Western Australia' ? 'WA' : datum.properties.STATE_NAME === 'Tasmania' ? 'TAS' : datum.properties.STATE_NAME === 'Northern Territory' ? 'NT' : 'ACT'",
+          "as": "state"
+        },
+        {
+          "lookup": "state",
+          "from": {
+            "data": {
+              "url": "data/state_special_wide.csv"
+            },
+            "key": "state",
+            "fields": [
+              "Pantry",
+              "Dairy, eggs & fridge",
+              "Drinks",
+              "Meat & seafood",
+              "Fruit & vegetables",
+              "Bakery"
+            ]
+          }
+        },
+        {
+          "calculate": "datum[department]",
+          "as": "special_pct"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fffdfa",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "color": {
+          "field": "special_pct",
+          "type": "quantitative",
+          "scale": {
+            "range": [
+              "#F2E8CF",
+              "#EACD9D",
+              "#DFAE71",
+              "#C98D52",
+              "#8D6A4B"
+            ]
+          },
+          "legend": {
+            "title": "Listings on special (%)",
+            "orient": "bottom",
+            "gradientLength": 210
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state_name",
+            "title": "State"
+          },
+          {
+            "field": "special_pct",
+            "title": "On special (%)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/map_bubbles.csv"
+      },
+      "mark": {
+        "type": "text",
+        "fontWeight": "bold",
+        "fontSize": 12,
+        "color": "#3f342b"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude"
+        },
+        "latitude": {
+          "field": "latitude"
+        },
+        "text": {
+          "field": "state"
+        }
+      }
+    }
+  ],
+  "params": [
+    {
+      "name": "department",
+      "value": "Pantry",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Pantry",
+          "Dairy, eggs & fridge",
+          "Drinks",
+          "Meat & seafood",
+          "Fruit & vegetables",
+          "Bakery"
+        ],
+        "name": "Department: "
+      }
+    }
+  ]
+}

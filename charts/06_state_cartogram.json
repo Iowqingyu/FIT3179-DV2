@@ -1,0 +1,145 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "width": 650,
+  "height": 415,
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "font": "Arial, sans-serif",
+    "legend": {
+      "orient": "bottom",
+      "titleFontSize": 15,
+      "labelFontSize": 14,
+      "labelColor": "#362b23",
+      "titleColor": "#362b23"
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "projection": {
+    "type": "mercator",
+    "center": [
+      134,
+      -28
+    ],
+    "scale": 590,
+    "translate": [
+      325,
+      214
+    ]
+  },
+  "params": [
+    {
+      "name": "department",
+      "value": "Pantry",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Pantry",
+          "Dairy, eggs & fridge",
+          "Drinks",
+          "Meat & seafood",
+          "Fruit & vegetables",
+          "Bakery"
+        ],
+        "name": "Department: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "data/category_cartogram.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.properties.category === department"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fffdfa",
+        "strokeWidth": 1.0
+      },
+      "encoding": {
+        "color": {
+          "field": "properties.share_pct",
+          "type": "quantitative",
+          "scale": {
+            "range": [
+              "#EAF3F9",
+              "#C9E0F1",
+              "#8FBEDD",
+              "#4E91BE",
+              "#205F94"
+            ]
+          },
+          "title": "Category share (%)"
+        },
+        "tooltip": [
+          {
+            "field": "properties.state",
+            "title": "State / Territory"
+          },
+          {
+            "field": "properties.category",
+            "title": "Department"
+          },
+          {
+            "field": "properties.share_pct",
+            "title": "Product listings (%)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/cartogram_labels.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.category === department"
+        },
+        {
+          "filter": "datum.state !== 'ACT'"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "color": "#3c3027"
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "state",
+          "type": "nominal"
+        }
+      }
+    }
+  ]
+}

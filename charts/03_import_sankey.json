@@ -1,0 +1,136 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 740,
+  "height": 440,
+  "padding": {
+    "left": 0,
+    "right": 0,
+    "top": 6,
+    "bottom": 0
+  },
+  "autosize": "pad",
+  "background": null,
+  "data": [
+    {
+      "name": "nodes",
+      "url": "data/sankey_nodes.csv",
+      "format": {
+        "type": "csv",
+        "parse": {
+          "stage": "number",
+          "x": "number",
+          "x2": "number",
+          "y": "number",
+          "y2": "number",
+          "weight": "number"
+        }
+      }
+    },
+    {
+      "name": "links",
+      "url": "data/sankey_links.csv",
+      "format": {
+        "type": "csv",
+        "parse": {
+          "line_width": "number",
+          "weight": "number"
+        }
+      }
+    }
+  ],
+  "marks": [
+    {
+      "type": "path",
+      "from": {
+        "data": "links"
+      },
+      "encode": {
+        "update": {
+          "path": {
+            "field": "path"
+          },
+          "stroke": {
+            "field": "colour"
+          },
+          "strokeWidth": {
+            "field": "line_width"
+          },
+          "strokeOpacity": {
+            "value": 0.35
+          },
+          "fill": {
+            "value": null
+          },
+          "tooltip": {
+            "signal": "datum.origin + ' \u2192 ' + datum.destination + ': ' + format(datum.weight,',.0f') + ' tonnes'"
+          }
+        }
+      }
+    },
+    {
+      "type": "rect",
+      "from": {
+        "data": "nodes"
+      },
+      "encode": {
+        "update": {
+          "x": {
+            "field": "x"
+          },
+          "x2": {
+            "field": "x2"
+          },
+          "y": {
+            "field": "y"
+          },
+          "y2": {
+            "field": "y2"
+          },
+          "fill": {
+            "field": "color"
+          },
+          "cornerRadius": {
+            "value": 2
+          },
+          "tooltip": {
+            "signal": "datum.name + ': ' + format(datum.weight,',.0f') + ' tonnes'"
+          }
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {
+        "data": "nodes"
+      },
+      "encode": {
+        "update": {
+          "x": {
+            "signal": "datum.x2 + 4"
+          },
+          "y": {
+            "signal": "(datum.y+datum.y2)/2"
+          },
+          "text": {
+            "field": "name"
+          },
+          "fill": {
+            "value": "#362b23"
+          },
+          "font": {
+            "value": "DM Sans"
+          },
+          "fontSize": {
+            "value": 13
+          },
+          "baseline": {
+            "value": "middle"
+          },
+          "limit": {
+            "value": 145
+          }
+        }
+      }
+    }
+  ]
+}

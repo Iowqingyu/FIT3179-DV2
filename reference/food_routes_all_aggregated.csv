@@ -1,0 +1,2206 @@
+﻿country_code,origin_country,ausport_code,destination_port,food_group,total_weight_tonnes,total_valuecif,rank
+NZ,New Zealand,201,Melbourne,All food,232014.21480000002,1443322211.5300002,1
+CHIN,China (excludes SARs and Taiwan),101,Sydney,All food,213967.36860000002,808146595.9300001,2
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,All food,189229.859,593570615.5699999,3
+NZ,New Zealand,101,Sydney,All food,188104.56459999998,1163858844.95,4
+USA,United States of America,101,Sydney,All food,155198.0684,905680461.99,5
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,All food,154748.3989,535295502.84000003,6
+THAI,Thailand,101,Sydney,All food,151900.9354,583861264.38,7
+THAI,Thailand,201,Melbourne,All food,146397.6871,512821779.66,8
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,All food,146272.678,524393854.31,9
+USA,United States of America,201,Melbourne,All food,142887.3911,829458401.92,10
+VIET,Vietnam,101,Sydney,All food,113800.534,561212660.8199999,11
+MLAY,Malaysia,201,Melbourne,All food,113076.99149999999,593039670.4200001,12
+NZ,New Zealand,301,Brisbane,All food,110983.6258,357022036.86,13
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,All food,94151.989,301133295.96,14
+INIA,India,201,Melbourne,All food,91141.5837,217074336.64,15
+INIA,India,101,Sydney,All food,87134.7404,232874100.5,16
+MLAY,Malaysia,101,Sydney,All food,80876.4614,322404431.2,17
+THAI,Thailand,301,Brisbane,All food,80532.5038,228502178.85999998,18
+VIET,Vietnam,201,Melbourne,All food,78838.6884,393410618.79,19
+NETH,Netherlands,101,Sydney,All food,78257.67569999999,401840118.39,20
+MLAY,Malaysia,301,Brisbane,All food,54630.584299999995,118572833.17,21
+INDO,Indonesia,201,Melbourne,All food,52752.5462,393385950.61,22
+RKOR,"Korea, Republic of (South)",101,Sydney,All food,51874.1147,215661154.75,23
+SPAI,Spain,101,Sydney,All food,49659.009699999995,277442643.41999996,24
+TURK,Turkiye,201,Melbourne,All food,46976.3827,114175501.96000001,25
+VIET,Vietnam,301,Brisbane,All food,44813.5912,174568430.95000002,26
+BELG,Belgium,101,Sydney,All food,42403.707200000004,161515497.08,27
+THAI,Thailand,501,Fremantle,All food,37200.1451,92511760.97,28
+SPAI,Spain,201,Melbourne,All food,37112.173299999995,188312317.52,29
+BELG,Belgium,201,Melbourne,All food,36875.863600000004,161352151.48,30
+NETH,Netherlands,201,Melbourne,All food,33833.8975,199170336.64,31
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,All food,31895.5589,86817020.61,32
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,All food,30067.839200000002,61612795.36,33
+FGMY,Germany,101,Sydney,All food,29427.5797,234343429.9,34
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,All food,29182.7862,313168721.01,35
+INIA,India,301,Brisbane,All food,28863.4666,62933123.28,36
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,All food,28317.6447,210162723.24,37
+USA,United States of America,301,Brisbane,All food,28024.8197,144134494.53,38
+FRAN,France (includes Andorra and Monaco),201,Melbourne,All food,27709.140499999998,202680048.51999998,39
+JAP,Japan,101,Sydney,All food,27660.459499999997,118711594.16,40
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,All food,26126.3835,57201121.11,41
+JAP,Japan,201,Melbourne,All food,25418.379800000002,103201994.71,42
+MLAY,Malaysia,102,Newcastle,All food,25162.884,51803448.56,43
+SING,Singapore,201,Melbourne,All food,24801.5448,426426573.46000004,44
+VIET,Vietnam,501,Fremantle,All food,24402.7033,81745212.85,45
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,All food,24295.4283,145758226.95,46
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,All food,23728.0562,55235241.809999995,47
+INDO,Indonesia,301,Brisbane,All food,23604.4895,114576479.72999999,48
+TAIW,Taiwan,101,Sydney,All food,22644.1161,96314085.91,49
+FRAN,France (includes Andorra and Monaco),101,Sydney,All food,22082.153700000003,174153775.25,50
+INDO,Indonesia,101,Sydney,All food,22076.5335,146498205.66,51
+FGMY,Germany,201,Melbourne,All food,22064.819,175972897.92000002,52
+NETH,Netherlands,301,Brisbane,All food,21084.582599999998,87136787.96,53
+ASTA,Austria,101,Sydney,All food,20249.578700000002,50491597.519999996,54
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,All food,20047.340500000002,165819513.45,55
+TURK,Turkiye,101,Sydney,All food,19348.0731,94805471.27000001,56
+INIA,India,501,Fremantle,All food,17849.9352,36364556.79,57
+SING,Singapore,101,Sydney,All food,16911.1929,664657370.76,58
+THAI,Thailand,401,Port Adelaide,All food,16692.025999999998,41034775.2,59
+MLAY,Malaysia,501,Fremantle,All food,16480.310400000002,51296451.79,60
+ASTA,Austria,201,Melbourne,All food,16402.403299999998,48955819.01,61
+CAN,Canada,201,Melbourne,All food,16114.3983,79820304.45,62
+PHIL,Philippines,101,Sydney,All food,15297.180199999999,53980043.53,63
+PHIL,Philippines,201,Melbourne,All food,14795.248899999999,53831897.11,64
+GREE,Greece,101,Sydney,All food,14560.6901,62507314.79,65
+POLA,Poland,201,Melbourne,All food,14164.3745,103872826.57,66
+JAP,Japan,301,Brisbane,All food,13967.412,56023939.69,67
+BELG,Belgium,301,Brisbane,All food,13832.2385,37327048.22,68
+CAN,Canada,101,Sydney,All food,12821.413199999999,90508004.14,69
+RKOR,"Korea, Republic of (South)",201,Melbourne,All food,12682.348,49243078.9,70
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,All food,12510.1522,136976489.82999998,71
+PAKI,Pakistan,201,Melbourne,All food,12475.1117,26599341.660000004,72
+BELG,Belgium,501,Fremantle,All food,12429.2287,33340205.28,73
+ARGE,Argentina,201,Melbourne,All food,12119.334799999999,35199007.86,74
+TAIW,Taiwan,201,Melbourne,All food,11807.878,50673570.57,75
+MEXI,Mexico,201,Melbourne,All food,11629.657000000001,39821777.78,76
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,All food,11480.305199999999,128944383.28,77
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,All food,11443.421100000001,42680524.56,78
+RKOR,"Korea, Republic of (South)",301,Brisbane,All food,10349.0518,41315254.449999996,79
+INIA,India,401,Port Adelaide,All food,10253.5506,19420632.64,80
+CHLE,Chile,101,Sydney,All food,10139.0192,63183485.730000004,81
+MEXI,Mexico,101,Sydney,All food,10134.244700000001,42010872.69,82
+CHLE,Chile,201,Melbourne,All food,10043.2614,59243275.5,83
+BRAZ,Brazil,101,Sydney,All food,9591.5424,52640539.07,84
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,All food,9394.961,62492854.09,85
+PAKI,Pakistan,101,Sydney,All food,9392.18,19952018.93,86
+SRIL,Sri Lanka,201,Melbourne,All food,9329.0799,52769671.39,87
+GREE,Greece,201,Melbourne,All food,8995.8802,54322537.03,88
+SAFR,South Africa,201,Melbourne,All food,8889.578,39135181.54,89
+MLAY,Malaysia,401,Port Adelaide,All food,8822.938,37766437.02,90
+SAFR,South Africa,101,Sydney,All food,8757.4751,34128724.96,91
+POLA,Poland,101,Sydney,All food,8647.1856,60499353.7,92
+TAIW,Taiwan,301,Brisbane,All food,8575.860999999999,28544941.91,93
+IRE,Ireland,201,Melbourne,All food,8396.780499999999,64126755.09,94
+INDO,Indonesia,501,Fremantle,All food,8352.7136,41269812.129999995,95
+NETH,Netherlands,501,Fremantle,All food,7852.8932,25302686.86,96
+ASTA,Austria,301,Brisbane,All food,7434.1996,16330791.04,97
+FGMY,Germany,301,Brisbane,All food,7371.9183,37287760.56,98
+BRAZ,Brazil,201,Melbourne,All food,7320.649799999999,32521192.19,99
+SRIL,Sri Lanka,101,Sydney,All food,7309.2838,29169855.1,100
+PHIL,Philippines,301,Brisbane,All food,6729.0888,20197793.08,101
+LEBA,Lebanon,101,Sydney,All food,6051.5925,15107146.540000001,102
+HONG,Hong Kong (SAR of China),101,Sydney,All food,5871.1723999999995,21838183.82,103
+SPAI,Spain,301,Brisbane,All food,5847.3648,30641326.14,104
+NZ,New Zealand,501,Fremantle,All food,5684.9029,21737904.92,105
+NETH,Netherlands,401,Port Adelaide,All food,5644.5809,11047359.7,106
+POLA,Poland,301,Brisbane,All food,5600.8852,25006515.07,107
+ASTA,Austria,501,Fremantle,All food,5552.7748,11619139.149999999,108
+RKOR,"Korea, Republic of (South)",501,Fremantle,All food,5438.2773,16730398.3,109
+UAEM,United Arab Emirates,101,Sydney,All food,5387.2986,21615961.54,110
+ARGE,Argentina,101,Sydney,All food,5331.2029999999995,16570262.02,111
+TURK,Turkiye,501,Fremantle,All food,5119.5588,6396483.49,112
+SWED,Sweden,101,Sydney,All food,5074.5971,84264595.54,113
+VIET,Vietnam,401,Port Adelaide,All food,5023.3064,26466120.090000004,114
+FRAN,France (includes Andorra and Monaco),301,Brisbane,All food,4927.8204000000005,32037605.55,115
+ISRA,Israel,201,Melbourne,All food,4747.5581,32491735.14,116
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,All food,4729.2704,36270441.43,117
+BRAZ,Brazil,301,Brisbane,All food,4684.1754,24942118.560000002,118
+EGYP,Egypt,101,Sydney,All food,4627.9992999999995,12027328.430000002,119
+SPAI,Spain,401,Port Adelaide,All food,4578.686000000001,26391102.41,120
+PERU,Peru,201,Melbourne,All food,4521.801799999999,27213516.92,121
+SPAI,Spain,501,Fremantle,All food,4464.011,25057712.21,122
+SING,Singapore,301,Brisbane,All food,4451.3577000000005,23608232.009999998,123
+IRE,Ireland,101,Sydney,All food,4427.009,37554742.410000004,124
+EGYP,Egypt,201,Melbourne,All food,4380.7236,18833558.369999997,125
+UAEM,United Arab Emirates,201,Melbourne,All food,4350.5979,26228446.22,126
+HONG,Hong Kong (SAR of China),201,Melbourne,All food,4227.0266,17948457.66,127
+CMBD,Cambodia,201,Melbourne,All food,4219.8485,5521584.76,128
+JAP,Japan,501,Fremantle,All food,4160.9183,12427578.66,129
+SWIT,Switzerland (includes Liechtenstein),301,Brisbane,All food,4119.1182,19908059.509999998,130
+PHIL,Philippines,501,Fremantle,All food,4098.9633,10495637.540000001,131
+BELG,Belgium,401,Port Adelaide,All food,3884.5373000000004,11845225.08,132
+SING,Singapore,501,Fremantle,All food,3777.1668999999997,156483750.76999998,133
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",401,Port Adelaide,All food,3773.5261,12910687.81,134
+MEXI,Mexico,301,Brisbane,All food,3705.5596,10479506.64,135
+FIJI,Fiji,201,Melbourne,All food,3620.1667,9012340.72,136
+USA,United States of America,501,Fremantle,All food,3547.245,12177186.68,137
+PSIA,Iran,101,Sydney,All food,3462.8401999999996,10184092.67,138
+PERU,Peru,101,Sydney,All food,3406.8089,21582671.13,139
+NWAY,Norway,201,Melbourne,All food,3357.6882,14012544.73,140
+CHLE,Chile,301,Brisbane,All food,3303.9142,17996309.69,141
+CAN,Canada,301,Brisbane,All food,3301.1313,20439743.71,142
+PSIA,Iran,201,Melbourne,All food,3265.8625999999995,4795306.28,143
+ASTA,Austria,401,Port Adelaide,All food,3233.5599,6607999.77,144
+PAKI,Pakistan,501,Fremantle,All food,3212.8502,7112087.71,145
+FIJI,Fiji,101,Sydney,All food,3202.1841,6063740.98,146
+TURK,Turkiye,301,Brisbane,All food,3198.4529,15112749.790000001,147
+CMBD,Cambodia,101,Sydney,All food,3136.7885,4398580.03,148
+CMBD,Cambodia,301,Brisbane,All food,3038.2425,12076786.02,149
+TAIW,Taiwan,501,Fremantle,All food,2988.4498000000003,8675580.57,150
+PAKI,Pakistan,301,Brisbane,All food,2978.8962,5729941.29,151
+USA,United States of America,401,Port Adelaide,All food,2977.4964,14891401.8,152
+FGMY,Germany,501,Fremantle,All food,2914.9079,16696908.64,153
+LITH,Lithuania,201,Melbourne,All food,2906.6852,12655859.33,154
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,All food,2709.3466,19441895.32,155
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",501,Fremantle,All food,2675.5379000000003,12909509.760000002,156
+HGRY,Hungary,101,Sydney,All food,2622.5221,8645517.629999999,157
+BADE,Bangladesh,201,Melbourne,All food,2582.3931000000002,6545899.66,158
+INDO,Indonesia,401,Port Adelaide,All food,2577.1221,42604074.480000004,159
+FRAN,France (includes Andorra and Monaco),501,Fremantle,All food,2510.6497,14749432.120000001,160
+NWAY,Norway,101,Sydney,All food,2463.3331,40150722.33,161
+PORT,Portugal,201,Melbourne,All food,2401.2879,10375766.83,162
+LITH,Lithuania,101,Sydney,All food,2396.6939,7660191.4,163
+BURM,Myanmar,201,Melbourne,All food,2395.064,14129915.639999999,164
+BADE,Bangladesh,101,Sydney,All food,2360.976,5215865.54,165
+SWIT,Switzerland (includes Liechtenstein),501,Fremantle,All food,2302.6317,29655423.62,166
+IVOR,Cote d'Ivoire,201,Melbourne,All food,2283.106,55394390.64,167
+NWAY,Norway,301,Brisbane,All food,2183.4479,42233823.72,168
+FIJI,Fiji,301,Brisbane,All food,2155.6621,5511741.890000001,169
+CYPR,Cyprus,101,Sydney,All food,2126.6476,25384903.12,170
+CROA,Croatia,101,Sydney,All food,2121.7104,8106817.749999999,171
+AUST,Australia (Re-imports),201,Melbourne,All food,2110.6248,12583775.9,172
+COMB,Colombia,101,Sydney,All food,2106.4907,6285116.57,173
+COMB,Colombia,201,Melbourne,All food,2091.1857,7701017.66,174
+CZEH,Czechia,101,Sydney,All food,2054.8208,15036509.450000001,175
+ECUA,Ecuador,201,Melbourne,All food,2023.8690000000001,8688697.18,176
+UKRA,Ukraine,101,Sydney,All food,1979.6719,5794051.02,177
+NZ,New Zealand,401,Port Adelaide,All food,1978.8526000000002,8278379.05,178
+SERB,Serbia,201,Melbourne,All food,1959.1799999999998,6286218.77,179
+NCD,No Country Details,999,Conf Aust Ports,All food,1954.8489,20300077.56,180
+NEPA,Nepal,101,Sydney,All food,1870.2885,3630756.96,181
+GREE,Greece,401,Port Adelaide,All food,1834.232,8072431.54,182
+AUST,Australia (Re-imports),101,Sydney,All food,1810.4492,8253476.4,183
+CHLE,Chile,501,Fremantle,All food,1779.212,10128342.950000001,184
+JAP,Japan,401,Port Adelaide,All food,1765.4662,3214092.36,185
+GREE,Greece,301,Brisbane,All food,1752.3961000000002,5974775.4799999995,186
+ARGE,Argentina,301,Brisbane,All food,1737.6381999999999,5056922.81,187
+LEBA,Lebanon,201,Melbourne,All food,1677.9766,5167842.1,188
+ISRA,Israel,301,Brisbane,All food,1637.6709,13511709.29,189
+UKRA,Ukraine,201,Melbourne,All food,1552.1019000000001,4110150.5,190
+FYRM,North Macedonia,101,Sydney,All food,1549.8985,4071171.62,191
+IRAQ,Iraq,101,Sydney,All food,1421.7463,843399.89,192
+JORD,Jordan,101,Sydney,All food,1413.3991,4745551.53,193
+SAFR,South Africa,501,Fremantle,All food,1398.8309,7121894.26,194
+TNGA,Tonga,101,Sydney,All food,1395.792,1868434.08,195
+SRIL,Sri Lanka,301,Brisbane,All food,1366.2017,6356764.34,196
+GREE,Greece,501,Fremantle,All food,1365.9714,4491135.7700000005,197
+CZEH,Czechia,201,Melbourne,All food,1364.1767,10258742.379999999,198
+EGYP,Egypt,501,Fremantle,All food,1356.4656,3055653.25,199
+TURK,Turkiye,401,Port Adelaide,All food,1339.5863,5501903.49,200
+SAFR,South Africa,301,Brisbane,All food,1327.512,6958859.87,201
+PORT,Portugal,101,Sydney,All food,1304.4172,6111097.18,202
+SING,Singapore,401,Port Adelaide,All food,1262.0872,9924380.43,203
+SYRI,Syria,101,Sydney,All food,1255.5108,3631977.6,204
+CROA,Croatia,201,Melbourne,All food,1241.6874,3098990.41,205
+OMAN,Oman,101,Sydney,All food,1204.3446999999999,1402677.74,206
+BULG,Bulgaria,101,Sydney,All food,1195.1719,7772561.01,207
+GERG,Georgia,201,Melbourne,All food,1147.281,2067374.92,208
+GMLA,Guatemala,101,Sydney,All food,1134.428,3134482.01,209
+CMBD,Cambodia,401,Port Adelaide,All food,1132.6756,4497945.01,210
+HONG,Hong Kong (SAR of China),301,Brisbane,All food,1121.0599,3485150.96,211
+ISRA,Israel,101,Sydney,All food,1111.7269999999999,10101952.52,212
+POLA,Poland,401,Port Adelaide,All food,1106.76,5743285.19,213
+BURM,Myanmar,101,Sydney,All food,1092.3494,5890108.54,214
+KENY,Kenya,301,Brisbane,All food,1014.9054,3337861.86,215
+IRE,Ireland,501,Fremantle,All food,1012.7526,7059600.14,216
+MLAY,Malaysia,305,Gladstone,All food,1005.8,12440995.5,217
+RKOR,"Korea, Republic of (South)",401,Port Adelaide,All food,988.5925,3161585.98,218
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,All food,973.8761000000001,6548875.31,219
+BOLI,Bolivia,201,Melbourne,All food,970.2396,7447945.07,220
+POLA,Poland,501,Fremantle,All food,962.2978,7051097.35,221
+SERB,Serbia,101,Sydney,All food,950.8773,4766853.26,222
+BULG,Bulgaria,201,Melbourne,All food,925.4592,4204155.890000001,223
+SWIT,Switzerland (includes Liechtenstein),401,Port Adelaide,All food,922.0418,1935739.62,224
+TAIW,Taiwan,401,Port Adelaide,All food,910.9443,1875187.21,225
+HGRY,Hungary,201,Melbourne,All food,907.4773,2865316.5999999996,226
+VIET,Vietnam,999,Conf Aust Ports,All food,891.8362,17450578.75,227
+ECUA,Ecuador,101,Sydney,All food,861.3554,1664755.81,228
+MORO,Morocco,101,Sydney,All food,849.1697999999999,3808232.73,229
+AUST,Australia (Re-imports),301,Brisbane,All food,844.6374000000001,9363687.38,230
+SAUD,Saudi Arabia,201,Melbourne,All food,844.3276000000001,2635772.36,231
+MEXI,Mexico,401,Port Adelaide,All food,834.0282000000001,3371260.7,232
+IRE,Ireland,301,Brisbane,All food,814.2398999999999,20985523.73,233
+SAUD,Saudi Arabia,101,Sydney,All food,801.7986,2292403.6599999997,234
+ALBA,Albania,101,Sydney,All food,795.4015,664623.66,235
+GHAN,Ghana,201,Melbourne,All food,794.7122,14127666.35,236
+CMBD,Cambodia,501,Fremantle,All food,792.9466,944795.43,237
+VANU,Vanuatu,201,Melbourne,All food,787.443,2539545.04,238
+MLAY,Malaysia,312,Townsville,All food,775.3837,1302125.68,239
+FGMY,Germany,401,Port Adelaide,All food,764.1252,2955765.31,240
+MORO,Morocco,201,Melbourne,All food,759.7708,6028112.9399999995,241
+MEXI,Mexico,501,Fremantle,All food,729.8701,1849414.27,242
+HONG,Hong Kong (SAR of China),501,Fremantle,All food,703.7005999999999,1959893.2999999998,243
+LITH,Lithuania,501,Fremantle,All food,689.977,1986099.37,244
+PAKI,Pakistan,401,Port Adelaide,All food,681.1042,1241025.69,245
+COST,Costa Rica,201,Melbourne,All food,681.0653,1924453.4,246
+BOLI,Bolivia,101,Sydney,All food,653.4371,6678792.17,247
+FYRM,North Macedonia,201,Melbourne,All food,636.3403000000001,1876559.2000000002,248
+TNGA,Tonga,201,Melbourne,All food,595.8044,712459.79,249
+TUNI,Tunisia,101,Sydney,All food,587.0125,3550541.64,250
+INIA,India,701,Darwin,All food,585.1905,907403.8,251
+SAFR,South Africa,401,Port Adelaide,All food,582.5536,2286274.86,252
+NAMI,Namibia,201,Melbourne,All food,577.0439,3877478.7600000002,253
+GERG,Georgia,101,Sydney,All food,573.9966,1022715.4,254
+ROUM,Romania,101,Sydney,All food,571.726,3908295.02,255
+TUNI,Tunisia,201,Melbourne,All food,561.0686000000001,3533952.69,256
+DENM,Denmark (includes Greenland and Faroe Islands),401,Port Adelaide,All food,556.2674,3480510.8,257
+THAI,Thailand,701,Darwin,All food,552.2323,1024002.97,258
+SVAK,Slovakia,201,Melbourne,All food,545.0826,7222038.44,259
+MLAY,Malaysia,701,Darwin,All food,542.4582,3468850.96,260
+AUST,Australia (Re-imports),501,Fremantle,All food,531.4374,13019779.379999999,261
+LITH,Lithuania,301,Brisbane,All food,523.7507,1773683.9,262
+ROUM,Romania,201,Melbourne,All food,516.6576,2454523.59,263
+SWED,Sweden,201,Melbourne,All food,502.9004,1629090.04,264
+BADE,Bangladesh,301,Brisbane,All food,492.5589,1216249.21,265
+EGYP,Egypt,301,Brisbane,All food,489.988,1648747.71,266
+WSAM,Samoa,101,Sydney,All food,472.0928,549236.8999999999,267
+ISRA,Israel,401,Port Adelaide,All food,457.454,2179216.74,268
+NAMI,Namibia,401,Port Adelaide,All food,456.70210000000003,3581580.95,269
+BRAZ,Brazil,501,Fremantle,All food,455.4244,3894818.75,270
+CAN,Canada,501,Fremantle,All food,446.6904,1793213.3699999999,271
+COMB,Colombia,301,Brisbane,All food,437.2515,648558.17,272
+ARGE,Argentina,501,Fremantle,All food,435.166,1175882.97,273
+NAMI,Namibia,501,Fremantle,All food,432.9533,2723983.9200000004,274
+BADE,Bangladesh,501,Fremantle,All food,416.4464,1070819.87,275
+CHLE,Chile,401,Port Adelaide,All food,412.39,1920423.4000000001,276
+NWAY,Norway,501,Fremantle,All food,403.3058,5752292.380000001,277
+UAEM,United Arab Emirates,501,Fremantle,All food,400.30989999999997,1291885.1800000002,278
+AFGH,Afghanistan,101,Sydney,All food,399.4813,648142.02,279
+BOLI,Bolivia,301,Brisbane,All food,387.0895,3275801.3099999996,280
+SLOV,Slovenia,201,Melbourne,All food,381.5052,1500517.24,281
+GERG,Georgia,301,Brisbane,All food,377.4046,714694.17,282
+SRIL,Sri Lanka,501,Fremantle,All food,376.7456,1280876.79,283
+NAMI,Namibia,101,Sydney,All food,376.08939999999996,1784321.5499999998,284
+KUWA,Kuwait,101,Sydney,All food,374.59299999999996,380964.37,285
+PHIL,Philippines,401,Port Adelaide,All food,371.084,793625.3400000001,286
+BURM,Myanmar,501,Fremantle,All food,360.6939,3151948.73,287
+SLOV,Slovenia,101,Sydney,All food,360.644,959797.03,288
+ECUA,Ecuador,301,Brisbane,All food,359.3976,803253.92,289
+EGYP,Egypt,401,Port Adelaide,All food,347.3451,783878.88,290
+SVAK,Slovakia,101,Sydney,All food,342.337,570069.08,291
+BRAZ,Brazil,401,Port Adelaide,All food,324.4998,1231836.95,292
+CAN,Canada,401,Port Adelaide,All food,317.3481,1893062.3499999999,293
+GMLA,Guatemala,201,Melbourne,All food,315.2333,360650.27,294
+PERU,Peru,301,Brisbane,All food,313.4313,1748286.4700000002,295
+ICEL,Iceland,101,Sydney,All food,306.855,650424.77,296
+IRE,Ireland,401,Port Adelaide,All food,302.6699,3301359.61,297
+LATV,Latvia,201,Melbourne,All food,295.32480000000004,2196990.58,298
+JORD,Jordan,201,Melbourne,All food,286.4128,1091996.23,299
+GERG,Georgia,401,Port Adelaide,All food,280.193,478918.35,300
+PRGY,Paraguay,101,Sydney,All food,277.6882,426684.28,301
+TNGA,Tonga,301,Brisbane,All food,269.826,486331.99,302
+NAMI,Namibia,301,Brisbane,All food,263.4668,1854708.5299999998,303
+GMLA,Guatemala,301,Brisbane,All food,260.529,463487.19,304
+SRIL,Sri Lanka,401,Port Adelaide,All food,255.70139999999998,1105798.69,305
+ZMBA,Zambia,201,Melbourne,All food,253.546,964339.48,306
+COST,Costa Rica,101,Sydney,All food,246.65890000000002,1003036.02,307
+PNG,Papua New Guinea,201,Melbourne,All food,242.207,1013563.57,308
+LAOS,Laos,201,Melbourne,All food,225.549,364858.6,309
+UZBK,Uzbekistan,101,Sydney,All food,222.237,751712.15,310
+TUNI,Tunisia,501,Fremantle,All food,219.846,1391784.76,311
+PSIA,Iran,401,Port Adelaide,All food,209.24200000000002,201267.28,312
+SWED,Sweden,301,Brisbane,All food,204.132,452070.0,313
+NGRA,Nigeria,201,Melbourne,All food,191.7931,168459.39,314
+PSIA,Iran,501,Fremantle,All food,191.769,198578.92,315
+BOHR,Bosnia and Herzegovina,201,Melbourne,All food,189.00549999999998,367477.65,316
+UAEM,United Arab Emirates,401,Port Adelaide,All food,188.27,376354.81,317
+OMAN,Oman,201,Melbourne,All food,188.07979999999998,1090603.27,318
+SERB,Serbia,501,Fremantle,All food,187.4952,468938.99000000005,319
+SOLO,Solomon Islands,201,Melbourne,All food,182.2624,515609.67000000004,320
+CYPR,Cyprus,201,Melbourne,All food,177.3768,1998466.94,321
+SYRI,Syria,201,Melbourne,All food,176.495,367348.27,322
+PSIA,Iran,301,Brisbane,All food,174.247,280517.56,323
+FINL,Finland,101,Sydney,All food,169.6906,455973.28,324
+NEPA,Nepal,501,Fremantle,All food,169.06,218622.61,325
+UAEM,United Arab Emirates,301,Brisbane,All food,165.2553,425090.82,326
+GERG,Georgia,501,Fremantle,All food,163.0454,283224.43,327
+GHAN,Ghana,101,Sydney,All food,157.9914,308416.57999999996,328
+UKRA,Ukraine,301,Brisbane,All food,156.251,450001.47,329
+NEPA,Nepal,201,Melbourne,All food,153.2661,362729.7,330
+KENY,Kenya,201,Melbourne,All food,150.8005,316280.54,331
+UGAN,Uganda,201,Melbourne,All food,150.087,133800.08,332
+AZBJ,Azerbaijan,101,Sydney,All food,147.4069,220296.96,333
+KENY,Kenya,101,Sydney,All food,145.982,785445.14,334
+ESTO,Estonia,101,Sydney,All food,145.7697,486861.93000000005,335
+ESTO,Estonia,201,Melbourne,All food,145.0765,925117.79,336
+FINL,Finland,201,Melbourne,All food,134.9117,360131.83,337
+FYRM,North Macedonia,501,Fremantle,All food,128.7208,415050.13,338
+SAFR,South Africa,999,Conf Aust Ports,All food,128.46,1886352.87,339
+BOHR,Bosnia and Herzegovina,101,Sydney,All food,127.84559999999999,235007.01,340
+NGRA,Nigeria,101,Sydney,All food,127.667,99948.9,341
+BHRN,Bahrain,101,Sydney,All food,125.7121,197028.9,342
+INDO,Indonesia,701,Darwin,All food,124.962,4323692.82,343
+TANZ,Tanzania,301,Brisbane,All food,121.15,517980.45999999996,344
+BULG,Bulgaria,401,Port Adelaide,All food,120.613,629707.62,345
+LAOS,Laos,101,Sydney,All food,111.8745,179537.94,346
+MORO,Morocco,301,Brisbane,All food,111.628,379589.47,347
+CHIN,China (excludes SARs and Taiwan),701,Darwin,All food,111.45230000000001,1062122.82,348
+JORD,Jordan,501,Fremantle,All food,111.1463,300849.59,349
+SAUD,Saudi Arabia,501,Fremantle,All food,109.669,472090.57,350
+RUSS,Russian Federation,201,Melbourne,All food,107.6577,89066.46,351
+PALA,Palestine,101,Sydney,All food,107.563,1190717.06,352
+BURK,Burkina Faso,201,Melbourne,All food,107.271,404923.5,353
+MASY,Madagascar,101,Sydney,All food,104.0932,1243475.6,354
+MDOV,Moldova,101,Sydney,All food,103.77940000000001,212623.91,355
+LEBA,Lebanon,501,Fremantle,All food,103.43499999999999,289320.0,356
+BADE,Bangladesh,401,Port Adelaide,All food,103.2936,94494.32,357
+ROUM,Romania,501,Fremantle,All food,98.5376,138459.15,358
+CZEH,Czechia,301,Brisbane,All food,97.9595,639257.71,359
+CHIN,China (excludes SARs and Taiwan),312,Townsville,All food,95.51,137764.39,360
+PNG,Papua New Guinea,101,Sydney,All food,93.1591,597454.25,361
+ICEL,Iceland,201,Melbourne,All food,92.5761,524187.16,362
+LATV,Latvia,101,Sydney,All food,89.495,853645.4299999999,363
+PALA,Palestine,201,Melbourne,All food,88.068,991070.2,364
+AUST,Australia (Re-imports),401,Port Adelaide,All food,87.6405,654465.0,365
+LITH,Lithuania,401,Port Adelaide,All food,87.1451,261776.85,366
+FYRM,North Macedonia,301,Brisbane,All food,86.94,392544.11,367
+BULG,Bulgaria,301,Brisbane,All food,86.2548,238346.08000000002,368
+NZ,New Zealand,605,Launceston,All food,86.2526,631319.0,369
+IVOR,Cote d'Ivoire,501,Fremantle,All food,82.8,2510000.0,370
+COST,Costa Rica,301,Brisbane,All food,76.518,364890.77,371
+ZIMB,Zimbabwe,101,Sydney,All food,74.25399999999999,81367.48999999999,372
+THAI,Thailand,312,Townsville,All food,72.831,78537.51,373
+SOLO,Solomon Islands,301,Brisbane,All food,71.4393,520373.16,374
+ISRA,Israel,501,Fremantle,All food,71.1987,482709.01999999996,375
+RWAN,Rwanda,201,Melbourne,All food,70.148,308629.07,376
+SWED,Sweden,501,Fremantle,All food,68.4259,462567.47,377
+CROA,Croatia,401,Port Adelaide,All food,67.246,49442.82000000001,378
+DOMI,Dominican Republic,101,Sydney,All food,64.1184,517121.96,379
+CROA,Croatia,501,Fremantle,All food,63.6316,119034.98,380
+TANZ,Tanzania,101,Sydney,All food,63.315,682249.61,381
+BHRN,Bahrain,201,Melbourne,All food,63.102999999999994,317944.74,382
+FYRM,North Macedonia,401,Port Adelaide,All food,62.601,219432.0,383
+PORT,Portugal,301,Brisbane,All food,61.536899999999996,502558.76,384
+MLAY,Malaysia,601,Hobart,All food,61.309,96059.47,385
+JAP,Japan,701,Darwin,All food,59.0768,66795.81,386
+SLEO,Sierra Leone,101,Sydney,All food,58.08,62089.21,387
+CHRI,Christmas Island,101,Sydney,All food,56.2382,210697.32,388
+HONG,Hong Kong (SAR of China),401,Port Adelaide,All food,56.1026,193579.4,389
+RUSS,Russian Federation,101,Sydney,All food,55.4318,27765.22,390
+BULG,Bulgaria,501,Fremantle,All food,54.9835,63879.58,391
+PAKI,Pakistan,701,Darwin,All food,54.9681,133591.22,392
+SAUD,Saudi Arabia,401,Port Adelaide,All food,54.2704,138201.53,393
+NGRA,Nigeria,501,Fremantle,All food,53.56,50569.44,394
+ESTO,Estonia,401,Port Adelaide,All food,52.278,506245.39,395
+UKRA,Ukraine,501,Fremantle,All food,52.0708,203367.66,396
+ESTO,Estonia,301,Brisbane,All food,51.154,763837.09,397
+MLAY,Malaysia,605,Launceston,All food,49.9776,72417.12,398
+NEPA,Nepal,301,Brisbane,All food,49.527,72603.81,399
+OMAN,Oman,501,Fremantle,All food,49.4395,198061.38999999998,400
+UGAN,Uganda,501,Fremantle,All food,49.008,117186.44,401
+LEBA,Lebanon,401,Port Adelaide,All food,48.621,6858.94,402
+TANZ,Tanzania,201,Melbourne,All food,48.565,72275.17,403
+COST,Costa Rica,401,Port Adelaide,All food,46.812,269096.0,404
+AFGH,Afghanistan,401,Port Adelaide,All food,45.55,79553.7,405
+KUWA,Kuwait,201,Melbourne,All food,45.333,75452.84,406
+COMB,Colombia,501,Fremantle,All food,45.0656,163743.97,407
+IRAQ,Iraq,201,Melbourne,All food,44.480000000000004,23067.82,408
+UGAN,Uganda,301,Brisbane,All food,43.675,47620.85,409
+LIBE,Liberia,501,Fremantle,All food,43.32,37954.62,410
+DOMI,Dominican Republic,201,Melbourne,All food,42.92,581902.8,411
+NCAL,New Caledonia,201,Melbourne,All food,42.5,1172096.5,412
+PERU,Peru,401,Port Adelaide,All food,41.41,245424.78999999998,413
+NEPA,Nepal,401,Port Adelaide,All food,41.126,112851.14,414
+SAMO,"Samoa, American",101,Sydney,All food,40.226,245324.77,415
+INIA,India,598,Other Ports WA,All food,40.1301,98503.89,416
+SLOV,Slovenia,401,Port Adelaide,All food,37.063,27860.79,417
+MAUS,Mauritius,101,Sydney,All food,36.001999999999995,336915.89,418
+ALGR,Algeria,201,Melbourne,All food,35.145,140805.58,419
+SERB,Serbia,401,Port Adelaide,All food,31.942,96574.74,420
+GHAN,Ghana,501,Fremantle,All food,31.867,32015.94,421
+PORT,Portugal,401,Port Adelaide,All food,31.7953,182442.59999999998,422
+BAHA,Bahamas,201,Melbourne,All food,31.661,2128418.35,423
+HGRY,Hungary,301,Brisbane,All food,31.1423,54100.98,424
+MLTA,Malta,101,Sydney,All food,30.9017,54489.28,425
+LEBA,Lebanon,301,Brisbane,All food,30.9,24455.0,426
+COOK,Cook Islands,101,Sydney,All food,30.7202,95076.7,427
+LUX,Luxembourg,201,Melbourne,All food,30.5071,122326.26,428
+BELE,Belize,301,Brisbane,All food,30.475,597922.86,429
+NICA,Nicaragua,101,Sydney,All food,30.4273,1862382.3,430
+IVOR,Cote d'Ivoire,101,Sydney,All food,30.086,173638.42,431
+CROA,Croatia,301,Brisbane,All food,30.074,18363.9,432
+KENY,Kenya,501,Fremantle,All food,29.872,65707.68000000001,433
+SYRI,Syria,501,Fremantle,All food,29.36,21000.89,434
+ETHI,Ethiopia,201,Melbourne,All food,29.0962,24925.45,435
+BURM,Myanmar,301,Brisbane,All food,28.8658,300415.87,436
+SLOV,Slovenia,301,Brisbane,All food,28.8241,45952.13,437
+STHE,St Helena,201,Melbourne,All food,28.723,912493.54,438
+ZIMB,Zimbabwe,301,Brisbane,All food,28.64,1612.55,439
+MOZA,Mozambique,501,Fremantle,All food,28.43,375873.53,440
+PNG,Papua New Guinea,301,Brisbane,All food,27.643,263661.91000000003,441
+NWAY,Norway,401,Port Adelaide,All food,27.5809,164375.97,442
+LUX,Luxembourg,101,Sydney,All food,27.0586,14433.9,443
+LBYA,Libya,201,Melbourne,All food,27.0,59575.13,444
+LIBE,Liberia,101,Sydney,All food,26.23,1710.13,445
+DJIB,Djibouti,201,Melbourne,All food,25.839,19746.69,446
+SAUD,Saudi Arabia,301,Brisbane,All food,25.814,60758.31,447
+KAZA,Kazakhstan,101,Sydney,All food,25.15,64711.54,448
+VIET,Vietnam,701,Darwin,All food,24.996,42143.18,449
+KYRG,Kyrgyzstan,301,Brisbane,All food,24.7733,59284.81,450
+HONG,Hong Kong (SAR of China),999,Conf Aust Ports,All food,24.3539,338205.97,451
+CMBD,Cambodia,701,Darwin,All food,24.12,32001.15,452
+PERU,Peru,501,Fremantle,All food,23.84,123420.34,453
+MAUS,Mauritius,201,Melbourne,All food,23.459699999999998,42387.869999999995,454
+MLTA,Malta,201,Melbourne,All food,23.0993,77202.2,455
+ARMN,Armenia,101,Sydney,All food,22.886,23684.89,456
+FINL,Finland,301,Brisbane,All food,22.786,142036.61,457
+SWZI,Eswatini,201,Melbourne,All food,22.618,15464.96,458
+LAOS,Laos,301,Brisbane,All food,22.242,38557.83,459
+HGRY,Hungary,401,Port Adelaide,All food,22.225,50214.68,460
+ARGE,Argentina,401,Port Adelaide,All food,22.02,80655.75,461
+GHAN,Ghana,301,Brisbane,All food,21.99,5803.57,462
+LATV,Latvia,301,Brisbane,All food,21.668,222632.36,463
+OMAN,Oman,301,Brisbane,All food,21.6266,134619.93,464
+ITAL,Italy (includes Holy See and San Marino),701,Darwin,All food,21.625,29478.06,465
+NZ,New Zealand,602,Burnie,All food,21.5,30280.7,466
+CHIN,China (excludes SARs and Taiwan),605,Launceston,All food,21.403,44399.23,467
+THAI,Thailand,598,Other Ports WA,All food,21.3904,40902.92,468
+IVOR,Cote d'Ivoire,301,Brisbane,All food,21.378,493681.13,469
+IRAQ,Iraq,501,Fremantle,All food,21.3,14006.65,470
+NCAL,New Caledonia,301,Brisbane,All food,21.26,587851.86,471
+UGAN,Uganda,401,Port Adelaide,All food,21.08,28893.74,472
+MAUS,Mauritius,501,Fremantle,All food,21.0476,25316.09,473
+NGRA,Nigeria,401,Port Adelaide,All food,21.0,14711.49,474
+SING,Singapore,701,Darwin,All food,20.9952,51304.9,475
+RICO,Puerto Rico,101,Sydney,All food,20.32,105276.85,476
+MALI,Mali,201,Melbourne,All food,20.28,41249.48,477
+SLEO,Sierra Leone,201,Melbourne,All food,19.999299999999998,33603.32,478
+ICEL,Iceland,401,Port Adelaide,All food,19.922,540500.34,479
+GMLA,Guatemala,312,Townsville,All food,19.804,21287.58,480
+CZEH,Czechia,501,Fremantle,All food,19.3201,68112.3,481
+TUNI,Tunisia,301,Brisbane,All food,18.355,34647.1,482
+MEXI,Mexico,701,Darwin,All food,18.306,34700.14,483
+UZBK,Uzbekistan,501,Fremantle,All food,18.3,149003.04,484
+JMCA,Jamaica,101,Sydney,All food,18.2258,21219.36,485
+INDO,Indonesia,312,Townsville,All food,18.0,43007.04,486
+TNGA,Tonga,102,Newcastle,All food,17.5185,33122.73,487
+ZIMB,Zimbabwe,201,Melbourne,All food,16.948999999999998,6103.3,488
+SERB,Serbia,301,Brisbane,All food,16.6212,112756.9,489
+ALBA,Albania,401,Port Adelaide,All food,16.4659,81730.47,490
+RUSS,Russian Federation,301,Brisbane,All food,16.3722,32394.78,491
+BAHA,Bahamas,101,Sydney,All food,16.3293,1159565.06,492
+RKOR,"Korea, Republic of (South)",999,Conf Aust Ports,All food,15.812,344157.3,493
+PORT,Portugal,501,Fremantle,All food,15.356,128905.44,494
+BARB,Barbados,101,Sydney,All food,14.8928,49147.56,495
+WSAM,Samoa,201,Melbourne,All food,14.693,13640.67,496
+OMAN,Oman,401,Port Adelaide,All food,14.3212,91448.69,497
+STHE,St Helena,101,Sydney,All food,14.245,457618.63,498
+TNGA,Tonga,401,Port Adelaide,All food,14.06,1126.4,499
+GUIN,Guinea,101,Sydney,All food,13.35,8171.19,500
+VANU,Vanuatu,101,Sydney,All food,12.837,24577.3,501
+TANZ,Tanzania,401,Port Adelaide,All food,12.6504,8118.83,502
+BELE,Belize,101,Sydney,All food,12.64,544313.73,503
+ANTC,"Antarctica, nfd",601,Hobart,All food,12.4,5014.07,504
+THAI,Thailand,999,Conf Aust Ports,All food,12.3136,276710.81,505
+SOLO,Solomon Islands,101,Sydney,All food,12.214,45804.12,506
+FIJI,Fiji,102,Newcastle,All food,12.200000000000001,25607.21,507
+FIJI,Fiji,501,Fremantle,All food,12.186,12270.6,508
+BHRN,Bahrain,501,Fremantle,All food,11.5,43333.96,509
+BARB,Barbados,201,Melbourne,All food,11.2922,35752.19,510
+HDRS,Honduras,101,Sydney,All food,11.0995,143603.13,511
+CYPR,Cyprus,301,Brisbane,All food,10.64,15449.65,512
+AFGH,Afghanistan,301,Brisbane,All food,10.521,16243.96,513
+NEPA,Nepal,701,Darwin,All food,10.138,5574.45,514
+RKOR,"Korea, Republic of (South)",398,Other Ports Qld,All food,9.6641,5889.45,515
+ZAIR,"Congo, Democratic Republic of",501,Fremantle,All food,9.525,3016.57,516
+ESTO,Estonia,501,Fremantle,All food,9.254999999999999,98335.4,517
+SEYC,Seychelles,101,Sydney,All food,9.2064,132186.33,518
+BELE,Belize,201,Melbourne,All food,9.058300000000001,458464.37,519
+BAHA,Bahamas,301,Brisbane,All food,8.5729,624089.23,520
+NZ,New Zealand,312,Townsville,All food,8.4004,94914.21,521
+TAIW,Taiwan,701,Darwin,All food,7.89,22569.51,522
+LATV,Latvia,501,Fremantle,All food,7.8757,113404.63,523
+LUX,Luxembourg,301,Brisbane,All food,7.7524,92185.88,524
+SENE,Senegal,101,Sydney,All food,7.7433,2987.04,525
+ANTC,"Antarctica, nfd",101,Sydney,All food,7.524,1371.19,526
+ALBA,Albania,301,Brisbane,All food,7.38,70495.52,527
+KYRG,Kyrgyzstan,101,Sydney,All food,6.93,26006.0,528
+OMAN,Oman,701,Darwin,All food,6.8604,42469.66,529
+SWED,Sweden,401,Port Adelaide,All food,6.6894,58920.78,530
+URUG,Uruguay,201,Melbourne,All food,6.3274,45938.83,531
+MASY,Madagascar,501,Fremantle,All food,4.4061,132910.81,532
+ETMR,Timor-Leste,701,Darwin,All food,4.1,5205.89,533
+SRIL,Sri Lanka,701,Darwin,All food,3.8,23370.11,534
+ETHI,Ethiopia,101,Sydney,All food,3.455,9269.55,535
+BOTS,Botswana,501,Fremantle,All food,2.8928,29257.05,536
+MLDV,Maldives,101,Sydney,All food,2.8224,39602.72,537
+PLYN,French Polynesia,301,Brisbane,All food,2.167,19796.41,538
+USA,United States of America,605,Launceston,All food,1.914,331526.78,539
+JMCA,Jamaica,201,Melbourne,All food,1.8,6825.19,540
+RWAN,Rwanda,501,Fremantle,All food,1.48,11170.46,541
+QATA,Qatar,201,Melbourne,All food,1.408,9518.0,542
+PRGY,Paraguay,301,Brisbane,All food,1.035,1628.94,543
+MASY,Madagascar,401,Port Adelaide,All food,0.414,19640.04,544
+NIGE,Niger,501,Fremantle,All food,0.353,3156.25,545
+NZ,New Zealand,101,Sydney,Bakery,15367.8748,87220630.09,1
+MLAY,Malaysia,101,Sydney,Bakery,13914.5423,85992237.46,2
+NZ,New Zealand,201,Melbourne,Bakery,11894.8706,81111416.58,3
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Bakery,11790.3558,45258369.03,4
+INDO,Indonesia,201,Melbourne,Bakery,10793.6987,43800917.27,5
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Bakery,10742.6722,41196679.49,6
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Bakery,10443.1664,72274883.35,7
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Bakery,10314.5173,72165224.26,8
+INDO,Indonesia,301,Brisbane,Bakery,9641.547,41913214.53,9
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Bakery,9435.2342,60588988.73,10
+NZ,New Zealand,301,Brisbane,Bakery,8646.9847,55961824.85,11
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Bakery,8509.0443,61838961.91,12
+MLAY,Malaysia,201,Melbourne,Bakery,7211.4069,21260502.91,13
+INIA,India,201,Melbourne,Bakery,7156.4674,22098115.18,14
+FRAN,France (includes Andorra and Monaco),101,Sydney,Bakery,7082.6565,48618370.94,15
+USA,United States of America,101,Sydney,Bakery,6037.3209,49557170.87,16
+INIA,India,101,Sydney,Bakery,5837.7365,19254788.39,17
+NETH,Netherlands,101,Sydney,Bakery,5584.9822,40430321.17,18
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Bakery,5434.108,55848444.79,19
+THAI,Thailand,201,Melbourne,Bakery,5363.7325,24641044.48,20
+SPAI,Spain,101,Sydney,Bakery,5266.2148,22430983.59,21
+THAI,Thailand,101,Sydney,Bakery,5255.9037,33151321.03,22
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Bakery,4894.171,15208030.85,23
+VIET,Vietnam,101,Sydney,Bakery,4532.3429,17870273.62,24
+GREE,Greece,101,Sydney,Bakery,4359.6131,16415214.5,25
+USA,United States of America,201,Melbourne,Bakery,4176.6046,35821611.5,26
+SING,Singapore,101,Sydney,Bakery,4095.1515,15564575.8,27
+BELG,Belgium,101,Sydney,Bakery,3743.7344,23126905.52,28
+THAI,Thailand,301,Brisbane,Bakery,3717.3613,17391436.8,29
+MLAY,Malaysia,301,Brisbane,Bakery,3633.1023,12490026.6,30
+RKOR,"Korea, Republic of (South)",101,Sydney,Bakery,3565.4518,21037131.41,31
+FGMY,Germany,201,Melbourne,Bakery,3507.1237,18622824.7,32
+BELG,Belgium,201,Melbourne,Bakery,3499.8611,23266818.69,33
+VIET,Vietnam,201,Melbourne,Bakery,3257.1773,13156823.7,34
+CAN,Canada,201,Melbourne,Bakery,3023.994,21193235.15,35
+FGMY,Germany,101,Sydney,Bakery,3020.86,15245590.51,36
+FRAN,France (includes Andorra and Monaco),301,Brisbane,Bakery,2890.7838,20982071.89,37
+POLA,Poland,301,Brisbane,Bakery,2818.2602,11871099.71,38
+NETH,Netherlands,201,Melbourne,Bakery,2675.7572,18820145.28,39
+MLAY,Malaysia,501,Fremantle,Bakery,2642.1135,13293230.35,40
+SING,Singapore,201,Melbourne,Bakery,2405.0011,8599175.88,41
+INDO,Indonesia,501,Fremantle,Bakery,2337.2174,8716719.85,42
+INIA,India,301,Brisbane,Bakery,2265.9122,6218487.19,43
+SPAI,Spain,201,Melbourne,Bakery,2139.2686,8574489.27,44
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,Bakery,2081.7059,6790029.71,45
+CMBD,Cambodia,301,Brisbane,Bakery,2062.3098,10783049.9,46
+THAI,Thailand,401,Port Adelaide,Bakery,2058.7815,4475177.99,47
+FIJI,Fiji,201,Melbourne,Bakery,1973.3612,5507842.36,48
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,Bakery,1810.0052,21217318.19,49
+FRAN,France (includes Andorra and Monaco),501,Fremantle,Bakery,1716.9866,11286327.91,50
+USA,United States of America,301,Brisbane,Bakery,1694.2233,10349262.82,51
+INDO,Indonesia,101,Sydney,Bakery,1668.1353,7571890.41,52
+INIA,India,501,Fremantle,Bakery,1563.8219,4927086.02,53
+TAIW,Taiwan,101,Sydney,Bakery,1563.1816,9158848.18,54
+INIA,India,401,Port Adelaide,Bakery,1456.8126,3147945.38,55
+POLA,Poland,101,Sydney,Bakery,1451.6322,11653267.86,56
+GREE,Greece,201,Melbourne,Bakery,1298.8423,6077167.68,57
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",401,Port Adelaide,Bakery,1264.5945,5309211.51,58
+THAI,Thailand,501,Fremantle,Bakery,1244.2627,5113193.33,59
+POLA,Poland,201,Melbourne,Bakery,1224.2734,8232982.41,60
+CZEH,Czechia,201,Melbourne,Bakery,1203.3563,8689808.51,61
+CAN,Canada,101,Sydney,Bakery,1161.9051,5916844.15,62
+JAP,Japan,101,Sydney,Bakery,1116.272,5978569.8,63
+TURK,Turkiye,201,Melbourne,Bakery,1113.674,3825457.03,64
+JAP,Japan,201,Melbourne,Bakery,1097.8005,5934006.43,65
+TURK,Turkiye,101,Sydney,Bakery,1059.5707,4624815.99,66
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,Bakery,1028.9652,5113436.15,67
+FGMY,Germany,301,Brisbane,Bakery,961.5185,3326109.84,68
+SING,Singapore,301,Brisbane,Bakery,917.769,3499207.35,69
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",501,Fremantle,Bakery,913.4284,7979666.13,70
+PORT,Portugal,201,Melbourne,Bakery,912.5449,5267460.49,71
+PHIL,Philippines,101,Sydney,Bakery,831.8097,5932657.94,72
+PAKI,Pakistan,201,Melbourne,Bakery,811.4098,2835926.67,73
+FIJI,Fiji,101,Sydney,Bakery,791.4202,2207491.12,74
+VIET,Vietnam,301,Brisbane,Bakery,779.2626,2955335.83,75
+PAKI,Pakistan,101,Sydney,Bakery,773.2511,1962665.63,76
+CMBD,Cambodia,401,Port Adelaide,Bakery,763.6531,3958604.78,77
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,Bakery,762.1734,4659692.77,78
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Bakery,730.7612,4615252.58,79
+ISRA,Israel,201,Melbourne,Bakery,686.0696,4969433.61,80
+UAEM,United Arab Emirates,201,Melbourne,Bakery,652.7022,4925338.71,81
+POLA,Poland,401,Port Adelaide,Bakery,638.2006,2973856.01,82
+BADE,Bangladesh,201,Melbourne,Bakery,637.4805,1186737.27,83
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,Bakery,608.9288,3397023.26,84
+FIJI,Fiji,301,Brisbane,Bakery,606.1016,1970183.68,85
+PHIL,Philippines,201,Melbourne,Bakery,597.7208,3828653.19,86
+SAFR,South Africa,101,Sydney,Bakery,576.3671,2278199.68,87
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,Bakery,566.6959,3839752.12,88
+VIET,Vietnam,501,Fremantle,Bakery,553.5152,1396623.47,89
+NETH,Netherlands,301,Brisbane,Bakery,545.8332,3622344.17,90
+SING,Singapore,501,Fremantle,Bakery,541.964,1953217.34,91
+PORT,Portugal,101,Sydney,Bakery,534.4101,3367725.78,92
+TAIW,Taiwan,301,Brisbane,Bakery,526.0468,3334737.18,93
+RKOR,"Korea, Republic of (South)",301,Brisbane,Bakery,525.3001,2920695.26,94
+TAIW,Taiwan,201,Melbourne,Bakery,513.4289,2945420.26,95
+EGYP,Egypt,201,Melbourne,Bakery,504.9663,2383538.57,96
+SERB,Serbia,201,Melbourne,Bakery,501.0783,655865.61,97
+RKOR,"Korea, Republic of (South)",201,Melbourne,Bakery,492.939,2481083.7,98
+LEBA,Lebanon,101,Sydney,Bakery,426.8415,1508118.85,99
+BADE,Bangladesh,101,Sydney,Bakery,405.9853,826401.37,100
+UAEM,United Arab Emirates,101,Sydney,Bakery,384.3884,1738393.28,101
+ROUM,Romania,101,Sydney,Bakery,383.4434,2360459.89,102
+FGMY,Germany,501,Fremantle,Bakery,376.1274,1615265.37,103
+NETH,Netherlands,501,Fremantle,Bakery,365.0442,2518031.88,104
+JAP,Japan,301,Brisbane,Bakery,361.7678,1161081.19,105
+RKOR,"Korea, Republic of (South)",501,Fremantle,Bakery,359.7155,1097595.77,106
+SRIL,Sri Lanka,201,Melbourne,Bakery,358.6791,1409714.18,107
+EGYP,Egypt,101,Sydney,Bakery,353.9667,1142039.64,108
+CZEH,Czechia,101,Sydney,Bakery,344.2144,3529518.9,109
+IRE,Ireland,201,Melbourne,Bakery,317.5711,3788274.35,110
+MEXI,Mexico,101,Sydney,Bakery,314.6871,4572545.45,111
+COMB,Colombia,201,Melbourne,Bakery,304.5369,871049.52,112
+SWED,Sweden,101,Sydney,Bakery,292.9427,1491066.01,113
+USA,United States of America,501,Fremantle,Bakery,277.6453,1674278.14,114
+PSIA,Iran,201,Melbourne,Bakery,273.162,315347.78,115
+GREE,Greece,401,Port Adelaide,Bakery,265.1101,875799.99,116
+PHIL,Philippines,501,Fremantle,Bakery,263.2239,1453202.47,117
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Bakery,257.0041,1641191.97,118
+HONG,Hong Kong (SAR of China),101,Sydney,Bakery,250.8454,4412212.8,119
+SING,Singapore,401,Port Adelaide,Bakery,248.4043,873999.06,120
+COMB,Colombia,101,Sydney,Bakery,246.746,991290.35,121
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,Bakery,243.4111,1008726.08,122
+HONG,Hong Kong (SAR of China),201,Melbourne,Bakery,224.418,2549220.33,123
+MLAY,Malaysia,401,Port Adelaide,Bakery,222.4019,928409.26,124
+NZ,New Zealand,401,Port Adelaide,Bakery,209.7808,1553552.74,125
+ASTA,Austria,101,Sydney,Bakery,209.3893,2417855.84,126
+VIET,Vietnam,401,Port Adelaide,Bakery,203.9237,587516.17,127
+NETH,Netherlands,401,Port Adelaide,Bakery,203.8697,1401264.96,128
+IRE,Ireland,101,Sydney,Bakery,199.8887,1327538.25,129
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,Bakery,190.6437,812829.32,130
+ROUM,Romania,201,Melbourne,Bakery,190.2076,1425398.29,131
+ASTA,Austria,201,Melbourne,Bakery,187.2597,2288955.84,132
+GREE,Greece,301,Brisbane,Bakery,185.5885,678591.8,133
+COMB,Colombia,301,Brisbane,Bakery,165.4145,152924.41,134
+EGYP,Egypt,401,Port Adelaide,Bakery,162.1749,458483.82,135
+TAIW,Taiwan,501,Fremantle,Bakery,159.0622,463120.5,136
+SERB,Serbia,101,Sydney,Bakery,156.7564,440933.37,137
+HGRY,Hungary,201,Melbourne,Bakery,155.2688,964037.33,138
+OMAN,Oman,201,Melbourne,Bakery,149.772,946219.13,139
+OMAN,Oman,101,Sydney,Bakery,147.6222,872204.23,140
+NZ,New Zealand,501,Fremantle,Bakery,146.0564,928425.62,141
+CROA,Croatia,101,Sydney,Bakery,144.8927,725633.23,142
+BELG,Belgium,301,Brisbane,Bakery,143.8237,978312.75,143
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,Bakery,142.5254,1099305.63,144
+BADE,Bangladesh,301,Brisbane,Bakery,137.048,167422.94,145
+SAFR,South Africa,201,Melbourne,Bakery,134.133,740405.59,146
+SAUD,Saudi Arabia,101,Sydney,Bakery,131.209,157109.2,147
+INDO,Indonesia,401,Port Adelaide,Bakery,115.3151,603277.98,148
+FYRM,North Macedonia,101,Sydney,Bakery,114.5728,271338.44,149
+GREE,Greece,501,Fremantle,Bakery,113.9612,462860.69,150
+UAEM,United Arab Emirates,301,Brisbane,Bakery,112.7084,372234.76,151
+SAFR,South Africa,501,Fremantle,Bakery,112.24,110529.99,152
+JAP,Japan,501,Fremantle,Bakery,109.4901,399215.03,153
+PAKI,Pakistan,501,Fremantle,Bakery,105.1414,283021.36,154
+BADE,Bangladesh,501,Fremantle,Bakery,93.626,204967.54,155
+BELG,Belgium,501,Fremantle,Bakery,92.4272,642489.97,156
+CZEH,Czechia,301,Brisbane,Bakery,92.0588,626380.89,157
+IRAQ,Iraq,101,Sydney,Bakery,91.434,17511.22,158
+NEPA,Nepal,101,Sydney,Bakery,84.1075,369126.41,159
+PSIA,Iran,101,Sydney,Bakery,83.97,81904.42,160
+SPAI,Spain,501,Fremantle,Bakery,78.2927,319865.69,161
+CAN,Canada,301,Brisbane,Bakery,77.2453,266948.14,162
+SRIL,Sri Lanka,101,Sydney,Bakery,76.4337,296411.38,163
+CROA,Croatia,201,Melbourne,Bakery,71.865,454481.84,164
+FGMY,Germany,401,Port Adelaide,Bakery,69.2012,438627.17,165
+UAEM,United Arab Emirates,501,Fremantle,Bakery,67.4826,214960.7,166
+RKOR,"Korea, Republic of (South)",401,Port Adelaide,Bakery,66.1171,221053.56,167
+ISRA,Israel,101,Sydney,Bakery,61.507,612831.06,168
+MDOV,Moldova,101,Sydney,Bakery,61.1993,50264.1,169
+MEXI,Mexico,401,Port Adelaide,Bakery,61.0572,1030309.44,170
+SPAI,Spain,401,Port Adelaide,Bakery,60.9284,736937.45,171
+LITH,Lithuania,201,Melbourne,Bakery,59.8635,475694.04,172
+BULG,Bulgaria,201,Melbourne,Bakery,56.2779,382022.18,173
+POLA,Poland,501,Fremantle,Bakery,56.2394,345169.06,174
+BRAZ,Brazil,201,Melbourne,Bakery,56.0546,132261.06,175
+LITH,Lithuania,101,Sydney,Bakery,54.5812,89294.09,176
+ISRA,Israel,301,Brisbane,Bakery,51.4681,356800.44,177
+PHIL,Philippines,301,Brisbane,Bakery,49.1791,223823.44,178
+SAFR,South Africa,301,Brisbane,Bakery,48.45,112389.62,179
+BULG,Bulgaria,101,Sydney,Bakery,47.8033,385317.48,180
+LEBA,Lebanon,201,Melbourne,Bakery,43.9372,260993.77,181
+EGYP,Egypt,501,Fremantle,Bakery,43.8706,133820.13,182
+UAEM,United Arab Emirates,401,Port Adelaide,Bakery,40.97,154042.68,183
+EGYP,Egypt,301,Brisbane,Bakery,38.3362,127499.95,184
+BOHR,Bosnia and Herzegovina,101,Sydney,Bakery,38.0806,144669.94,185
+TURK,Turkiye,501,Fremantle,Bakery,32.5743,148550.21,186
+OMAN,Oman,501,Fremantle,Bakery,32.1745,190776.31,187
+FYRM,North Macedonia,501,Fremantle,Bakery,31.6101,27935.96,188
+BOHR,Bosnia and Herzegovina,201,Melbourne,Bakery,30.6748,128473.26,189
+JORD,Jordan,501,Fremantle,Bakery,30.4012,36813.81,190
+BRAZ,Brazil,101,Sydney,Bakery,30.3473,21239.55,191
+FINL,Finland,201,Melbourne,Bakery,28.6627,166165.17,192
+AUST,Australia (Re-imports),101,Sydney,Bakery,28.0627,202966.08,193
+UKRA,Ukraine,501,Fremantle,Bakery,26.6408,133369.72,194
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,Bakery,25.5767,365332.39,195
+DENM,Denmark (includes Greenland and Faroe Islands),401,Port Adelaide,Bakery,24.5676,148458.66,196
+MEXI,Mexico,501,Fremantle,Bakery,24.3909,402984.74,197
+SWED,Sweden,501,Fremantle,Bakery,23.612,171655.03,198
+BULG,Bulgaria,301,Brisbane,Bakery,22.3258,131060.06,199
+OMAN,Oman,301,Brisbane,Bakery,21.6266,134619.93,200
+CAN,Canada,501,Fremantle,Bakery,21.5181,182139.38,201
+FYRM,North Macedonia,401,Port Adelaide,Bakery,20.968,83700.15,202
+FINL,Finland,101,Sydney,Bakery,20.8336,76212.95,203
+HONG,Hong Kong (SAR of China),301,Brisbane,Bakery,20.232,161722.52,204
+USA,United States of America,401,Port Adelaide,Bakery,20.143,334502.17,205
+PAKI,Pakistan,401,Port Adelaide,Bakery,19.3886,29582.2,206
+TAIW,Taiwan,401,Port Adelaide,Bakery,19.2176,50984.37,207
+SPAI,Spain,301,Brisbane,Bakery,19.1876,133599.45,208
+HONG,Hong Kong (SAR of China),501,Fremantle,Bakery,18.9332,187300.75,209
+JORD,Jordan,101,Sydney,Bakery,18.7815,57962.93,210
+PAKI,Pakistan,301,Brisbane,Bakery,18.0742,14758.26,211
+MAUS,Mauritius,501,Fremantle,Bakery,18.0,17832.06,212
+ECUA,Ecuador,101,Sydney,Bakery,17.2218,169440.88,213
+CAN,Canada,401,Port Adelaide,Bakery,16.703,1634.83,214
+JAP,Japan,401,Port Adelaide,Bakery,15.7787,5007.52,215
+SLOV,Slovenia,101,Sydney,Bakery,15.759,55253.38,216
+SLOV,Slovenia,201,Melbourne,Bakery,15.4642,54400.42,217
+WSAM,Samoa,201,Melbourne,Bakery,14.693,13640.67,218
+OMAN,Oman,401,Port Adelaide,Bakery,14.3212,91448.69,219
+FYRM,North Macedonia,201,Melbourne,Bakery,14.2172,51258.06,220
+SLOV,Slovenia,301,Brisbane,Bakery,14.0504,43988.04,221
+NWAY,Norway,101,Sydney,Bakery,13.77,30799.97,222
+CYPR,Cyprus,201,Melbourne,Bakery,13.5828,4439.84,223
+MEXI,Mexico,201,Melbourne,Bakery,12.484,109120.55,224
+MAUS,Mauritius,201,Melbourne,Bakery,12.1357,35052.78,225
+BARB,Barbados,201,Melbourne,Bakery,11.2922,35752.19,226
+SYRI,Syria,501,Fremantle,Bakery,10.51,12350.53,227
+ARGE,Argentina,201,Melbourne,Bakery,9.6491,42007.56,228
+IRE,Ireland,501,Fremantle,Bakery,9.272,1384.98,229
+TURK,Turkiye,301,Brisbane,Bakery,9.2364,85284.23,230
+SRIL,Sri Lanka,501,Fremantle,Bakery,8.4375,26980.94,231
+UKRA,Ukraine,101,Sydney,Bakery,8.194,31785.54,232
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,Bakery,8.124,8821.36,233
+CYPR,Cyprus,101,Sydney,Bakery,8.0822,1244.92,234
+ASTA,Austria,301,Brisbane,Bakery,7.8192,67893.63,235
+OMAN,Oman,701,Darwin,Bakery,6.8604,42469.66,236
+CROA,Croatia,501,Fremantle,Bakery,6.5431,17399.87,237
+LEBA,Lebanon,501,Fremantle,Bakery,5.46,19536.14,238
+UKRA,Ukraine,201,Melbourne,Bakery,5.2873,72030.63,239
+FYRM,North Macedonia,301,Brisbane,Bakery,4.856,8825.35,240
+INIA,India,701,Darwin,Bakery,4.785,6371.86,241
+ROUM,Romania,501,Fremantle,Bakery,2.7376,24988.53,242
+ESTO,Estonia,501,Fremantle,Bakery,2.556,24941.89,243
+NWAY,Norway,201,Melbourne,Bakery,1.915,5921.78,244
+NZ,New Zealand,201,Melbourne,"Dairy, eggs & fridge",78177.5987,632366752.99,1
+NZ,New Zealand,101,Sydney,"Dairy, eggs & fridge",50582.562,354392159.47,2
+USA,United States of America,201,Melbourne,"Dairy, eggs & fridge",33475.1654,246947337.7,3
+USA,United States of America,101,Sydney,"Dairy, eggs & fridge",20671.1773,146571739.43,4
+NZ,New Zealand,301,Brisbane,"Dairy, eggs & fridge",7386.1883,54458046.0,5
+CHIN,China (excludes SARs and Taiwan),101,Sydney,"Dairy, eggs & fridge",7364.5049,23115944.4,6
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,"Dairy, eggs & fridge",7300.8361,96052256.28,7
+SPAI,Spain,201,Melbourne,"Dairy, eggs & fridge",6680.2627,29176599.34,8
+NETH,Netherlands,201,Melbourne,"Dairy, eggs & fridge",6538.7422,43481090.77,9
+FRAN,France (includes Andorra and Monaco),201,Melbourne,"Dairy, eggs & fridge",6059.8158,69256211.24,10
+NETH,Netherlands,101,Sydney,"Dairy, eggs & fridge",5895.3114,58707500.78,11
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,"Dairy, eggs & fridge",4985.1765,64771387.17,12
+USA,United States of America,301,Brisbane,"Dairy, eggs & fridge",4334.8002,29476456.33,13
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,"Dairy, eggs & fridge",3306.8069,40570149.65,14
+NWAY,Norway,201,Melbourne,"Dairy, eggs & fridge",2769.2815,3977015.67,15
+LITH,Lithuania,201,Melbourne,"Dairy, eggs & fridge",2582.4209,8654228.06,16
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,"Dairy, eggs & fridge",2298.5805,70802867.56,17
+LITH,Lithuania,101,Sydney,"Dairy, eggs & fridge",2290.9117,7459471.95,18
+CYPR,Cyprus,101,Sydney,"Dairy, eggs & fridge",2118.5654,25383658.2,19
+FRAN,France (includes Andorra and Monaco),101,Sydney,"Dairy, eggs & fridge",2112.2193,28049919.34,20
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,"Dairy, eggs & fridge",2082.1712,24633000.46,21
+MEXI,Mexico,201,Melbourne,"Dairy, eggs & fridge",1949.9908,6485586.95,22
+RKOR,"Korea, Republic of (South)",101,Sydney,"Dairy, eggs & fridge",1752.9678,7024731.13,23
+GREE,Greece,201,Melbourne,"Dairy, eggs & fridge",1659.5793,20216396.3,24
+BELG,Belgium,101,Sydney,"Dairy, eggs & fridge",1614.9753,15787097.9,25
+FGMY,Germany,101,Sydney,"Dairy, eggs & fridge",1369.9871,7724718.27,26
+INDO,Indonesia,201,Melbourne,"Dairy, eggs & fridge",1359.4942,927250.61,27
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,"Dairy, eggs & fridge",1302.9529,9899010.84,28
+INIA,India,101,Sydney,"Dairy, eggs & fridge",1064.8012,7920849.86,29
+ASTA,Austria,201,Melbourne,"Dairy, eggs & fridge",1047.3508,11328702.49,30
+IRE,Ireland,201,Melbourne,"Dairy, eggs & fridge",1010.1253,13634175.05,31
+INIA,India,201,Melbourne,"Dairy, eggs & fridge",964.9692,7147712.48,32
+INDO,Indonesia,301,Brisbane,"Dairy, eggs & fridge",912.2699,740644.06,33
+BRAZ,Brazil,101,Sydney,"Dairy, eggs & fridge",905.1099,4012614.5,34
+BULG,Bulgaria,101,Sydney,"Dairy, eggs & fridge",899.4726,6796486.13,35
+FGMY,Germany,201,Melbourne,"Dairy, eggs & fridge",893.6723,4895448.58,36
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,"Dairy, eggs & fridge",886.7565,4292304.17,37
+IRE,Ireland,101,Sydney,"Dairy, eggs & fridge",833.3312,11154898.75,38
+HGRY,Hungary,101,Sydney,"Dairy, eggs & fridge",816.6551,4067554.11,39
+GREE,Greece,101,Sydney,"Dairy, eggs & fridge",794.7405,9979217.03,40
+BRAZ,Brazil,301,Brisbane,"Dairy, eggs & fridge",769.7105,3776799.99,41
+ASTA,Austria,101,Sydney,"Dairy, eggs & fridge",742.5343,6735991.28,42
+LITH,Lithuania,501,Fremantle,"Dairy, eggs & fridge",689.977,1986099.37,43
+PHIL,Philippines,101,Sydney,"Dairy, eggs & fridge",687.2058,1677989.27,44
+INDO,Indonesia,101,Sydney,"Dairy, eggs & fridge",681.1848,828848.75,45
+MLAY,Malaysia,101,Sydney,"Dairy, eggs & fridge",669.0251,1278741.8,46
+POLA,Poland,201,Melbourne,"Dairy, eggs & fridge",651.8802,2052915.01,47
+USA,United States of America,401,Port Adelaide,"Dairy, eggs & fridge",608.0322,3578261.99,48
+BULG,Bulgaria,201,Melbourne,"Dairy, eggs & fridge",589.356,3190439.89,49
+SPAI,Spain,101,Sydney,"Dairy, eggs & fridge",576.423,11528987.98,50
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,"Dairy, eggs & fridge",553.9408,5195508.11,51
+LITH,Lithuania,301,Brisbane,"Dairy, eggs & fridge",523.7507,1773683.9,52
+BELG,Belgium,201,Melbourne,"Dairy, eggs & fridge",495.9132,5444280.79,53
+TAIW,Taiwan,201,Melbourne,"Dairy, eggs & fridge",479.4408,1802717.45,54
+BRAZ,Brazil,201,Melbourne,"Dairy, eggs & fridge",431.8212,2685062.78,55
+NZ,New Zealand,501,Fremantle,"Dairy, eggs & fridge",431.6379,3468262.7,56
+USA,United States of America,501,Fremantle,"Dairy, eggs & fridge",417.0126,2333127.42,57
+THAI,Thailand,201,Melbourne,"Dairy, eggs & fridge",398.4534,2093527.41,58
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,"Dairy, eggs & fridge",387.1482,3897130.87,59
+PHIL,Philippines,501,Fremantle,"Dairy, eggs & fridge",383.6764,824145.01,60
+SERB,Serbia,201,Melbourne,"Dairy, eggs & fridge",377.6731,2775964.24,61
+VIET,Vietnam,101,Sydney,"Dairy, eggs & fridge",362.7644,888137.22,62
+TAIW,Taiwan,301,Brisbane,"Dairy, eggs & fridge",321.0755,541213.45,63
+CAN,Canada,201,Melbourne,"Dairy, eggs & fridge",304.5499,2700485.96,64
+FRAN,France (includes Andorra and Monaco),301,Brisbane,"Dairy, eggs & fridge",298.4949,3649949.16,65
+VIET,Vietnam,201,Melbourne,"Dairy, eggs & fridge",297.1032,709583.77,66
+POLA,Poland,301,Brisbane,"Dairy, eggs & fridge",296.6049,684248.24,67
+PHIL,Philippines,301,Brisbane,"Dairy, eggs & fridge",282.2023,529490.49,68
+POLA,Poland,101,Sydney,"Dairy, eggs & fridge",275.6317,1651657.33,69
+INDO,Indonesia,501,Fremantle,"Dairy, eggs & fridge",269.5735,196467.7,70
+RKOR,"Korea, Republic of (South)",201,Melbourne,"Dairy, eggs & fridge",266.6048,1575098.75,71
+AUST,Australia (Re-imports),201,Melbourne,"Dairy, eggs & fridge",260.5472,1179411.15,72
+NZ,New Zealand,401,Port Adelaide,"Dairy, eggs & fridge",254.1716,1670328.3,73
+JAP,Japan,201,Melbourne,"Dairy, eggs & fridge",242.5672,2430618.45,74
+TAIW,Taiwan,101,Sydney,"Dairy, eggs & fridge",234.5894,563985.79,75
+IRE,Ireland,401,Port Adelaide,"Dairy, eggs & fridge",179.361,2466222.23,76
+VIET,Vietnam,301,Brisbane,"Dairy, eggs & fridge",159.588,330194.11,77
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,"Dairy, eggs & fridge",159.2672,1036245.63,78
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,"Dairy, eggs & fridge",156.4794,1839176.15,79
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,"Dairy, eggs & fridge",155.0133,4192434.48,80
+CYPR,Cyprus,201,Melbourne,"Dairy, eggs & fridge",144.825,1920829.03,81
+PORT,Portugal,101,Sydney,"Dairy, eggs & fridge",139.6394,672949.27,82
+PHIL,Philippines,201,Melbourne,"Dairy, eggs & fridge",137.2699,483689.78,83
+THAI,Thailand,101,Sydney,"Dairy, eggs & fridge",136.9942,461485.35,84
+INIA,India,301,Brisbane,"Dairy, eggs & fridge",130.8399,964936.42,85
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,"Dairy, eggs & fridge",129.7605,753279.25,86
+CAN,Canada,301,Brisbane,"Dairy, eggs & fridge",127.9198,1283286.54,87
+SAFR,South Africa,101,Sydney,"Dairy, eggs & fridge",124.747,1091785.38,88
+IRE,Ireland,501,Fremantle,"Dairy, eggs & fridge",121.477,1533210.31,89
+NETH,Netherlands,401,Port Adelaide,"Dairy, eggs & fridge",121.0955,972729.77,90
+SVAK,Slovakia,201,Melbourne,"Dairy, eggs & fridge",120.7285,1539870.36,91
+NETH,Netherlands,501,Fremantle,"Dairy, eggs & fridge",117.7936,1163931.83,92
+VIET,Vietnam,501,Fremantle,"Dairy, eggs & fridge",116.064,241403.03,93
+SPAI,Spain,301,Brisbane,"Dairy, eggs & fridge",103.5398,432163.21,94
+POLA,Poland,501,Fremantle,"Dairy, eggs & fridge",101.6,218998.95,95
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,"Dairy, eggs & fridge",100.6753,2394695.07,96
+INIA,India,501,Fremantle,"Dairy, eggs & fridge",100.4639,777392.41,97
+FGMY,Germany,501,Fremantle,"Dairy, eggs & fridge",99.2197,637769.6,98
+MLAY,Malaysia,201,Melbourne,"Dairy, eggs & fridge",97.934,745098.9,99
+CAN,Canada,101,Sydney,"Dairy, eggs & fridge",95.7828,284965.19,100
+JAP,Japan,301,Brisbane,"Dairy, eggs & fridge",95.3139,404796.93,101
+THAI,Thailand,301,Brisbane,"Dairy, eggs & fridge",94.464,123019.31,102
+JAP,Japan,101,Sydney,"Dairy, eggs & fridge",91.0325,778978.23,103
+DENM,Denmark (includes Greenland and Faroe Islands),401,Port Adelaide,"Dairy, eggs & fridge",89.996,226717.57,104
+LITH,Lithuania,401,Port Adelaide,"Dairy, eggs & fridge",87.1451,261776.85,105
+NETH,Netherlands,301,Brisbane,"Dairy, eggs & fridge",85.1788,456456.18,106
+RKOR,"Korea, Republic of (South)",301,Brisbane,"Dairy, eggs & fridge",82.5917,397180.37,107
+INIA,India,401,Port Adelaide,"Dairy, eggs & fridge",81.9897,467104.57,108
+BULG,Bulgaria,401,Port Adelaide,"Dairy, eggs & fridge",75.717,554379.78,109
+RKOR,"Korea, Republic of (South)",501,Fremantle,"Dairy, eggs & fridge",60.812,217041.22,110
+SAFR,South Africa,201,Melbourne,"Dairy, eggs & fridge",56.1668,398669.94,111
+FYRM,North Macedonia,101,Sydney,"Dairy, eggs & fridge",54.8158,421237.28,112
+NWAY,Norway,101,Sydney,"Dairy, eggs & fridge",53.042,27496.97,113
+NZ,New Zealand,605,Launceston,"Dairy, eggs & fridge",52.8916,553850.0,114
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,"Dairy, eggs & fridge",48.663,91119.99,115
+FGMY,Germany,301,Brisbane,"Dairy, eggs & fridge",48.217,143788.79,116
+BRAZ,Brazil,501,Fremantle,"Dairy, eggs & fridge",43.533,132823.31,117
+GREE,Greece,401,Port Adelaide,"Dairy, eggs & fridge",43.3966,535582.67,118
+TURK,Turkiye,101,Sydney,"Dairy, eggs & fridge",42.3133,84502.05,119
+UAEM,United Arab Emirates,101,Sydney,"Dairy, eggs & fridge",42.0886,456758.48,120
+FIJI,Fiji,101,Sydney,"Dairy, eggs & fridge",41.9936,97044.46,121
+BADE,Bangladesh,301,Brisbane,"Dairy, eggs & fridge",41.5395,28317.18,122
+CHLE,Chile,201,Melbourne,"Dairy, eggs & fridge",41.48,389622.21,123
+SLOV,Slovenia,201,Melbourne,"Dairy, eggs & fridge",41.0714,366064.91,124
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,"Dairy, eggs & fridge",37.9898,595854.94,125
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",401,Port Adelaide,"Dairy, eggs & fridge",36.7256,249110.26,126
+TAIW,Taiwan,501,Fremantle,"Dairy, eggs & fridge",35.5917,38341.6,127
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,"Dairy, eggs & fridge",35.0056,16118.08,128
+THAI,Thailand,501,Fremantle,"Dairy, eggs & fridge",33.5536,250247.41,129
+CZEH,Czechia,101,Sydney,"Dairy, eggs & fridge",30.36,213250.45,130
+BELG,Belgium,301,Brisbane,"Dairy, eggs & fridge",27.8958,221423.23,131
+LUX,Luxembourg,101,Sydney,"Dairy, eggs & fridge",27.0586,14433.9,132
+SING,Singapore,201,Melbourne,"Dairy, eggs & fridge",25.78,88959.14,133
+ESTO,Estonia,201,Melbourne,"Dairy, eggs & fridge",25.66,49581.74,134
+FIJI,Fiji,201,Melbourne,"Dairy, eggs & fridge",24.1996,29591.54,135
+AUST,Australia (Re-imports),101,Sydney,"Dairy, eggs & fridge",23.7516,273524.4,136
+BRAZ,Brazil,401,Port Adelaide,"Dairy, eggs & fridge",23.459,49762.45,137
+SING,Singapore,101,Sydney,"Dairy, eggs & fridge",21.04,294086.12,138
+THAI,Thailand,401,Port Adelaide,"Dairy, eggs & fridge",20.6943,11041.43,139
+TURK,Turkiye,201,Melbourne,"Dairy, eggs & fridge",18.9317,239921.43,140
+BADE,Bangladesh,201,Melbourne,"Dairy, eggs & fridge",18.154,130758.41,141
+BADE,Bangladesh,401,Port Adelaide,"Dairy, eggs & fridge",17.486,12739.12,142
+MLAY,Malaysia,301,Brisbane,"Dairy, eggs & fridge",16.5763,217117.78,143
+FGMY,Germany,401,Port Adelaide,"Dairy, eggs & fridge",15.792,195742.33,144
+SPAI,Spain,401,Port Adelaide,"Dairy, eggs & fridge",15.6134,76636.73,145
+PAKI,Pakistan,201,Melbourne,"Dairy, eggs & fridge",15.3096,145710.98,146
+UAEM,United Arab Emirates,201,Melbourne,"Dairy, eggs & fridge",15.308,20477.9,147
+ISRA,Israel,201,Melbourne,"Dairy, eggs & fridge",14.973,148529.18,148
+SAUD,Saudi Arabia,101,Sydney,"Dairy, eggs & fridge",14.446,65509.78,149
+LATV,Latvia,101,Sydney,"Dairy, eggs & fridge",12.9722,207133.09,150
+BADE,Bangladesh,101,Sydney,"Dairy, eggs & fridge",11.9565,67778.6,151
+MLAY,Malaysia,501,Fremantle,"Dairy, eggs & fridge",11.2231,73425.56,152
+SPAI,Spain,501,Fremantle,"Dairy, eggs & fridge",11.088,88773.42,153
+BELG,Belgium,501,Fremantle,"Dairy, eggs & fridge",10.463,76311.64,154
+GREE,Greece,501,Fremantle,"Dairy, eggs & fridge",10.1204,107532.84,155
+FIJI,Fiji,301,Brisbane,"Dairy, eggs & fridge",9.9225,6670.38,156
+EGYP,Egypt,101,Sydney,"Dairy, eggs & fridge",9.8045,74373.62,157
+CAN,Canada,401,Port Adelaide,"Dairy, eggs & fridge",9.603,25469.29,158
+SLOV,Slovenia,101,Sydney,"Dairy, eggs & fridge",9.0383,74063.31,159
+SING,Singapore,501,Fremantle,"Dairy, eggs & fridge",8.7292,120874.32,160
+NWAY,Norway,501,Fremantle,"Dairy, eggs & fridge",8.447,1469.2,161
+JAP,Japan,401,Port Adelaide,"Dairy, eggs & fridge",8.0677,49234.04,162
+LATV,Latvia,501,Fremantle,"Dairy, eggs & fridge",7.8757,113404.63,163
+INIA,India,701,Darwin,"Dairy, eggs & fridge",7.0213,24710.84,164
+SWIT,Switzerland (includes Liechtenstein),301,Brisbane,"Dairy, eggs & fridge",6.8591,111134.29,165
+LATV,Latvia,201,Melbourne,"Dairy, eggs & fridge",6.646,40677.2,166
+UAEM,United Arab Emirates,401,Port Adelaide,"Dairy, eggs & fridge",4.9404,39292.15,167
+USA,United States of America,605,Launceston,"Dairy, eggs & fridge",1.914,331526.78,168
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,"Dairy, eggs & fridge",1.258,56253.01,169
+JORD,Jordan,201,Melbourne,"Dairy, eggs & fridge",1.04,10204.33,170
+NZ,New Zealand,101,Sydney,Drinks,33678.4622,63767019.97,1
+NZ,New Zealand,301,Brisbane,Drinks,31146.6561,44775824.18,2
+NZ,New Zealand,201,Melbourne,Drinks,30859.2048,69544638.07,3
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Drinks,24992.5467,32676027.02,4
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Drinks,23557.3253,70780610.32,5
+USA,United States of America,101,Sydney,Drinks,21161.6191,59754320.35,6
+ASTA,Austria,101,Sydney,Drinks,18184.9946,37335622.33,7
+RKOR,"Korea, Republic of (South)",101,Sydney,Drinks,14340.0346,31057329.49,8
+ASTA,Austria,201,Melbourne,Drinks,14270.4821,29526287.74,9
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Drinks,14145.8,22930377.98,10
+NETH,Netherlands,101,Sydney,Drinks,11149.8297,112740640.41,11
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,Drinks,9600.4533,104750204.15,12
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Drinks,7411.8093,16701905.72,13
+THAI,Thailand,101,Sydney,Drinks,7330.3918,40759499.06,14
+ASTA,Austria,301,Brisbane,Drinks,7306.7404,15020059.69,15
+USA,United States of America,201,Melbourne,Drinks,7179.644,19159437.95,16
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Drinks,6997.5765,14130958.03,17
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,Drinks,6751.074,63304196.23,18
+VIET,Vietnam,101,Sydney,Drinks,6728.621,45221012.45,19
+JAP,Japan,201,Melbourne,Drinks,6681.5833,31210699.36,20
+ASTA,Austria,501,Fremantle,Drinks,5527.6508,11387298.03,21
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,Drinks,5013.9756,4463341.76,22
+TAIW,Taiwan,101,Sydney,Drinks,4874.9743,10372533.99,23
+FGMY,Germany,101,Sydney,Drinks,4745.2589,48464257.45,24
+JAP,Japan,101,Sydney,Drinks,4612.9017,15857350.66,25
+FRAN,France (includes Andorra and Monaco),101,Sydney,Drinks,4020.2823,38888389.46,26
+MLAY,Malaysia,101,Sydney,Drinks,3955.1878,25495825.89,27
+SWIT,Switzerland (includes Liechtenstein),301,Brisbane,Drinks,3892.3962,17626589.38,28
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,Drinks,3850.6559,4347122.56,29
+USA,United States of America,301,Brisbane,Drinks,3609.4576,8304336.57,30
+UAEM,United Arab Emirates,101,Sydney,Drinks,3553.2466,16668233.56,31
+THAI,Thailand,301,Brisbane,Drinks,3356.1777,4789487.3,32
+INIA,India,101,Sydney,Drinks,3252.0393,24827716.84,33
+ASTA,Austria,401,Port Adelaide,Drinks,3233.5599,6607999.77,34
+VIET,Vietnam,201,Melbourne,Drinks,3201.2533,13523222.11,35
+MEXI,Mexico,101,Sydney,Drinks,3141.2881,6254153.42,36
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,Drinks,3137.2339,2887424.47,37
+POLA,Poland,201,Melbourne,Drinks,3056.0559,33639468.55,38
+MEXI,Mexico,201,Melbourne,Drinks,3014.5279,5850996.17,39
+THAI,Thailand,201,Melbourne,Drinks,2769.3699,6878194.36,40
+RKOR,"Korea, Republic of (South)",301,Brisbane,Drinks,2742.2887,8947682.03,41
+TURK,Turkiye,201,Melbourne,Drinks,2633.6905,2541882.03,42
+JAP,Japan,301,Brisbane,Drinks,2612.3048,13234606.67,43
+SRIL,Sri Lanka,201,Melbourne,Drinks,2540.8712,24045925.19,44
+RKOR,"Korea, Republic of (South)",201,Melbourne,Drinks,2426.5117,5238688.13,45
+INIA,India,201,Melbourne,Drinks,2305.8079,11283642.32,46
+SWIT,Switzerland (includes Liechtenstein),501,Fremantle,Drinks,2299.6437,29638098.62,47
+MLAY,Malaysia,201,Melbourne,Drinks,2260.0441,9823598.96,48
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Drinks,2173.5319,4049701.38,49
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Drinks,2061.8737,11558356.45,50
+UAEM,United Arab Emirates,201,Melbourne,Drinks,1810.3548,19099824.79,51
+TAIW,Taiwan,301,Brisbane,Drinks,1784.9625,2229056.73,52
+TAIW,Taiwan,201,Melbourne,Drinks,1616.84,2325994.37,53
+FGMY,Germany,201,Melbourne,Drinks,1610.7715,15402716.18,54
+USA,United States of America,501,Fremantle,Drinks,1609.6978,3847818.12,55
+FIJI,Fiji,101,Sydney,Drinks,1609.5606,1211745.04,56
+SAFR,South Africa,101,Sydney,Drinks,1361.628,1547087.96,57
+RKOR,"Korea, Republic of (South)",501,Fremantle,Drinks,1308.1727,1503840.6,58
+SPAI,Spain,101,Sydney,Drinks,1137.6608,10382896.19,59
+VIET,Vietnam,301,Brisbane,Drinks,1126.4345,3209161.74,60
+USA,United States of America,401,Port Adelaide,Drinks,1095.607,2249092.8,61
+BADE,Bangladesh,201,Melbourne,Drinks,1031.2406,933160.96,62
+FIJI,Fiji,201,Melbourne,Drinks,995.876,739061.48,63
+LEBA,Lebanon,101,Sydney,Drinks,987.4579,2226901.67,64
+HONG,Hong Kong (SAR of China),101,Sydney,Drinks,984.3588,1489633.75,65
+OMAN,Oman,101,Sydney,Drinks,971.8421,516536.32,66
+POLA,Poland,301,Brisbane,Drinks,969.5744,1120265.99,67
+TURK,Turkiye,101,Sydney,Drinks,961.7655,855166.69,68
+VIET,Vietnam,501,Fremantle,Drinks,957.4311,3738359.63,69
+CROA,Croatia,201,Melbourne,Drinks,923.4,1889924.69,70
+SWIT,Switzerland (includes Liechtenstein),401,Port Adelaide,Drinks,922.0418,1935739.62,71
+NETH,Netherlands,201,Melbourne,Drinks,886.8819,11670860.06,72
+KENY,Kenya,301,Brisbane,Drinks,831.5694,2325808.54,73
+IRAQ,Iraq,101,Sydney,Drinks,819.291,515108.63,74
+JAP,Japan,501,Fremantle,Drinks,800.9931,2187752.58,75
+ALBA,Albania,101,Sydney,Drinks,795.4015,664623.66,76
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Drinks,702.5533,1920778.66,77
+PAKI,Pakistan,201,Melbourne,Drinks,694.7994,1360070.78,78
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,Drinks,689.8638,760223.86,79
+MLAY,Malaysia,501,Fremantle,Drinks,688.2697,1315818.59,80
+SRIL,Sri Lanka,301,Brisbane,Drinks,684.7294,3897726.17,81
+NETH,Netherlands,301,Brisbane,Drinks,680.6649,9038815.21,82
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",501,Fremantle,Drinks,618.8422,1428137.57,83
+INDO,Indonesia,101,Sydney,Drinks,612.0598,957207.94,84
+FIJI,Fiji,301,Brisbane,Drinks,599.099,448272.56,85
+PAKI,Pakistan,101,Sydney,Drinks,592.4504,996422.92,86
+SERB,Serbia,201,Melbourne,Drinks,568.5165,613766.49,87
+SING,Singapore,301,Brisbane,Drinks,567.7883,778197.27,88
+FGMY,Germany,301,Brisbane,Drinks,555.2764,2927769.96,89
+SING,Singapore,201,Melbourne,Drinks,551.9072,1574635.97,90
+GREE,Greece,201,Melbourne,Drinks,523.0338,690401.58,91
+SING,Singapore,101,Sydney,Drinks,519.4494,1033302.93,92
+MEXI,Mexico,301,Brisbane,Drinks,512.0598,1177829.99,93
+SRIL,Sri Lanka,101,Sydney,Drinks,492.3857,3337788.72,94
+FYRM,North Macedonia,101,Sydney,Drinks,489.286,355278.53,95
+PORT,Portugal,101,Sydney,Drinks,442.5346,667460.69,96
+INIA,India,301,Brisbane,Drinks,437.9858,2246809.69,97
+PHIL,Philippines,101,Sydney,Drinks,403.9192,575809.78,98
+TAIW,Taiwan,401,Port Adelaide,Drinks,390.5726,428659.43,99
+SAUD,Saudi Arabia,201,Melbourne,Drinks,380.9986,455895.09,100
+BELG,Belgium,201,Melbourne,Drinks,359.1207,528400.06,101
+SVAK,Slovakia,101,Sydney,Drinks,342.337,570069.08,102
+INDO,Indonesia,201,Melbourne,Drinks,338.4164,672135.02,103
+KUWA,Kuwait,101,Sydney,Drinks,333.683,202085.0,104
+SAUD,Saudi Arabia,101,Sydney,Drinks,316.5823,415182.44,105
+BADE,Bangladesh,101,Sydney,Drinks,312.7899,295262.73,106
+MEXI,Mexico,501,Fremantle,Drinks,311.202,584684.58,107
+SWED,Sweden,201,Melbourne,Drinks,310.185,474210.45,108
+BRAZ,Brazil,101,Sydney,Drinks,301.6804,3033209.67,109
+ICEL,Iceland,101,Sydney,Drinks,298.992,330969.93,110
+SAFR,South Africa,501,Fremantle,Drinks,298.8372,129805.44,111
+RKOR,"Korea, Republic of (South)",401,Port Adelaide,Drinks,298.4097,309503.82,112
+NWAY,Norway,101,Sydney,Drinks,290.3486,388933.99,113
+SAFR,South Africa,301,Brisbane,Drinks,283.89,339308.93,114
+HONG,Hong Kong (SAR of China),201,Melbourne,Drinks,278.6589,490765.55,115
+SING,Singapore,501,Fremantle,Drinks,275.3714,264192.21,116
+INDO,Indonesia,301,Brisbane,Drinks,274.3271,683254.64,117
+TAIW,Taiwan,501,Fremantle,Drinks,272.1333,323098.13,118
+POLA,Poland,101,Sydney,Drinks,271.4808,712960.07,119
+ARGE,Argentina,101,Sydney,Drinks,261.0075,1229485.53,120
+MEXI,Mexico,401,Port Adelaide,Drinks,256.284,480660.47,121
+GREE,Greece,101,Sydney,Drinks,254.9372,555354.23,122
+FGMY,Germany,501,Fremantle,Drinks,254.4296,968059.14,123
+IRE,Ireland,101,Sydney,Drinks,251.3005,5386767.49,124
+CZEH,Czechia,101,Sydney,Drinks,240.5408,1509484.0,125
+MLAY,Malaysia,301,Brisbane,Drinks,237.2861,1665958.32,126
+UAEM,United Arab Emirates,501,Fremantle,Drinks,223.4348,776299.92,127
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Drinks,215.968,824462.63,128
+INIA,India,501,Fremantle,Drinks,210.1771,1168096.55,129
+THAI,Thailand,501,Fremantle,Drinks,204.7202,347565.29,130
+SWED,Sweden,101,Sydney,Drinks,200.9645,662526.07,131
+MORO,Morocco,201,Melbourne,Drinks,193.9275,2104468.35,132
+NETH,Netherlands,501,Fremantle,Drinks,190.5141,2443261.87,133
+SERB,Serbia,101,Sydney,Drinks,187.1998,208099.9,134
+JAP,Japan,401,Port Adelaide,Drinks,186.5011,268002.11,135
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,Drinks,175.8789,493431.38,136
+ROUM,Romania,101,Sydney,Drinks,175.68,1523426.69,137
+BADE,Bangladesh,501,Fremantle,Drinks,165.2672,129606.97,138
+JORD,Jordan,101,Sydney,Drinks,155.3338,1060413.77,139
+THAI,Thailand,401,Port Adelaide,Drinks,154.1271,191278.41,140
+HGRY,Hungary,201,Melbourne,Drinks,153.5717,487615.62,141
+SAFR,South Africa,201,Melbourne,Drinks,149.221,202154.84,142
+FYRM,North Macedonia,201,Melbourne,Drinks,149.1149,90789.1,143
+BRAZ,Brazil,201,Melbourne,Drinks,146.8981,1674583.55,144
+EGYP,Egypt,201,Melbourne,Drinks,142.5058,128228.9,145
+PSIA,Iran,101,Sydney,Drinks,141.488,82747.08,146
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,Drinks,136.3677,108640.9,147
+SPAI,Spain,301,Brisbane,Drinks,136.0029,2646471.14,148
+BURM,Myanmar,201,Melbourne,Drinks,131.8962,87200.43,149
+NZ,New Zealand,401,Port Adelaide,Drinks,130.956,257560.82,150
+SWED,Sweden,301,Brisbane,Drinks,121.138,172964.77,151
+SRIL,Sri Lanka,401,Port Adelaide,Drinks,115.4311,876896.56,152
+INIA,India,401,Port Adelaide,Drinks,114.6649,557393.71,153
+LEBA,Lebanon,201,Melbourne,Drinks,110.71,69680.77,154
+VIET,Vietnam,401,Port Adelaide,Drinks,109.543,442036.52,155
+COMB,Colombia,201,Melbourne,Drinks,104.1637,233521.25,156
+INDO,Indonesia,501,Fremantle,Drinks,102.5008,233240.15,157
+UAEM,United Arab Emirates,401,Port Adelaide,Drinks,101.9976,145401.04,158
+SLOV,Slovenia,101,Sydney,Drinks,100.5871,55802.31,159
+BOHR,Bosnia and Herzegovina,201,Melbourne,Drinks,100.3753,205538.98,160
+ARGE,Argentina,201,Melbourne,Drinks,97.0523,352577.06,161
+PAKI,Pakistan,501,Fremantle,Drinks,96.2664,139134.91,162
+NETH,Netherlands,401,Port Adelaide,Drinks,93.0371,1446822.0,163
+NWAY,Norway,501,Fremantle,Drinks,91.3185,119324.95,164
+FGMY,Germany,401,Port Adelaide,Drinks,87.5669,506295.67,165
+PHIL,Philippines,301,Brisbane,Drinks,85.016,179436.6,166
+COMB,Colombia,101,Sydney,Drinks,83.0565,110609.01,167
+PSIA,Iran,201,Melbourne,Drinks,82.742,50819.37,168
+SPAI,Spain,201,Melbourne,Drinks,82.5705,268541.1,169
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,Drinks,82.5103,335370.66,170
+NGRA,Nigeria,201,Melbourne,Drinks,76.875,38863.17,171
+PAKI,Pakistan,301,Brisbane,Drinks,73.9644,180705.03,172
+PHIL,Philippines,201,Melbourne,Drinks,72.3722,100752.2,173
+CROA,Croatia,101,Sydney,Drinks,72.0437,35214.08,174
+RWAN,Rwanda,201,Melbourne,Drinks,70.148,308629.07,175
+SRIL,Sri Lanka,501,Fremantle,Drinks,68.5294,359458.74,176
+TURK,Turkiye,501,Fremantle,Drinks,67.3113,47718.4,177
+IRE,Ireland,301,Brisbane,Drinks,59.0192,16573539.16,178
+GREE,Greece,401,Port Adelaide,Drinks,56.5757,96676.68,179
+BADE,Bangladesh,301,Brisbane,Drinks,56.3621,60784.05,180
+BADE,Bangladesh,401,Port Adelaide,Drinks,55.9681,36205.58,181
+SLOV,Slovenia,201,Melbourne,Drinks,53.228,33469.64,182
+BELG,Belgium,101,Sydney,Drinks,51.687,175288.65,183
+PERU,Peru,101,Sydney,Drinks,50.97,40469.89,184
+NWAY,Norway,201,Melbourne,Drinks,48.0412,80076.14,185
+BRAZ,Brazil,501,Fremantle,Drinks,47.621,93198.42,186
+SAUD,Saudi Arabia,401,Port Adelaide,Drinks,47.1694,72200.93,187
+PHIL,Philippines,501,Fremantle,Drinks,46.6035,75183.38,188
+FRAN,France (includes Andorra and Monaco),301,Brisbane,Drinks,42.2033,81064.25,189
+KUWA,Kuwait,201,Melbourne,Drinks,38.033,30977.49,190
+EGYP,Egypt,101,Sydney,Drinks,37.6956,16537.58,191
+SLOV,Slovenia,401,Port Adelaide,Drinks,37.063,27860.79,192
+CAN,Canada,201,Melbourne,Drinks,35.8127,48971.18,193
+MLAY,Malaysia,701,Darwin,Drinks,35.672,301376.93,194
+MLAY,Malaysia,401,Port Adelaide,Drinks,35.6589,278781.26,195
+SERB,Serbia,501,Fremantle,Drinks,35.5693,12136.89,196
+RUSS,Russian Federation,201,Melbourne,Drinks,34.89,56620.76,197
+NGRA,Nigeria,101,Sydney,Drinks,32.2,10107.34,198
+FYRM,North Macedonia,501,Fremantle,Drinks,31.52,52624.95,199
+NZ,New Zealand,501,Fremantle,Drinks,30.372,115658.49,200
+SYRI,Syria,101,Sydney,Drinks,28.68,135445.88,201
+NEPA,Nepal,101,Sydney,Drinks,27.9944,3754.79,202
+BRAZ,Brazil,401,Port Adelaide,Drinks,27.734,436109.73,203
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Drinks,26.996,87683.26,204
+IRE,Ireland,201,Melbourne,Drinks,26.9478,279852.58,205
+FRAN,France (includes Andorra and Monaco),501,Fremantle,Drinks,26.733,28647.36,206
+SPAI,Spain,401,Port Adelaide,Drinks,26.22,64876.88,207
+ZIMB,Zimbabwe,101,Sydney,Drinks,24.46,7929.73,208
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,Drinks,24.258,56735.03,209
+NWAY,Norway,401,Port Adelaide,Drinks,24.1559,29020.97,210
+TURK,Turkiye,401,Port Adelaide,Drinks,24.14,17147.74,211
+AUST,Australia (Re-imports),201,Melbourne,Drinks,23.178,501859.38,212
+ARMN,Armenia,101,Sydney,Drinks,22.886,23684.89,213
+KENY,Kenya,201,Melbourne,Drinks,22.854,146630.05,214
+PSIA,Iran,401,Port Adelaide,Drinks,22.795,7491.81,215
+JORD,Jordan,201,Melbourne,Drinks,22.48,392465.27,216
+TURK,Turkiye,301,Brisbane,Drinks,20.5496,11832.15,217
+IRAQ,Iraq,201,Melbourne,Drinks,20.48,6370.03,218
+PORT,Portugal,201,Melbourne,Drinks,20.3233,31681.9,219
+UKRA,Ukraine,201,Melbourne,Drinks,20.3,39221.09,220
+COMB,Colombia,301,Brisbane,Drinks,20.257,29189.6,221
+CAN,Canada,301,Brisbane,Drinks,20.15,52856.98,222
+JAP,Japan,701,Darwin,Drinks,19.9575,53810.1,223
+SYRI,Syria,201,Melbourne,Drinks,19.675,78821.42,224
+VIET,Vietnam,701,Darwin,Drinks,19.656,33328.33,225
+HONG,Hong Kong (SAR of China),501,Fremantle,Drinks,19.5269,19509.93,226
+UAEM,United Arab Emirates,301,Brisbane,Drinks,19.0099,7414.39,227
+MEXI,Mexico,701,Darwin,Drinks,18.306,34700.14,228
+SERB,Serbia,401,Port Adelaide,Drinks,17.902,8093.0,229
+LITH,Lithuania,101,Sydney,Drinks,17.3949,7225.02,230
+OMAN,Oman,501,Fremantle,Drinks,17.265,7285.08,231
+INDO,Indonesia,401,Port Adelaide,Drinks,16.8575,77344.87,232
+KENY,Kenya,501,Fremantle,Drinks,16.525,55417.69,233
+PORT,Portugal,301,Brisbane,Drinks,16.092,57524.24,234
+HONG,Hong Kong (SAR of China),301,Brisbane,Drinks,15.94,28450.0,235
+CROA,Croatia,401,Port Adelaide,Drinks,15.85,6182.84,236
+BURM,Myanmar,501,Fremantle,Drinks,14.7815,19176.5,237
+SLOV,Slovenia,301,Brisbane,Drinks,14.7737,1964.09,238
+SAUD,Saudi Arabia,501,Fremantle,Drinks,11.839,14967.58,239
+BHRN,Bahrain,501,Fremantle,Drinks,11.5,43333.96,240
+RUSS,Russian Federation,101,Sydney,Drinks,11.048,1548.27,241
+KENY,Kenya,101,Sydney,Drinks,10.9,16090.64,242
+BRAZ,Brazil,301,Brisbane,Drinks,10.8399,28406.17,243
+CYPR,Cyprus,301,Brisbane,Drinks,10.64,15449.65,244
+AFGH,Afghanistan,301,Brisbane,Drinks,10.521,16243.96,245
+ZAIR,"Congo, Democratic Republic of",501,Fremantle,Drinks,9.525,3016.57,246
+PSIA,Iran,501,Fremantle,Drinks,9.52,19233.22,247
+AUST,Australia (Re-imports),101,Sydney,Drinks,8.2955,21814.73,248
+ANTC,"Antarctica, nfd",101,Sydney,Drinks,7.524,1371.19,249
+CHLE,Chile,201,Melbourne,Drinks,7.227,185135.0,250
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,Drinks,7.1817,9792.69,251
+LITH,Lithuania,201,Melbourne,Drinks,6.995,7491.63,252
+INIA,India,701,Darwin,Drinks,6.6116,37827.44,253
+MAUS,Mauritius,201,Melbourne,Drinks,6.574,5515.24,254
+URUG,Uruguay,201,Melbourne,Drinks,6.3274,45938.83,255
+ISRA,Israel,201,Melbourne,Drinks,6.2649,32589.14,256
+NGRA,Nigeria,501,Fremantle,Drinks,4.36,6298.0,257
+ETMR,Timor-Leste,701,Darwin,Drinks,4.1,5205.89,258
+SRIL,Sri Lanka,701,Darwin,Drinks,3.8,23370.11,259
+MAUS,Mauritius,501,Fremantle,Drinks,3.0476,7484.03,260
+BELE,Belize,101,Sydney,Drinks,2.287,20934.84,261
+WSAM,Samoa,101,Sydney,Drinks,1.557,4983.44,262
+RUSS,Russian Federation,301,Brisbane,Drinks,1.516,23424.2,263
+RWAN,Rwanda,501,Fremantle,Drinks,1.48,11170.46,264
+FIJI,Fiji,102,Newcastle,Drinks,0.8,5144.17,265
+CMBD,Cambodia,201,Melbourne,Drinks,0.765,1902.12,266
+ARGE,Argentina,301,Brisbane,Drinks,0.53,4442.85,267
+ZIMB,Zimbabwe,201,Melbourne,Drinks,0.222,2997.51,268
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Fruit & vegetables,80374.7887,243017015.32,1
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Fruit & vegetables,72779.1931,184897412.8,2
+NZ,New Zealand,201,Melbourne,Fruit & vegetables,63243.7036,196701363.33,3
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Fruit & vegetables,62354.3378,128638967.54,4
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Fruit & vegetables,55532.9944,103808006.37,5
+VIET,Vietnam,101,Sydney,Fruit & vegetables,47977.4122,169906538.2,6
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Fruit & vegetables,46948.2202,136476975.17,7
+USA,United States of America,101,Sydney,Fruit & vegetables,45042.7044,233385916.64,8
+THAI,Thailand,201,Melbourne,Fruit & vegetables,36241.0106,73635022.95,9
+NETH,Netherlands,101,Sydney,Fruit & vegetables,35210.1804,26424157.96,10
+VIET,Vietnam,201,Melbourne,Fruit & vegetables,34710.6682,156192919.13,11
+NZ,New Zealand,301,Brisbane,Fruit & vegetables,33145.3131,84355663.34,12
+THAI,Thailand,101,Sydney,Fruit & vegetables,31285.928,64760697.5,13
+BELG,Belgium,101,Sydney,Fruit & vegetables,29037.7448,81342945.51,14
+NZ,New Zealand,101,Sydney,Fruit & vegetables,28446.4727,116369677.29,15
+USA,United States of America,201,Melbourne,Fruit & vegetables,28049.9267,150266445.65,16
+BELG,Belgium,201,Melbourne,Fruit & vegetables,24243.6582,77323280.75,17
+INIA,India,201,Melbourne,Fruit & vegetables,23413.026,40786551.28,18
+THAI,Thailand,301,Brisbane,Fruit & vegetables,20879.2357,34374925.93,19
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,Fruit & vegetables,19342.4125,40467632.27,20
+VIET,Vietnam,301,Brisbane,Fruit & vegetables,19243.3282,45916823.07,21
+TURK,Turkiye,201,Melbourne,Fruit & vegetables,18288.1141,87268820.53,22
+INIA,India,101,Sydney,Fruit & vegetables,17554.4681,30357785.24,23
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,Fruit & vegetables,16013.9433,26072508.89,24
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,Fruit & vegetables,13917.1454,23559420.11,25
+SPAI,Spain,101,Sydney,Fruit & vegetables,13608.7858,34014337.06,26
+TURK,Turkiye,101,Sydney,Fruit & vegetables,13290.1328,72963812.61,27
+BELG,Belgium,301,Brisbane,Fruit & vegetables,12561.0072,33028267.98,28
+NETH,Netherlands,301,Brisbane,Fruit & vegetables,11864.8177,24389856.41,29
+BELG,Belgium,501,Fremantle,Fruit & vegetables,11611.8391,30416843.04,30
+VIET,Vietnam,501,Fremantle,Fruit & vegetables,10871.2298,21681516.13,31
+THAI,Thailand,501,Fremantle,Fruit & vegetables,10770.9936,16788363.44,32
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,Fruit & vegetables,10472.629,17299244.58,33
+INDO,Indonesia,201,Melbourne,Fruit & vegetables,10317.567,35377278.92,34
+SPAI,Spain,201,Melbourne,Fruit & vegetables,9773.0716,26215235.31,35
+CHLE,Chile,201,Melbourne,Fruit & vegetables,9358.8827,54098922.88,36
+CHLE,Chile,101,Sydney,Fruit & vegetables,9319.6937,52462320.95,37
+ARGE,Argentina,201,Melbourne,Fruit & vegetables,9089.8144,25946472.37,38
+PHIL,Philippines,201,Melbourne,Fruit & vegetables,8525.0018,29664119.39,39
+INIA,India,301,Brisbane,Fruit & vegetables,8490.6573,15656334.41,40
+PHIL,Philippines,101,Sydney,Fruit & vegetables,8264.1801,24411529.11,41
+GREE,Greece,101,Sydney,Fruit & vegetables,6728.653,21975243.31,42
+RKOR,"Korea, Republic of (South)",101,Sydney,Fruit & vegetables,6299.2875,40042454.5,43
+NETH,Netherlands,501,Fremantle,Fruit & vegetables,6139.8815,12585625.16,44
+NETH,Netherlands,201,Melbourne,Fruit & vegetables,5867.819,15104713.95,45
+PHIL,Philippines,301,Brisbane,Fruit & vegetables,5852.8446,17725789.62,46
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,Fruit & vegetables,5747.5599,23781688.45,47
+FGMY,Germany,101,Sydney,Fruit & vegetables,5518.7453,15643278.44,48
+CAN,Canada,201,Melbourne,Fruit & vegetables,5469.34,16201397.41,49
+NETH,Netherlands,401,Port Adelaide,Fruit & vegetables,5137.6456,6530406.33,50
+BRAZ,Brazil,101,Sydney,Fruit & vegetables,5116.8746,22107642.02,51
+USA,United States of America,301,Brisbane,Fruit & vegetables,4986.5951,19248357.43,52
+SAFR,South Africa,201,Melbourne,Fruit & vegetables,4052.8714,15132471.05,53
+CAN,Canada,101,Sydney,Fruit & vegetables,4042.8434,18183202.55,54
+INIA,India,501,Fremantle,Fruit & vegetables,3991.5022,6316768.96,55
+FRAN,France (includes Andorra and Monaco),101,Sydney,Fruit & vegetables,3987.9788,18077738.02,56
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Fruit & vegetables,3863.7237,19926114.67,57
+MEXI,Mexico,101,Sydney,Fruit & vegetables,3831.101,18923316.55,58
+EGYP,Egypt,101,Sydney,Fruit & vegetables,3811.1497,9508933.14,59
+BELG,Belgium,401,Port Adelaide,Fruit & vegetables,3761.4666,11360005.98,60
+FGMY,Germany,301,Brisbane,Fruit & vegetables,3632.213,9878915.28,61
+INDO,Indonesia,301,Brisbane,Fruit & vegetables,3507.1737,12200250.94,62
+GREE,Greece,201,Melbourne,Fruit & vegetables,3395.7918,12100682.41,63
+FGMY,Germany,201,Melbourne,Fruit & vegetables,3378.2283,10494772.74,64
+SAFR,South Africa,101,Sydney,Fruit & vegetables,3242.0923,10127619.73,65
+CHLE,Chile,301,Brisbane,Fruit & vegetables,3241.3134,17494998.98,66
+INDO,Indonesia,101,Sydney,Fruit & vegetables,2942.4345,8298309.8,67
+MEXI,Mexico,201,Melbourne,Fruit & vegetables,2890.4501,14550434.86,68
+POLA,Poland,101,Sydney,Fruit & vegetables,2879.2638,8348056.29,69
+PSIA,Iran,101,Sydney,Fruit & vegetables,2863.6562,9148955.98,70
+TURK,Turkiye,301,Brisbane,Fruit & vegetables,2795.4756,13614139.54,71
+BRAZ,Brazil,301,Brisbane,Fruit & vegetables,2637.7183,15973765.3,72
+LEBA,Lebanon,101,Sydney,Fruit & vegetables,2573.4099,4829939.16,73
+PERU,Peru,201,Melbourne,Fruit & vegetables,2532.1166,12424379.64,74
+NZ,New Zealand,501,Fremantle,Fruit & vegetables,2434.7765,4942462.87,75
+RKOR,"Korea, Republic of (South)",201,Melbourne,Fruit & vegetables,2284.6224,11326012.0,76
+POLA,Poland,201,Melbourne,Fruit & vegetables,2223.2202,6356199.94,77
+PERU,Peru,101,Sydney,Fruit & vegetables,2185.9049,11189226.6,78
+PSIA,Iran,201,Melbourne,Fruit & vegetables,2173.6045,3520281.8,79
+THAI,Thailand,401,Port Adelaide,Fruit & vegetables,2171.2417,4117253.69,80
+PHIL,Philippines,501,Fremantle,Fruit & vegetables,2112.0477,3933975.43,81
+SPAI,Spain,301,Brisbane,Fruit & vegetables,2102.2386,5576686.59,82
+MEXI,Mexico,301,Brisbane,Fruit & vegetables,2080.261,6151759.87,83
+EGYP,Egypt,201,Melbourne,Fruit & vegetables,2004.8855,5737100.47,84
+BRAZ,Brazil,201,Melbourne,Fruit & vegetables,1981.5952,11288126.33,85
+NCD,No Country Details,999,Conf Aust Ports,Fruit & vegetables,1954.8489,20300077.56,86
+ARGE,Argentina,101,Sydney,Fruit & vegetables,1920.1804,5429873.71,87
+UAEM,United Arab Emirates,201,Melbourne,Fruit & vegetables,1794.0479,2024253.7,88
+CHLE,Chile,501,Fremantle,Fruit & vegetables,1735.6873,9933870.56,89
+SPAI,Spain,501,Fremantle,Fruit & vegetables,1682.3201,5549611.07,90
+ECUA,Ecuador,201,Melbourne,Fruit & vegetables,1661.9154,2667593.68,91
+ISRA,Israel,201,Melbourne,Fruit & vegetables,1648.8932,11555525.59,92
+COMB,Colombia,101,Sydney,Fruit & vegetables,1632.2892,4932173.94,93
+TURK,Turkiye,501,Fremantle,Fruit & vegetables,1620.4075,5064492.13,94
+INIA,India,401,Port Adelaide,Fruit & vegetables,1616.7137,2173466.5,95
+PAKI,Pakistan,101,Sydney,Fruit & vegetables,1564.2298,3041118.63,96
+VIET,Vietnam,401,Port Adelaide,Fruit & vegetables,1557.465,8784063.3,97
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Fruit & vegetables,1557.2761,5897123.8,98
+ISRA,Israel,301,Brisbane,Fruit & vegetables,1509.8438,11873784.1,99
+MLAY,Malaysia,101,Sydney,Fruit & vegetables,1493.9191,5404772.14,100
+GREE,Greece,301,Brisbane,Fruit & vegetables,1472.0459,5110056.09,101
+RKOR,"Korea, Republic of (South)",301,Brisbane,Fruit & vegetables,1409.0679,7443297.06,102
+TNGA,Tonga,101,Sydney,Fruit & vegetables,1395.792,1868434.08,103
+MLAY,Malaysia,201,Melbourne,Fruit & vegetables,1378.3848,8746433.01,104
+CAN,Canada,301,Brisbane,Fruit & vegetables,1378.2595,6923117.64,105
+PAKI,Pakistan,201,Melbourne,Fruit & vegetables,1314.7399,2566750.06,106
+ARGE,Argentina,301,Brisbane,Fruit & vegetables,1274.0182,3990926.73,107
+EGYP,Egypt,501,Fremantle,Fruit & vegetables,1270.532,2601344.26,108
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Fruit & vegetables,1266.5809,4459497.68,109
+GREE,Greece,501,Fremantle,Fruit & vegetables,1241.8898,3920742.24,110
+TURK,Turkiye,401,Port Adelaide,Fruit & vegetables,1233.3862,5047673.62,111
+SRIL,Sri Lanka,101,Sydney,Fruit & vegetables,1193.6938,3792205.22,112
+GERG,Georgia,201,Melbourne,Fruit & vegetables,1147.281,2067374.92,113
+SPAI,Spain,401,Port Adelaide,Fruit & vegetables,1128.5809,2112296.62,114
+RKOR,"Korea, Republic of (South)",501,Fremantle,Fruit & vegetables,1110.4148,4293613.13,115
+GMLA,Guatemala,101,Sydney,Fruit & vegetables,1094.661,2086742.74,116
+SRIL,Sri Lanka,201,Melbourne,Fruit & vegetables,1082.6909,3699367.2,117
+UAEM,United Arab Emirates,101,Sydney,Fruit & vegetables,1075.4873,2243844.63,118
+FGMY,Germany,501,Fremantle,Fruit & vegetables,1074.6765,2530927.35,119
+TAIW,Taiwan,101,Sydney,Fruit & vegetables,1033.8038,4606625.22,120
+BURM,Myanmar,201,Melbourne,Fruit & vegetables,1004.2932,1870760.9,121
+INDO,Indonesia,501,Fremantle,Fruit & vegetables,982.7715,2718265.65,122
+VIET,Vietnam,999,Conf Aust Ports,Fruit & vegetables,891.8362,17450578.75,123
+GREE,Greece,401,Port Adelaide,Fruit & vegetables,888.3631,2794602.35,124
+FRAN,France (includes Andorra and Monaco),301,Brisbane,Fruit & vegetables,833.856,2769842.68,125
+COMB,Colombia,201,Melbourne,Fruit & vegetables,811.1784,3635964.93,126
+ISRA,Israel,101,Sydney,Fruit & vegetables,765.886,7136313.64,127
+PAKI,Pakistan,301,Brisbane,Fruit & vegetables,750.9309,1095225.49,128
+NZ,New Zealand,401,Port Adelaide,Fruit & vegetables,726.6968,1465322.98,129
+POLA,Poland,301,Brisbane,Fruit & vegetables,725.7826,2584165.55,130
+TAIW,Taiwan,201,Melbourne,Fruit & vegetables,722.359,2644450.68,131
+ECUA,Ecuador,101,Sydney,Fruit & vegetables,716.8804,1354110.75,132
+LEBA,Lebanon,201,Melbourne,Fruit & vegetables,693.392,1538480.89,133
+FIJI,Fiji,301,Brisbane,Fruit & vegetables,690.3095,2325113.35,134
+COST,Costa Rica,201,Melbourne,Fruit & vegetables,618.6564,1665637.28,135
+JORD,Jordan,101,Sydney,Fruit & vegetables,614.61,1859654.72,136
+HGRY,Hungary,201,Melbourne,Fruit & vegetables,598.6368,1413663.65,137
+USA,United States of America,501,Fremantle,Fruit & vegetables,598.6348,1719929.72,138
+TNGA,Tonga,201,Melbourne,Fruit & vegetables,595.8044,712459.79,139
+MORO,Morocco,101,Sydney,Fruit & vegetables,591.204,1873969.06,140
+GERG,Georgia,101,Sydney,Fruit & vegetables,573.9966,1022715.4,141
+MLAY,Malaysia,501,Fremantle,Fruit & vegetables,567.0956,1429495.8,142
+FIJI,Fiji,101,Sydney,Fruit & vegetables,564.4036,1805308.43,143
+SYRI,Syria,101,Sydney,Fruit & vegetables,563.281,778250.43,144
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",501,Fremantle,Fruit & vegetables,549.0914,1134049.75,145
+FRAN,France (includes Andorra and Monaco),501,Fremantle,Fruit & vegetables,529.0347,2058207.57,146
+FYRM,North Macedonia,101,Sydney,Fruit & vegetables,482.9392,1308780.32,147
+IRAQ,Iraq,101,Sydney,Fruit & vegetables,472.5803,233407.76,148
+WSAM,Samoa,101,Sydney,Fruit & vegetables,470.5358,544253.46,149
+HGRY,Hungary,101,Sydney,Fruit & vegetables,458.2382,1440555.68,150
+ISRA,Israel,401,Port Adelaide,Fruit & vegetables,457.454,2179216.74,151
+ARGE,Argentina,501,Fremantle,Fruit & vegetables,435.166,1175882.97,152
+AUST,Australia (Re-imports),201,Melbourne,Fruit & vegetables,433.3804,1568036.2,153
+EGYP,Egypt,301,Brisbane,Fruit & vegetables,431.6918,1443797.05,154
+FIJI,Fiji,201,Melbourne,Fruit & vegetables,431.1991,1794944.77,155
+SAFR,South Africa,401,Port Adelaide,Fruit & vegetables,424.8716,1299960.16,156
+SERB,Serbia,101,Sydney,Fruit & vegetables,414.6452,3762516.47,157
+FGMY,Germany,401,Port Adelaide,Fruit & vegetables,407.0762,894647.65,158
+AFGH,Afghanistan,101,Sydney,Fruit & vegetables,399.4813,648142.02,159
+CHLE,Chile,401,Port Adelaide,Fruit & vegetables,390.36,1675126.6,160
+AUST,Australia (Re-imports),101,Sydney,Fruit & vegetables,380.304,894959.14,161
+JAP,Japan,101,Sydney,Fruit & vegetables,377.4508,1142167.81,162
+GERG,Georgia,301,Brisbane,Fruit & vegetables,377.4046,714694.17,163
+MLAY,Malaysia,301,Brisbane,Fruit & vegetables,367.5983,1098366.02,164
+ECUA,Ecuador,301,Brisbane,Fruit & vegetables,359.3976,803253.92,165
+SWED,Sweden,101,Sydney,Fruit & vegetables,343.912,922272.85,166
+SAFR,South Africa,301,Brisbane,Fruit & vegetables,330.9539,1194730.1,167
+TAIW,Taiwan,301,Brisbane,Fruit & vegetables,323.6102,792373.01,168
+MORO,Morocco,201,Melbourne,Fruit & vegetables,322.9706,1142153.7,169
+BURM,Myanmar,101,Sydney,Fruit & vegetables,321.45,488596.13,170
+GMLA,Guatemala,201,Melbourne,Fruit & vegetables,303.32,355403.7,171
+JAP,Japan,201,Melbourne,Fruit & vegetables,299.6125,536540.98,172
+PHIL,Philippines,401,Port Adelaide,Fruit & vegetables,299.3288,644552.9,173
+BRAZ,Brazil,501,Fremantle,Fruit & vegetables,299.326,1203611.4,174
+SAUD,Saudi Arabia,201,Melbourne,Fruit & vegetables,294.835,1149418.97,175
+SERB,Serbia,201,Melbourne,Fruit & vegetables,290.316,1831000.8,176
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Fruit & vegetables,289.9708,7237411.21,177
+BADE,Bangladesh,101,Sydney,Fruit & vegetables,288.1461,384959.41,178
+SAUD,Saudi Arabia,101,Sydney,Fruit & vegetables,285.422,1558044.71,179
+GERG,Georgia,401,Port Adelaide,Fruit & vegetables,280.193,478918.35,180
+POLA,Poland,501,Fremantle,Fruit & vegetables,274.7787,771590.29,181
+TNGA,Tonga,301,Brisbane,Fruit & vegetables,269.826,486331.99,182
+GMLA,Guatemala,301,Brisbane,Fruit & vegetables,260.529,463487.19,183
+PORT,Portugal,201,Melbourne,Fruit & vegetables,258.5333,417096.74,184
+BOLI,Bolivia,101,Sydney,Fruit & vegetables,255.6791,4445791.94,185
+SRIL,Sri Lanka,301,Brisbane,Fruit & vegetables,254.878,557761.91,186
+ZMBA,Zambia,201,Melbourne,Fruit & vegetables,253.546,964339.48,187
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,Fruit & vegetables,245.3206,1541886.4,188
+MEXI,Mexico,401,Port Adelaide,Fruit & vegetables,245.241,1495674.98,189
+PERU,Peru,301,Brisbane,Fruit & vegetables,240.5003,1080922.83,190
+NEPA,Nepal,101,Sydney,Fruit & vegetables,240.2735,246329.48,191
+COST,Costa Rica,101,Sydney,Fruit & vegetables,239.4669,935641.13,192
+BOLI,Bolivia,201,Melbourne,Fruit & vegetables,236.2974,4340380.71,193
+INDO,Indonesia,401,Port Adelaide,Fruit & vegetables,235.7743,901362.36,194
+PAKI,Pakistan,501,Fremantle,Fruit & vegetables,233.7709,243317.43,195
+TUNI,Tunisia,201,Melbourne,Fruit & vegetables,233.207,692026.99,196
+COMB,Colombia,301,Brisbane,Fruit & vegetables,228.6505,420919.75,197
+FYRM,North Macedonia,201,Melbourne,Fruit & vegetables,227.6142,449363.43,198
+ASTA,Austria,101,Sydney,Fruit & vegetables,226.116,2458270.54,199
+USA,United States of America,401,Port Adelaide,Fruit & vegetables,223.3798,1956723.89,200
+UZBK,Uzbekistan,101,Sydney,Fruit & vegetables,222.237,751712.15,201
+TAIW,Taiwan,501,Fremantle,Fruit & vegetables,217.7415,173333.5,202
+SLOV,Slovenia,101,Sydney,Fruit & vegetables,201.031,589237.49,203
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,Fruit & vegetables,199.6709,889324.23,204
+CAN,Canada,401,Port Adelaide,Fruit & vegetables,195.4519,1209276.65,205
+SLOV,Slovenia,201,Melbourne,Fruit & vegetables,190.1063,531323.42,206
+EGYP,Egypt,401,Port Adelaide,Fruit & vegetables,185.1702,325395.06,207
+KENY,Kenya,301,Brisbane,Fruit & vegetables,183.336,1012053.32,208
+BULG,Bulgaria,201,Melbourne,Fruit & vegetables,172.3299,208707.84,209
+GERG,Georgia,501,Fremantle,Fruit & vegetables,163.0454,283224.43,210
+SOLO,Solomon Islands,201,Melbourne,Fruit & vegetables,154.715,275285.4,211
+AZBJ,Azerbaijan,101,Sydney,Fruit & vegetables,147.4069,220296.96,212
+JAP,Japan,301,Brisbane,Fruit & vegetables,144.6872,328796.21,213
+PSIA,Iran,501,Fremantle,Fruit & vegetables,144.012,169509.94,214
+TUNI,Tunisia,101,Sydney,Fruit & vegetables,141.221,433265.19,215
+KENY,Kenya,101,Sydney,Fruit & vegetables,135.082,769354.5,216
+SAFR,South Africa,999,Conf Aust Ports,Fruit & vegetables,128.46,1886352.87,217
+HONG,Hong Kong (SAR of China),101,Sydney,Fruit & vegetables,127.277,171306.36,218
+POLA,Poland,401,Port Adelaide,Fruit & vegetables,127.004,239294.48,219
+SYRI,Syria,201,Melbourne,Fruit & vegetables,126.76,180261.09,220
+PSIA,Iran,301,Brisbane,Fruit & vegetables,126.36,204857.07,221
+JAP,Japan,501,Fremantle,Fruit & vegetables,125.0643,52382.7,222
+GHAN,Ghana,201,Melbourne,Fruit & vegetables,121.2165,53821.01,223
+BULG,Bulgaria,101,Sydney,Fruit & vegetables,117.296,315702.65,224
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",401,Port Adelaide,Fruit & vegetables,116.555,110139.63,225
+BRAZ,Brazil,401,Port Adelaide,Fruit & vegetables,115.598,314410.72,226
+PALA,Palestine,101,Sydney,Fruit & vegetables,107.563,1190717.06,227
+SERB,Serbia,501,Fremantle,Fruit & vegetables,107.4367,447164.84,228
+BURK,Burkina Faso,201,Melbourne,Fruit & vegetables,107.271,404923.5,229
+BADE,Bangladesh,201,Melbourne,Fruit & vegetables,107.1499,94511.35,230
+SRIL,Sri Lanka,501,Fremantle,Fruit & vegetables,106.2285,177918.19,231
+SRIL,Sri Lanka,401,Port Adelaide,Fruit & vegetables,106.2285,177154.65,232
+BOLI,Bolivia,301,Brisbane,Fruit & vegetables,103.3667,2053011.42,233
+UKRA,Ukraine,101,Sydney,Fruit & vegetables,102.6114,1552520.77,234
+ASTA,Austria,301,Brisbane,Fruit & vegetables,100.496,757780.81,235
+MORO,Morocco,301,Brisbane,Fruit & vegetables,100.126,344073.8,236
+UAEM,United Arab Emirates,501,Fremantle,Fruit & vegetables,99.045,251460.84,237
+LEBA,Lebanon,501,Fremantle,Fruit & vegetables,97.975,269783.86,238
+SAUD,Saudi Arabia,501,Fremantle,Fruit & vegetables,97.83,457122.99,239
+ROUM,Romania,501,Fremantle,Fruit & vegetables,95.8,113470.62,240
+PSIA,Iran,401,Port Adelaide,Fruit & vegetables,94.837,94742.21,241
+ASTA,Austria,201,Melbourne,Fruit & vegetables,93.757,611933.83,242
+THAI,Thailand,701,Darwin,Fruit & vegetables,92.3565,198224.7,243
+PALA,Palestine,201,Melbourne,Fruit & vegetables,88.068,991070.2,244
+HONG,Hong Kong (SAR of China),201,Melbourne,Fruit & vegetables,87.6317,483723.45,245
+OMAN,Oman,101,Sydney,Fruit & vegetables,84.8804,13937.19,246
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,Fruit & vegetables,81.7179,205358.78,247
+MEXI,Mexico,501,Fremantle,Fruit & vegetables,81.0134,429379.55,248
+JORD,Jordan,501,Fremantle,Fruit & vegetables,80.7451,264035.78,249
+RKOR,"Korea, Republic of (South)",401,Port Adelaide,Fruit & vegetables,77.7234,458095.47,250
+COST,Costa Rica,301,Brisbane,Fruit & vegetables,76.518,364890.77,251
+INIA,India,701,Darwin,Fruit & vegetables,71.2203,54115.27,252
+CROA,Croatia,101,Sydney,Fruit & vegetables,71.092,160478.21,253
+ISRA,Israel,501,Fremantle,Fruit & vegetables,69.6987,455814.04,254
+BULG,Bulgaria,301,Brisbane,Fruit & vegetables,63.929,107286.02,255
+PAKI,Pakistan,401,Port Adelaide,Fruit & vegetables,63.7464,90818.69,256
+SAFR,South Africa,501,Fremantle,Fruit & vegetables,62.156,34059.18,257
+TUNI,Tunisia,501,Fremantle,Fruit & vegetables,60.9,229574.45,258
+JORD,Jordan,201,Melbourne,Fruit & vegetables,59.9011,148304.49,259
+CZEH,Czechia,201,Melbourne,Fruit & vegetables,58.1266,930529.97,260
+CHRI,Christmas Island,101,Sydney,Fruit & vegetables,56.2382,210697.32,261
+GHAN,Ghana,101,Sydney,Fruit & vegetables,53.3505,217910.15,262
+SWIT,Switzerland (includes Liechtenstein),301,Brisbane,Fruit & vegetables,53.025,134478.17,263
+CAN,Canada,501,Fremantle,Fruit & vegetables,52.0768,206565.33,264
+UGAN,Uganda,201,Melbourne,Fruit & vegetables,50.35,80716.09,265
+KENY,Kenya,201,Melbourne,Fruit & vegetables,50.2425,54362.61,266
+NGRA,Nigeria,501,Fremantle,Fruit & vegetables,49.2,44271.44,267
+UGAN,Uganda,501,Fremantle,Fruit & vegetables,49.008,117186.44,268
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,Fruit & vegetables,48.979,373420.17,269
+TANZ,Tanzania,301,Brisbane,Fruit & vegetables,47.5,48205.36,270
+COST,Costa Rica,401,Port Adelaide,Fruit & vegetables,46.812,269096.0,271
+CMBD,Cambodia,101,Sydney,Fruit & vegetables,45.724,609574.72,272
+AFGH,Afghanistan,401,Port Adelaide,Fruit & vegetables,45.55,79553.7,273
+COMB,Colombia,501,Fremantle,Fruit & vegetables,45.0656,163743.97,274
+BULG,Bulgaria,501,Fremantle,Fruit & vegetables,44.045,62706.57,275
+BULG,Bulgaria,401,Port Adelaide,Fruit & vegetables,43.866,57025.54,276
+NGRA,Nigeria,201,Melbourne,Fruit & vegetables,42.936,31598.88,277
+SWED,Sweden,301,Brisbane,Fruit & vegetables,42.928,223006.16,278
+MDOV,Moldova,101,Sydney,Fruit & vegetables,42.5801,162359.81,279
+PORT,Portugal,101,Sydney,Fruit & vegetables,42.117,59206.53,280
+UKRA,Ukraine,201,Melbourne,Fruit & vegetables,42.0474,486753.06,281
+FYRM,North Macedonia,401,Port Adelaide,Fruit & vegetables,41.633,135731.85,282
+SAMO,"Samoa, American",101,Sydney,Fruit & vegetables,40.226,245324.77,283
+BOHR,Bosnia and Herzegovina,101,Sydney,Fruit & vegetables,39.633,75227.39,284
+AUST,Australia (Re-imports),401,Port Adelaide,Fruit & vegetables,38.8485,147847.26,285
+CHIN,China (excludes SARs and Taiwan),701,Darwin,Fruit & vegetables,38.215,755456.03,286
+FYRM,North Macedonia,301,Brisbane,Fruit & vegetables,36.247,33262.24,287
+ALGR,Algeria,201,Melbourne,Fruit & vegetables,35.145,140805.58,288
+MLAY,Malaysia,401,Port Adelaide,Fruit & vegetables,32.7348,50058.28,289
+HGRY,Hungary,301,Brisbane,Fruit & vegetables,31.1423,54100.98,290
+LEBA,Lebanon,301,Brisbane,Fruit & vegetables,30.9,24455.0,291
+IVOR,Cote d'Ivoire,101,Sydney,Fruit & vegetables,30.086,173638.42,292
+LBYA,Libya,201,Melbourne,Fruit & vegetables,27.0,59575.13,293
+IRE,Ireland,101,Sydney,Fruit & vegetables,26.9803,8850.88,294
+BURM,Myanmar,501,Fremantle,Fruit & vegetables,26.879,13592.42,295
+SAUD,Saudi Arabia,301,Brisbane,Fruit & vegetables,25.814,60758.31,296
+HONG,Hong Kong (SAR of China),301,Brisbane,Fruit & vegetables,25.437,6178.67,297
+KAZA,Kazakhstan,101,Sydney,Fruit & vegetables,25.15,64711.54,298
+ASTA,Austria,501,Fremantle,Fruit & vegetables,25.124,231841.12,299
+KYRG,Kyrgyzstan,301,Brisbane,Fruit & vegetables,24.7733,59284.81,300
+HONG,Hong Kong (SAR of China),999,Conf Aust Ports,Fruit & vegetables,24.3539,338205.97,301
+TANZ,Tanzania,201,Melbourne,Fruit & vegetables,24.096,69922.72,302
+JAP,Japan,401,Port Adelaide,Fruit & vegetables,23.9125,4642.24,303
+PERU,Peru,501,Fremantle,Fruit & vegetables,23.84,123420.34,304
+BELE,Belize,301,Brisbane,Fruit & vegetables,22.32,140752.4,305
+HGRY,Hungary,401,Port Adelaide,Fruit & vegetables,22.225,50214.68,306
+ARGE,Argentina,401,Port Adelaide,Fruit & vegetables,22.02,80655.75,307
+ITAL,Italy (includes Holy See and San Marino),701,Darwin,Fruit & vegetables,21.625,29478.06,308
+NZ,New Zealand,602,Burnie,Fruit & vegetables,21.5,30280.7,309
+CZEH,Czechia,101,Sydney,Fruit & vegetables,21.41,52401.54,310
+IRAQ,Iraq,501,Fremantle,Fruit & vegetables,21.3,14006.65,311
+AUST,Australia (Re-imports),501,Fremantle,Fruit & vegetables,21.0,23750.5,312
+NGRA,Nigeria,401,Port Adelaide,Fruit & vegetables,21.0,14711.49,313
+UAEM,United Arab Emirates,401,Port Adelaide,Fruit & vegetables,20.962,35787.22,314
+FYRM,North Macedonia,501,Fremantle,Fruit & vegetables,20.782,48839.17,315
+BADE,Bangladesh,301,Brisbane,Fruit & vegetables,20.7599,8166.06,316
+RICO,Puerto Rico,101,Sydney,Fruit & vegetables,20.32,105276.85,317
+MALI,Mali,201,Melbourne,Fruit & vegetables,20.28,41249.48,318
+GMLA,Guatemala,312,Townsville,Fruit & vegetables,19.804,21287.58,319
+PERU,Peru,401,Port Adelaide,Fruit & vegetables,19.33,34470.14,320
+BOHR,Bosnia and Herzegovina,201,Melbourne,Fruit & vegetables,19.123,28583.69,321
+SYRI,Syria,501,Fremantle,Fruit & vegetables,18.85,8650.36,322
+OMAN,Oman,201,Melbourne,Fruit & vegetables,18.5078,6664.4,323
+UGAN,Uganda,301,Brisbane,Fruit & vegetables,18.48,25229.69,324
+TUNI,Tunisia,301,Brisbane,Fruit & vegetables,18.355,34647.1,325
+UZBK,Uzbekistan,501,Fremantle,Fruit & vegetables,18.3,149003.04,326
+NGRA,Nigeria,101,Sydney,Fruit & vegetables,18.281,75056.48,327
+AUST,Australia (Re-imports),301,Brisbane,Fruit & vegetables,17.747,33824.85,328
+TNGA,Tonga,102,Newcastle,Fruit & vegetables,17.5185,33122.73,329
+IVOR,Cote d'Ivoire,201,Melbourne,Fruit & vegetables,17.038,104912.43,330
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,Fruit & vegetables,16.777,159456.47,331
+SERB,Serbia,301,Brisbane,Fruit & vegetables,16.6212,112756.9,332
+RKOR,"Korea, Republic of (South)",999,Conf Aust Ports,Fruit & vegetables,15.812,344157.3,333
+MLTA,Malta,201,Melbourne,Fruit & vegetables,14.5478,41689.64,334
+PORT,Portugal,401,Port Adelaide,Fruit & vegetables,14.4103,26690.49,335
+TNGA,Tonga,401,Port Adelaide,Fruit & vegetables,14.06,1126.4,336
+SERB,Serbia,401,Port Adelaide,Fruit & vegetables,14.04,88481.74,337
+SING,Singapore,501,Fremantle,Fruit & vegetables,13.9415,5869.32,338
+KENY,Kenya,501,Fremantle,Fruit & vegetables,13.347,10289.99,339
+THAI,Thailand,999,Conf Aust Ports,Fruit & vegetables,12.3136,276710.81,340
+FIJI,Fiji,501,Fremantle,Fruit & vegetables,12.186,12270.6,341
+SING,Singapore,301,Brisbane,Fruit & vegetables,12.0395,4285.96,342
+FIJI,Fiji,102,Newcastle,Fruit & vegetables,11.4,20463.04,343
+CMBD,Cambodia,201,Melbourne,Fruit & vegetables,7.1984,13945.37,344
+SAUD,Saudi Arabia,401,Port Adelaide,Fruit & vegetables,7.101,66000.6,345
+ESTO,Estonia,501,Fremantle,Fruit & vegetables,6.699,73393.51,346
+SLEO,Sierra Leone,201,Melbourne,Fruit & vegetables,6.3793,15694.38,347
+CHIN,China (excludes SARs and Taiwan),312,Townsville,Fruit & vegetables,5.28,1146.08,348
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Fruit & vegetables,3.9854,31009.1,349
+ZIMB,Zimbabwe,201,Melbourne,Fruit & vegetables,3.727,1282.09,350
+ZIMB,Zimbabwe,101,Sydney,Fruit & vegetables,3.394,1540.39,351
+SING,Singapore,101,Sydney,Fruit & vegetables,3.2577,29815.41,352
+BOTS,Botswana,501,Fremantle,Fruit & vegetables,2.8928,29257.05,353
+SING,Singapore,201,Melbourne,Fruit & vegetables,2.53,5731.31,354
+PLYN,French Polynesia,301,Brisbane,Fruit & vegetables,2.167,19796.41,355
+TAIW,Taiwan,401,Port Adelaide,Fruit & vegetables,0.866,2485.78,356
+NIGE,Niger,501,Fremantle,Fruit & vegetables,0.353,3156.25,357
+USA,United States of America,201,Melbourne,Meat & seafood,40785.62,246488983.32,1
+USA,United States of America,101,Sydney,Meat & seafood,39581.3346,197812466.69,2
+THAI,Thailand,201,Melbourne,Meat & seafood,31736.1481,214222029.69,3
+VIET,Vietnam,101,Sydney,Meat & seafood,26987.7784,259572465.37,4
+THAI,Thailand,101,Sydney,Meat & seafood,22813.0016,172688587.22,5
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Meat & seafood,19735.9767,173063267.46,6
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Meat & seafood,16348.6425,117892291.35,7
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Meat & seafood,15371.3465,108196326.6,8
+VIET,Vietnam,201,Melbourne,Meat & seafood,14831.6022,148611723.2,9
+NZ,New Zealand,101,Sydney,Meat & seafood,13638.1798,114171274.8,10
+THAI,Thailand,301,Brisbane,Meat & seafood,13264.1838,76238393.91,11
+NZ,New Zealand,201,Melbourne,Meat & seafood,12517.7415,104945165.4,12
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Meat & seafood,12271.1057,111185204.49,13
+USA,United States of America,301,Brisbane,Meat & seafood,11372.5217,64863419.41,14
+NETH,Netherlands,101,Sydney,Meat & seafood,10183.6589,66346077.2,15
+VIET,Vietnam,301,Brisbane,Meat & seafood,9913.494,96870332.62,16
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Meat & seafood,8839.6913,60583627.55,17
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,Meat & seafood,8181.182,54782123.7,18
+NETH,Netherlands,201,Melbourne,Meat & seafood,7793.0508,52621005.47,19
+INDO,Indonesia,201,Melbourne,Meat & seafood,7274.7746,60619057.02,20
+NETH,Netherlands,301,Brisbane,Meat & seafood,7149.1018,41426294.8,21
+IRE,Ireland,201,Melbourne,Meat & seafood,6970.1698,45559638.74,22
+NZ,New Zealand,301,Brisbane,Meat & seafood,6107.8888,69075763.31,23
+CAN,Canada,201,Melbourne,Meat & seafood,4525.355,22384931.76,24
+THAI,Thailand,501,Fremantle,Meat & seafood,4464.3835,24272597.09,25
+VIET,Vietnam,501,Fremantle,Meat & seafood,4432.5325,43867939.74,26
+THAI,Thailand,401,Port Adelaide,Meat & seafood,3802.5013,16667852.22,27
+CAN,Canada,101,Sydney,Meat & seafood,3643.6787,21681054.2,28
+TAIW,Taiwan,101,Sydney,Meat & seafood,3094.8802,24558594.33,29
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,Meat & seafood,3079.1082,20687723.59,30
+MLAY,Malaysia,101,Sydney,Meat & seafood,3033.0868,24496133.02,31
+IRE,Ireland,101,Sydney,Meat & seafood,2710.625,18043891.44,32
+INDO,Indonesia,101,Sydney,Meat & seafood,2597.7313,30207819.63,33
+RKOR,"Korea, Republic of (South)",101,Sydney,Meat & seafood,2448.7532,10281992.81,34
+POLA,Poland,201,Melbourne,Meat & seafood,2351.1924,28404815.18,35
+MLAY,Malaysia,201,Melbourne,Meat & seafood,2334.363,15092517.68,36
+NWAY,Norway,301,Brisbane,Meat & seafood,2183.4479,42233823.72,37
+TAIW,Taiwan,201,Melbourne,Meat & seafood,2145.7011,15733640.96,38
+NWAY,Norway,101,Sydney,Meat & seafood,2064.8641,39610500.31,39
+INDO,Indonesia,301,Brisbane,Meat & seafood,2027.6628,25048138.1,40
+MLAY,Malaysia,301,Brisbane,Meat & seafood,1759.6597,12456235.53,41
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,Meat & seafood,1669.579,12866953.42,42
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,Meat & seafood,1587.9378,9460590.16,43
+POLA,Poland,101,Sydney,Meat & seafood,1457.2323,18589831.78,44
+SPAI,Spain,101,Sydney,Meat & seafood,1432.8138,18889501.96,45
+VIET,Vietnam,401,Port Adelaide,Meat & seafood,1393.4358,13852772.63,46
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Meat & seafood,1386.9425,18985853.66,47
+JAP,Japan,101,Sydney,Meat & seafood,1270.9247,21862329.83,48
+NZ,New Zealand,501,Fremantle,Meat & seafood,1232.7034,8949103.33,49
+INDO,Indonesia,501,Fremantle,Meat & seafood,1209.9416,11846499.07,50
+TAIW,Taiwan,301,Brisbane,Meat & seafood,1203.0508,11368084.61,51
+BURM,Myanmar,201,Melbourne,Meat & seafood,1197.6856,12061500.78,52
+SAFR,South Africa,101,Sydney,Meat & seafood,1187.0289,10413806.22,53
+AUST,Australia (Re-imports),201,Melbourne,Meat & seafood,1176.4739,8653477.77,54
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Meat & seafood,1164.0103,11244781.35,55
+PHIL,Philippines,101,Sydney,Meat & seafood,1145.6753,6448295.37,56
+FGMY,Germany,101,Sydney,Meat & seafood,1136.2544,14350232.04,57
+FGMY,Germany,201,Melbourne,Meat & seafood,1024.4944,10619207.04,58
+NETH,Netherlands,501,Fremantle,Meat & seafood,906.1034,6172253.31,59
+IRE,Ireland,501,Fremantle,Meat & seafood,882.0036,5525004.85,60
+BRAZ,Brazil,101,Sydney,Meat & seafood,851.7986,16596940.43,61
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Meat & seafood,831.7728,17102297.45,62
+CHLE,Chile,101,Sydney,Meat & seafood,768.2216,10454087.2,63
+MLAY,Malaysia,501,Fremantle,Meat & seafood,755.3294,5048682.0,64
+IRE,Ireland,301,Brisbane,Meat & seafood,755.2207,4411984.57,65
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Meat & seafood,751.9127,7250622.25,66
+AUST,Australia (Re-imports),301,Brisbane,Meat & seafood,750.5619,8878845.05,67
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Meat & seafood,728.3778,4803496.85,68
+ARGE,Argentina,101,Sydney,Meat & seafood,654.976,5068891.23,69
+JAP,Japan,201,Melbourne,Meat & seafood,652.147,8926302.16,70
+SAFR,South Africa,501,Fremantle,Meat & seafood,643.8917,6196958.6,71
+SAFR,South Africa,201,Melbourne,Meat & seafood,635.192,4637665.22,72
+BRAZ,Brazil,201,Melbourne,Meat & seafood,605.0902,4435389.3,73
+POLA,Poland,301,Brisbane,Meat & seafood,592.1092,8129712.39,74
+SAFR,South Africa,301,Brisbane,Meat & seafood,589.6421,4943883.33,75
+PHIL,Philippines,201,Melbourne,Meat & seafood,581.5218,2060541.94,76
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,Meat & seafood,548.3523,4539899.89,77
+BURM,Myanmar,101,Sydney,Meat & seafood,543.5743,5198650.5,78
+CHLE,Chile,201,Melbourne,Meat & seafood,537.2649,4147804.58,79
+NWAY,Norway,201,Melbourne,Meat & seafood,529.4065,9712527.16,80
+ARGE,Argentina,201,Melbourne,Meat & seafood,505.715,4060927.78,81
+PHIL,Philippines,501,Fremantle,Meat & seafood,479.5351,2292509.13,82
+USA,United States of America,401,Port Adelaide,Meat & seafood,479.1097,4263722.81,83
+FRAN,France (includes Andorra and Monaco),101,Sydney,Meat & seafood,451.9613,2897299.43,84
+SRIL,Sri Lanka,201,Melbourne,Meat & seafood,406.6178,2801766.68,85
+TAIW,Taiwan,501,Fremantle,Meat & seafood,406.494,3268048.09,86
+POLA,Poland,501,Fremantle,Meat & seafood,404.7912,5342434.02,87
+NAMI,Namibia,201,Melbourne,Meat & seafood,400.3839,3653250.97,88
+NAMI,Namibia,401,Port Adelaide,Meat & seafood,391.4381,3494165.18,89
+SPAI,Spain,201,Melbourne,Meat & seafood,388.1797,5120483.89,90
+AUST,Australia (Re-imports),501,Fremantle,Meat & seafood,386.9124,12884108.1,91
+AUST,Australia (Re-imports),101,Sydney,Meat & seafood,383.5297,4538141.65,92
+RKOR,"Korea, Republic of (South)",301,Brisbane,Meat & seafood,375.2913,1181612.62,93
+CAN,Canada,501,Fremantle,Meat & seafood,361.7438,1296236.4,94
+INIA,India,201,Melbourne,Meat & seafood,339.7852,1795653.73,95
+JAP,Japan,301,Brisbane,Meat & seafood,335.8517,2916161.76,96
+POLA,Poland,401,Port Adelaide,Meat & seafood,321.9301,2415247.04,97
+BURM,Myanmar,501,Fremantle,Meat & seafood,318.527,3113359.82,98
+INDO,Indonesia,401,Port Adelaide,Meat & seafood,318.3217,1494784.88,99
+BADE,Bangladesh,201,Melbourne,Meat & seafood,311.9621,3193122.93,100
+NWAY,Norway,501,Fremantle,Meat & seafood,303.5403,5631498.23,101
+MLAY,Malaysia,401,Port Adelaide,Meat & seafood,295.5301,835261.27,102
+DENM,Denmark (includes Greenland and Faroe Islands),401,Port Adelaide,Meat & seafood,292.8196,2401134.65,103
+LATV,Latvia,201,Melbourne,Meat & seafood,288.6788,2156313.38,104
+SING,Singapore,201,Melbourne,Meat & seafood,266.2592,2410648.4,105
+INIA,India,101,Sydney,Meat & seafood,263.468,1931478.72,106
+PERU,Peru,101,Sydney,Meat & seafood,253.97,1975929.91,107
+RKOR,"Korea, Republic of (South)",201,Melbourne,Meat & seafood,251.7434,724184.88,108
+USA,United States of America,501,Fremantle,Meat & seafood,247.7427,1332819.54,109
+NAMI,Namibia,501,Fremantle,Meat & seafood,242.5373,2509311.95,110
+RKOR,"Korea, Republic of (South)",501,Fremantle,Meat & seafood,238.7096,420842.39,111
+MORO,Morocco,101,Sydney,Meat & seafood,238.52,1926052.29,112
+BRAZ,Brazil,301,Brisbane,Meat & seafood,235.8135,1190521.31,113
+PORT,Portugal,201,Melbourne,Meat & seafood,221.7474,2014728.61,114
+CROA,Croatia,101,Sydney,Meat & seafood,205.9095,1065125.71,115
+SPAI,Spain,301,Brisbane,Meat & seafood,183.2289,1606605.63,116
+NAMI,Namibia,301,Brisbane,Meat & seafood,176.1768,1766314.64,117
+PERU,Peru,201,Melbourne,Meat & seafood,175.206,2134160.62,118
+BADE,Bangladesh,101,Sydney,Meat & seafood,163.336,1028770.5,119
+SWED,Sweden,101,Sydney,Meat & seafood,161.8135,758836.58,120
+SRIL,Sri Lanka,101,Sydney,Meat & seafood,161.1964,1506161.16,121
+TUNI,Tunisia,501,Fremantle,Meat & seafood,158.946,1162210.31,122
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,Meat & seafood,147.4469,2163422.06,123
+MORO,Morocco,201,Melbourne,Meat & seafood,143.13,2404651.94,124
+INIA,India,301,Brisbane,Meat & seafood,139.4025,1252082.98,125
+SAFR,South Africa,401,Port Adelaide,Meat & seafood,138.422,963526.67,126
+JAP,Japan,501,Fremantle,Meat & seafood,137.6169,428339.22,127
+NAMI,Namibia,101,Sydney,Meat & seafood,135.5734,1487504.14,128
+SAUD,Saudi Arabia,201,Melbourne,Meat & seafood,131.598,1009731.44,129
+SING,Singapore,101,Sydney,Meat & seafood,131.5972,2915544.43,130
+JAP,Japan,401,Port Adelaide,Meat & seafood,127.8433,163323.79,131
+ESTO,Estonia,101,Sydney,Meat & seafood,123.672,354105.08,132
+TUNI,Tunisia,101,Sydney,Meat & seafood,123.557,1422499.34,133
+IRE,Ireland,401,Port Adelaide,Meat & seafood,123.1825,813444.17,134
+PORT,Portugal,101,Sydney,Meat & seafood,122.9937,1115352.96,135
+FRAN,France (includes Andorra and Monaco),301,Brisbane,Meat & seafood,117.5471,704770.7,136
+PHIL,Philippines,301,Brisbane,Meat & seafood,97.5139,797177.98,137
+TAIW,Taiwan,401,Port Adelaide,Meat & seafood,97.3083,594583.13,138
+FIJI,Fiji,101,Sydney,Meat & seafood,94.6058,311673.44,139
+FGMY,Germany,501,Fremantle,Meat & seafood,92.9686,977389.79,140
+ICEL,Iceland,201,Melbourne,Meat & seafood,92.5761,524187.16,141
+CAN,Canada,301,Brisbane,Meat & seafood,85.4926,747685.15,142
+TUNI,Tunisia,201,Melbourne,Meat & seafood,81.9882,752313.8,143
+NZ,New Zealand,401,Port Adelaide,Meat & seafood,81.9688,272522.6,144
+SLOV,Slovenia,201,Melbourne,Meat & seafood,81.6353,515258.85,145
+SING,Singapore,301,Brisbane,Meat & seafood,80.6444,466386.64,146
+LATV,Latvia,101,Sydney,Meat & seafood,76.5228,646512.34,147
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,Meat & seafood,72.2214,1692927.93,148
+SOLO,Solomon Islands,301,Brisbane,Meat & seafood,71.4393,520373.16,149
+FIJI,Fiji,201,Melbourne,Meat & seafood,70.1876,489916.42,150
+CAN,Canada,401,Port Adelaide,Meat & seafood,67.188,519785.99,151
+MASY,Madagascar,101,Sydney,Meat & seafood,66.5817,737184.5,152
+TANZ,Tanzania,101,Sydney,Meat & seafood,63.315,682249.61,153
+PNG,Papua New Guinea,101,Sydney,Meat & seafood,62.8481,343434.81,154
+CHLE,Chile,301,Brisbane,Meat & seafood,62.6008,501310.71,155
+SING,Singapore,501,Fremantle,Meat & seafood,62.1186,448188.19,156
+HONG,Hong Kong (SAR of China),201,Melbourne,Meat & seafood,61.5324,396351.26,157
+SRIL,Sri Lanka,501,Fremantle,Meat & seafood,58.2361,443614.09,158
+HONG,Hong Kong (SAR of China),101,Sydney,Meat & seafood,57.0219,506695.06,159
+GREE,Greece,101,Sydney,Meat & seafood,56.1021,402759.95,160
+BRAZ,Brazil,501,Fremantle,Meat & seafood,51.9314,2435322.21,161
+TANZ,Tanzania,301,Brisbane,Meat & seafood,51.06,457349.5,162
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,Meat & seafood,50.9838,227618.35,163
+NETH,Netherlands,401,Port Adelaide,Meat & seafood,49.9231,349371.18,164
+AUST,Australia (Re-imports),401,Port Adelaide,Meat & seafood,48.792,506617.74,165
+UGAN,Uganda,201,Melbourne,Meat & seafood,48.732,4152.7,166
+FGMY,Germany,301,Brisbane,Meat & seafood,48.473,373836.01,167
+BADE,Bangladesh,501,Fremantle,Meat & seafood,48.35,623038.92,168
+SPAI,Spain,401,Port Adelaide,Meat & seafood,48.2461,501612.27,169
+HONG,Hong Kong (SAR of China),501,Fremantle,Meat & seafood,48.1544,121333.97,170
+CROA,Croatia,201,Melbourne,Meat & seafood,46.1311,80993.64,171
+SRIL,Sri Lanka,301,Brisbane,Meat & seafood,45.9245,545319.2,172
+FIJI,Fiji,301,Brisbane,Meat & seafood,45.1125,91908.32,173
+SPAI,Spain,501,Fremantle,Meat & seafood,44.5179,647365.12,174
+CHLE,Chile,501,Fremantle,Meat & seafood,43.5247,194472.39,175
+LEBA,Lebanon,201,Melbourne,Meat & seafood,43.294,124721.73,176
+NCAL,New Caledonia,201,Melbourne,Meat & seafood,42.5,1172096.5,177
+EGYP,Egypt,501,Fremantle,Meat & seafood,42.063,320488.86,178
+INIA,India,501,Fremantle,Meat & seafood,39.1381,166574.62,179
+BADE,Bangladesh,301,Brisbane,Meat & seafood,38.37,552217.48,180
+MAUS,Mauritius,101,Sydney,Meat & seafood,35.181,332868.0,181
+CMBD,Cambodia,201,Melbourne,Meat & seafood,35.0813,189363.07,182
+SERB,Serbia,101,Sydney,Meat & seafood,34.423,41566.97,183
+SLOV,Slovenia,101,Sydney,Meat & seafood,34.2286,185440.54,184
+LITH,Lithuania,101,Sydney,Meat & seafood,33.8061,104200.34,185
+NZ,New Zealand,605,Launceston,Meat & seafood,33.361,77469.0,186
+BHRN,Bahrain,201,Melbourne,Meat & seafood,31.833,299627.33,187
+BAHA,Bahamas,201,Melbourne,Meat & seafood,31.661,2128418.35,188
+COOK,Cook Islands,101,Sydney,Meat & seafood,30.7202,95076.7,189
+CROA,Croatia,501,Fremantle,Meat & seafood,30.546,6140.16,190
+NICA,Nicaragua,101,Sydney,Meat & seafood,30.4273,1862382.3,191
+GREE,Greece,201,Melbourne,Meat & seafood,29.4639,18120.97,192
+BURM,Myanmar,301,Brisbane,Meat & seafood,28.8658,300415.87,193
+STHE,St Helena,201,Melbourne,Meat & seafood,28.723,912493.54,194
+MOZA,Mozambique,501,Fremantle,Meat & seafood,28.43,375873.53,195
+SOLO,Solomon Islands,201,Melbourne,Meat & seafood,27.5474,240324.27,196
+PSIA,Iran,401,Port Adelaide,Meat & seafood,25.288,32821.9,197
+TANZ,Tanzania,201,Melbourne,Meat & seafood,24.469,2352.45,198
+PSIA,Iran,101,Sydney,Meat & seafood,23.999,183956.87,199
+LATV,Latvia,301,Brisbane,Meat & seafood,21.668,222632.36,200
+NCAL,New Caledonia,301,Brisbane,Meat & seafood,21.26,587851.86,201
+UGAN,Uganda,401,Port Adelaide,Meat & seafood,21.08,28893.74,202
+LEBA,Lebanon,101,Sydney,Meat & seafood,19.9425,56542.08,203
+OMAN,Oman,201,Melbourne,Meat & seafood,19.8,137719.74,204
+SERB,Serbia,201,Melbourne,Meat & seafood,18.7467,9758.33,205
+UAEM,United Arab Emirates,101,Sydney,Meat & seafood,18.491,118219.53,206
+TURK,Turkiye,201,Melbourne,Meat & seafood,18.42,52531.82,207
+BELG,Belgium,101,Sydney,Meat & seafood,18.08,486486.48,208
+PORT,Portugal,401,Port Adelaide,Meat & seafood,17.385,155752.11,209
+HONG,Hong Kong (SAR of China),301,Brisbane,Meat & seafood,17.0338,9896.24,210
+ALBA,Albania,401,Port Adelaide,Meat & seafood,16.4659,81730.47,211
+BAHA,Bahamas,101,Sydney,Meat & seafood,16.3293,1159565.06,212
+PORT,Portugal,501,Fremantle,Meat & seafood,15.356,128905.44,213
+STHE,St Helena,101,Sydney,Meat & seafood,14.245,457618.63,214
+JAP,Japan,701,Darwin,Meat & seafood,13.546,1304.18,215
+ANTC,"Antarctica, nfd",601,Hobart,Meat & seafood,12.4,5014.07,216
+FRAN,France (includes Andorra and Monaco),501,Fremantle,Meat & seafood,11.1389,17825.45,217
+CHIN,China (excludes SARs and Taiwan),312,Townsville,Meat & seafood,10.73,59280.98,218
+BELE,Belize,101,Sydney,Meat & seafood,10.353,523378.89,219
+SEYC,Seychelles,101,Sydney,Meat & seafood,9.2064,132186.33,220
+BELE,Belize,201,Melbourne,Meat & seafood,8.573,457280.17,221
+BAHA,Bahamas,301,Brisbane,Meat & seafood,8.5729,624089.23,222
+BELE,Belize,301,Brisbane,Meat & seafood,8.155,457170.46,223
+ICEL,Iceland,101,Sydney,Meat & seafood,7.863,319454.84,224
+SENE,Senegal,101,Sydney,Meat & seafood,7.7433,2987.04,225
+PNG,Papua New Guinea,301,Brisbane,Meat & seafood,7.394,62552.59,226
+NGRA,Nigeria,201,Melbourne,Meat & seafood,6.163,2567.37,227
+PAKI,Pakistan,101,Sydney,Meat & seafood,4.8,31307.44,228
+CHIN,China (excludes SARs and Taiwan),701,Darwin,Meat & seafood,4.56,6327.07,229
+MASY,Madagascar,501,Fremantle,Meat & seafood,4.4061,132910.81,230
+ASTA,Austria,101,Sydney,Meat & seafood,4.0466,33988.0,231
+NWAY,Norway,401,Port Adelaide,Meat & seafood,3.425,135355.0,232
+MLDV,Maldives,101,Sydney,Meat & seafood,2.8224,39602.72,233
+SWED,Sweden,201,Melbourne,Meat & seafood,1.26,27337.27,234
+TURK,Turkiye,101,Sydney,Meat & seafood,0.268,19308.15,235
+MLAY,Malaysia,201,Melbourne,Pantry,99794.8587,537371518.96,1
+THAI,Thailand,101,Sydney,Pantry,85078.7161,272039674.22,2
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Pantry,83943.2767,355932597.85,3
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Pantry,82452.3142,240856934.48,4
+THAI,Thailand,201,Melbourne,Pantry,69888.9726,191351960.77,5
+INIA,India,101,Sydney,Pantry,59162.2273,148581481.45,6
+MLAY,Malaysia,101,Sydney,Pantry,57810.7003,179736720.89,7
+INIA,India,201,Melbourne,Pantry,56961.528,133962661.65,8
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Pantry,51930.1748,207342564.27,9
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Pantry,50204.6915,197103436.43,10
+MLAY,Malaysia,301,Brisbane,Pantry,48616.3616,90645128.92,11
+NZ,New Zealand,101,Sydney,Pantry,46391.0131,427938083.33,12
+THAI,Thailand,301,Brisbane,Pantry,39221.0813,95584915.61,13
+NZ,New Zealand,201,Melbourne,Pantry,35321.0956,358652875.16,14
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Pantry,31137.1074,83778715.38,15
+USA,United States of America,201,Melbourne,Pantry,29220.4304,130774585.8,16
+SPAI,Spain,101,Sydney,Pantry,27637.1115,180195936.64,17
+VIET,Vietnam,101,Sydney,Pantry,27211.6151,67754233.96,18
+MLAY,Malaysia,102,Newcastle,Pantry,25162.884,51803448.56,19
+TURK,Turkiye,201,Melbourne,Pantry,24903.5524,20246889.12,20
+NZ,New Zealand,301,Brisbane,Pantry,24550.5948,48394915.18,21
+RKOR,"Korea, Republic of (South)",101,Sydney,Pantry,23467.6198,106217515.41,22
+USA,United States of America,101,Sydney,Pantry,22703.9121,218598848.01,23
+INDO,Indonesia,201,Melbourne,Pantry,22668.5953,251989311.77,24
+VIET,Vietnam,201,Melbourne,Pantry,22540.8842,61216346.88,25
+SING,Singapore,201,Melbourne,Pantry,21550.0673,413747422.76,26
+THAI,Thailand,501,Fremantle,Pantry,20482.2315,45739794.41,27
+JAP,Japan,101,Sydney,Pantry,20191.8778,73092197.83,28
+SPAI,Spain,201,Melbourne,Pantry,18048.8202,118956968.61,29
+INIA,India,301,Brisbane,Pantry,17398.6689,36594472.59,30
+JAP,Japan,201,Melbourne,Pantry,16444.6693,54163827.33,31
+FGMY,Germany,101,Sydney,Pantry,13636.474,132915353.19,32
+VIET,Vietnam,301,Brisbane,Pantry,13591.4839,25286583.58,33
+INDO,Indonesia,101,Sydney,Pantry,13574.9878,98634129.13,34
+SING,Singapore,101,Sydney,Pantry,12140.6971,644820046.07,35
+INIA,India,501,Fremantle,Pantry,11944.832,23008638.23,36
+TAIW,Taiwan,101,Sydney,Pantry,11842.6868,47053498.4,37
+MLAY,Malaysia,501,Fremantle,Pantry,11816.2791,30135799.49,38
+FGMY,Germany,201,Melbourne,Pantry,11650.5288,115937928.68,39
+JAP,Japan,301,Brisbane,Pantry,10417.4866,37978496.93,40
+NETH,Netherlands,101,Sydney,Pantry,10233.7131,97191420.87,41
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Pantry,10203.8556,70164713.85,42
+NETH,Netherlands,201,Melbourne,Pantry,10071.6464,57472521.11,43
+PAKI,Pakistan,201,Melbourne,Pantry,9638.853,19690883.17,44
+ITAL,Italy (includes Holy See and San Marino),401,Port Adelaide,Pantry,9205.3382,27648951.29,45
+THAI,Thailand,401,Port Adelaide,Pantry,8484.6801,15572171.46,46
+BELG,Belgium,201,Melbourne,Pantry,8277.3104,54789371.19,47
+MLAY,Malaysia,401,Port Adelaide,Pantry,8236.6123,35673926.95,48
+BELG,Belgium,101,Sydney,Pantry,7937.4857,40596773.02,49
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Pantry,7837.3693,50161119.55,50
+VIET,Vietnam,501,Fremantle,Pantry,7471.9307,10819370.85,51
+ITAL,Italy (includes Holy See and San Marino),301,Brisbane,Pantry,7406.0305,20540382.1,52
+INDO,Indonesia,301,Brisbane,Pantry,7241.509,33990977.46,53
+ITAL,Italy (includes Holy See and San Marino),501,Fremantle,Pantry,7137.0392,19044826.87,54
+INIA,India,401,Port Adelaide,Pantry,6983.3697,13074722.48,55
+RKOR,"Korea, Republic of (South)",201,Melbourne,Pantry,6959.9267,27898011.44,56
+CHIN,China (excludes SARs and Taiwan),501,Fremantle,Pantry,6572.708,17358131.93,57
+PAKI,Pakistan,101,Sydney,Pantry,6457.4487,13920504.31,58
+TAIW,Taiwan,201,Melbourne,Pantry,6330.1082,25221346.85,59
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Pantry,6100.501,57362238.94,60
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Pantry,5911.5035,34498563.75,61
+SWIT,Switzerland (includes Liechtenstein),201,Melbourne,Pantry,5514.223,69265678.98,62
+SRIL,Sri Lanka,101,Sydney,Pantry,5385.5742,20237288.62,63
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Pantry,5217.1061,27504644.8,64
+RKOR,"Korea, Republic of (South)",301,Brisbane,Pantry,5214.5121,20424787.11,65
+SRIL,Sri Lanka,201,Melbourne,Pantry,4940.2209,20812898.14,66
+PHIL,Philippines,201,Melbourne,Pantry,4881.3624,17694140.61,67
+POLA,Poland,201,Melbourne,Pantry,4657.7524,25186445.48,68
+HONG,Hong Kong (SAR of China),101,Sydney,Pantry,4451.6693,15258335.85,69
+FRAN,France (includes Andorra and Monaco),101,Sydney,Pantry,4427.0555,37622058.06,70
+TAIW,Taiwan,301,Brisbane,Pantry,4417.1152,10279476.93,71
+CMBD,Cambodia,201,Melbourne,Pantry,4176.8038,5316374.2,72
+BRAZ,Brazil,201,Melbourne,Pantry,4099.1905,12305769.17,73
+SWED,Sweden,101,Sydney,Pantry,4074.9644,80429894.03,74
+TURK,Turkiye,101,Sydney,Pantry,3994.0228,16257865.78,75
+PHIL,Philippines,101,Sydney,Pantry,3964.3901,14933762.06,76
+CAN,Canada,101,Sydney,Pantry,3877.2032,44441938.05,77
+SAFR,South Africa,201,Melbourne,Pantry,3861.9938,18023814.9,78
+MEXI,Mexico,201,Melbourne,Pantry,3762.2042,12825639.25,79
+CHIN,China (excludes SARs and Taiwan),401,Port Adelaide,Pantry,3679.4816,8229758.98,80
+HONG,Hong Kong (SAR of China),201,Melbourne,Pantry,3574.7856,14028397.07,81
+INDO,Indonesia,501,Fremantle,Pantry,3450.7088,17558619.71,82
+TURK,Turkiye,501,Fremantle,Pantry,3399.2657,1135722.75,83
+SPAI,Spain,301,Brisbane,Pantry,3303.167,20245800.12,84
+SPAI,Spain,401,Port Adelaide,Pantry,3299.0972,22898742.46,85
+CMBD,Cambodia,101,Sydney,Pantry,3091.0645,3789005.31,86
+JAP,Japan,501,Fremantle,Pantry,2987.7539,9359889.13,87
+SING,Singapore,501,Fremantle,Pantry,2875.0422,153691409.39,88
+SING,Singapore,301,Brisbane,Pantry,2873.1165,18860154.79,89
+MEXI,Mexico,101,Sydney,Pantry,2847.1685,12260857.27,90
+PAKI,Pakistan,501,Fremantle,Pantry,2777.6715,6446614.01,91
+CAN,Canada,201,Melbourne,Pantry,2755.3467,17291282.99,92
+SPAI,Spain,501,Fremantle,Pantry,2647.7923,18452096.91,93
+ARGE,Argentina,101,Sydney,Pantry,2495.0391,4842011.55,94
+ARGE,Argentina,201,Melbourne,Pantry,2417.104,4797023.09,95
+ISRA,Israel,201,Melbourne,Pantry,2391.3574,15785657.62,96
+BRAZ,Brazil,101,Sydney,Pantry,2385.7316,6868892.9,97
+GREE,Greece,101,Sydney,Pantry,2366.6442,13179525.77,98
+RKOR,"Korea, Republic of (South)",501,Fremantle,Pantry,2360.4527,9197465.19,99
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",401,Port Adelaide,Pantry,2355.651,7242226.41,100
+POLA,Poland,101,Sydney,Pantry,2311.9448,19543580.37,101
+IVOR,Cote d'Ivoire,201,Melbourne,Pantry,2266.068,55289478.21,102
+SAFR,South Africa,101,Sydney,Pantry,2265.6118,8670225.99,103
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",301,Brisbane,Pantry,2146.055,9646371.8,104
+PAKI,Pakistan,301,Brisbane,Pantry,2135.9267,4439252.51,105
+FGMY,Germany,301,Brisbane,Pantry,2126.2204,20637340.68,106
+GREE,Greece,201,Melbourne,Pantry,2089.1691,15219768.09,107
+LEBA,Lebanon,101,Sydney,Pantry,2043.9407,6485644.78,108
+USA,United States of America,301,Brisbane,Pantry,2027.2218,11892661.97,109
+TAIW,Taiwan,501,Fremantle,Pantry,1897.4271,4409638.75,110
+INDO,Indonesia,401,Port Adelaide,Pantry,1890.8535,39527304.39,111
+UKRA,Ukraine,101,Sydney,Pantry,1868.8665,4209744.71,112
+PERU,Peru,201,Melbourne,Pantry,1814.4792,12654976.66,113
+VIET,Vietnam,401,Port Adelaide,Pantry,1758.9389,2799731.47,114
+EGYP,Egypt,201,Melbourne,Pantry,1728.366,10584690.43,115
+CROA,Croatia,101,Sydney,Pantry,1627.7725,6120366.52,116
+CAN,Canada,301,Brisbane,Pantry,1612.0641,11165849.26,117
+NEPA,Nepal,101,Sydney,Pantry,1517.9131,3011546.28,118
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,Pantry,1508.2793,19892265.27,119
+UKRA,Ukraine,201,Melbourne,Pantry,1484.4672,3512145.72,120
+CZEH,Czechia,101,Sydney,Pantry,1418.2956,9731854.56,121
+NZ,New Zealand,501,Fremantle,Pantry,1409.3567,3333991.91,122
+JAP,Japan,401,Port Adelaide,Pantry,1403.3629,2723882.66,123
+HGRY,Hungary,101,Sydney,Pantry,1347.6288,3137407.84,124
+BADE,Bangladesh,101,Sydney,Pantry,1178.7622,2612692.93,125
+MEXI,Mexico,301,Brisbane,Pantry,1113.2388,3149916.78,126
+BELG,Belgium,301,Brisbane,Pantry,1099.5118,3099044.26,127
+DENM,Denmark (includes Greenland and Faroe Islands),301,Brisbane,Pantry,1046.0369,6385922.59,128
+HONG,Hong Kong (SAR of China),301,Brisbane,Pantry,1042.4171,3278903.53,129
+BRAZ,Brazil,301,Brisbane,Pantry,1030.0932,3972625.79,130
+FGMY,Germany,501,Fremantle,Pantry,1017.4861,9967497.39,131
+SING,Singapore,401,Port Adelaide,Pantry,1013.6829,9050381.37,132
+MLAY,Malaysia,305,Gladstone,Pantry,1005.8,12440995.5,133
+PORT,Portugal,201,Melbourne,Pantry,988.139,2644799.09,134
+AUST,Australia (Re-imports),101,Sydney,Pantry,986.5057,2322070.4,135
+CMBD,Cambodia,301,Brisbane,Pantry,975.9327,1293736.12,136
+PERU,Peru,101,Sydney,Pantry,915.964,8377044.73,137
+ASTA,Austria,101,Sydney,Pantry,882.4979,1509869.53,138
+COMB,Colombia,201,Melbourne,Pantry,871.3067,2960481.96,139
+PHIL,Philippines,501,Fremantle,Pantry,813.8767,1916622.12,140
+ASTA,Austria,201,Melbourne,Pantry,803.5537,5199939.11,141
+CMBD,Cambodia,501,Fremantle,Pantry,792.9466,944795.43,142
+VANU,Vanuatu,201,Melbourne,Pantry,787.443,2539545.04,143
+DENM,Denmark (includes Greenland and Faroe Islands),501,Fremantle,Pantry,786.8761,5109522.61,144
+LEBA,Lebanon,201,Melbourne,Pantry,786.6434,3173964.94,145
+MLAY,Malaysia,312,Townsville,Pantry,775.3837,1302125.68,146
+NETH,Netherlands,301,Brisbane,Pantry,758.9862,8203021.19,147
+FRAN,France (includes Andorra and Monaco),301,Brisbane,Pantry,744.9353,3849906.87,148
+PSIA,Iran,201,Melbourne,Pantry,736.3541,908857.33,149
+BOLI,Bolivia,201,Melbourne,Pantry,733.9422,3107564.36,150
+BELG,Belgium,501,Fremantle,Pantry,714.4994,2204560.63,151
+GHAN,Ghana,201,Melbourne,Pantry,673.4957,14073845.34,152
+SYRI,Syria,101,Sydney,Pantry,663.5498,2718281.29,153
+JORD,Jordan,101,Sydney,Pantry,624.6738,1767520.11,154
+HONG,Hong Kong (SAR of China),501,Fremantle,Pantry,617.0861,1631748.65,155
+PAKI,Pakistan,401,Port Adelaide,Pantry,597.9692,1120624.8,156
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",501,Fremantle,Pantry,594.1759,2367656.31,157
+GREE,Greece,401,Port Adelaide,Pantry,580.7865,3769769.85,158
+NZ,New Zealand,401,Port Adelaide,Pantry,575.2786,3059091.61,159
+USA,United States of America,401,Port Adelaide,Pantry,551.2247,2509098.14,160
+RKOR,"Korea, Republic of (South)",401,Port Adelaide,Pantry,546.3423,2172933.13,161
+MLAY,Malaysia,701,Darwin,Pantry,506.7862,3167474.03,162
+INIA,India,701,Darwin,Pantry,495.5523,784378.39,163
+BADE,Bangladesh,201,Melbourne,Pantry,476.406,1007608.74,164
+ARGE,Argentina,301,Brisbane,Pantry,463.09,1061553.23,165
+THAI,Thailand,701,Darwin,Pantry,459.8758,825778.27,166
+SVAK,Slovakia,201,Melbourne,Pantry,424.3541,5682168.08,167
+EGYP,Egypt,101,Sydney,Pantry,415.3828,1285444.45,168
+FYRM,North Macedonia,101,Sydney,Pantry,408.2847,1714537.05,169
+IRE,Ireland,101,Sydney,Pantry,404.8833,1632795.6,170
+TAIW,Taiwan,401,Port Adelaide,Pantry,402.9798,798474.5,171
+BOLI,Bolivia,101,Sydney,Pantry,397.758,2233000.23,172
+USA,United States of America,501,Fremantle,Pantry,396.5118,1269213.74,173
+SRIL,Sri Lanka,301,Brisbane,Pantry,380.6698,1355957.06,174
+TURK,Turkiye,301,Brisbane,Pantry,373.1913,1401493.87,175
+CMBD,Cambodia,401,Port Adelaide,Pantry,369.0225,539340.23,176
+PHIL,Philippines,301,Brisbane,Pantry,362.3329,742074.95,177
+ECUA,Ecuador,201,Melbourne,Pantry,361.9536,6021103.5,178
+PSIA,Iran,101,Sydney,Pantry,349.727,686528.32,179
+ROUM,Romania,201,Melbourne,Pantry,326.45,1029125.3,180
+TUNI,Tunisia,101,Sydney,Pantry,322.2345,1694777.11,181
+UAEM,United Arab Emirates,101,Sydney,Pantry,313.5967,390512.06,182
+MEXI,Mexico,501,Fremantle,Pantry,313.2638,432365.4,183
+ISRA,Israel,101,Sydney,Pantry,284.334,2352807.82,184
+BOLI,Bolivia,301,Brisbane,Pantry,283.7228,1222789.89,185
+SAFR,South Africa,501,Fremantle,Pantry,281.706,650541.05,186
+PRGY,Paraguay,101,Sydney,Pantry,277.6882,426684.28,187
+MEXI,Mexico,401,Port Adelaide,Pantry,271.446,364615.81,188
+LITH,Lithuania,201,Melbourne,Pantry,257.4058,3518445.6,189
+TUNI,Tunisia,201,Melbourne,Pantry,245.8734,2089611.9,190
+FYRM,North Macedonia,201,Melbourne,Pantry,245.394,1285148.61,191
+PNG,Papua New Guinea,201,Melbourne,Pantry,242.207,1013563.57,192
+NAMI,Namibia,101,Sydney,Pantry,240.516,296817.41,193
+BURM,Myanmar,101,Sydney,Pantry,227.3251,202861.91,194
+FRAN,France (includes Andorra and Monaco),501,Fremantle,Pantry,226.7565,1358423.83,195
+LAOS,Laos,201,Melbourne,Pantry,225.549,364858.6,196
+AUST,Australia (Re-imports),201,Melbourne,Pantry,217.0453,680991.4,197
+FIJI,Fiji,301,Brisbane,Pantry,205.117,669593.6,198
+JORD,Jordan,201,Melbourne,Pantry,202.9917,541022.14,199
+SERB,Serbia,201,Melbourne,Pantry,202.8494,399863.3,200
+CROA,Croatia,201,Melbourne,Pantry,200.2913,673590.24,201
+POLA,Poland,301,Brisbane,Pantry,198.5539,617023.19,202
+BADE,Bangladesh,301,Brisbane,Pantry,198.4794,399341.5,203
+SWED,Sweden,201,Melbourne,Pantry,191.4554,1127542.32,204
+NAMI,Namibia,501,Fremantle,Pantry,190.416,214671.97,205
+FGMY,Germany,401,Port Adelaide,Pantry,184.4889,920452.49,206
+NAMI,Namibia,201,Melbourne,Pantry,176.66,224227.79,207
+NEPA,Nepal,501,Fremantle,Pantry,169.06,218622.61,208
+SWIT,Switzerland (includes Liechtenstein),301,Brisbane,Pantry,166.8379,2035857.67,209
+SERB,Serbia,101,Sydney,Pantry,157.8529,313736.55,210
+BRAZ,Brazil,401,Port Adelaide,Pantry,157.7088,431554.05,211
+UKRA,Ukraine,301,Brisbane,Pantry,156.251,450001.47,212
+NEPA,Nepal,201,Melbourne,Pantry,153.2661,362729.7,213
+DENM,Denmark (includes Greenland and Faroe Islands),401,Port Adelaide,Pantry,148.8842,704199.92,214
+FINL,Finland,101,Sydney,Pantry,148.857,379760.33,215
+COMB,Colombia,101,Sydney,Pantry,144.399,251043.27,216
+SRIL,Sri Lanka,501,Fremantle,Pantry,135.3141,272904.83,217
+NETH,Netherlands,501,Fremantle,Pantry,133.5564,419582.81,218
+BULG,Bulgaria,101,Sydney,Pantry,130.6,275054.75,219
+ECUA,Ecuador,101,Sydney,Pantry,127.2532,141204.18,220
+BHRN,Bahrain,101,Sydney,Pantry,125.7121,197028.9,221
+FIJI,Fiji,201,Melbourne,Pantry,125.3432,450984.15,222
+INDO,Indonesia,701,Darwin,Pantry,124.962,4323692.82,223
+POLA,Poland,501,Fremantle,Pantry,124.8885,372905.03,224
+AUST,Australia (Re-imports),501,Fremantle,Pantry,123.525,111920.78,225
+BELG,Belgium,401,Port Adelaide,Pantry,123.0707,485219.1,226
+ESTO,Estonia,201,Melbourne,Pantry,119.4165,875536.05,227
+LAOS,Laos,101,Sydney,Pantry,111.8745,179537.94,228
+BADE,Bangladesh,501,Fremantle,Pantry,109.2032,113206.44,229
+BULG,Bulgaria,201,Melbourne,Pantry,107.4954,422985.98,230
+FINL,Finland,201,Melbourne,Pantry,106.249,193966.66,231
+GHAN,Ghana,101,Sydney,Pantry,104.6409,90506.43,232
+CZEH,Czechia,201,Melbourne,Pantry,102.6938,638403.9,233
+FIJI,Fiji,101,Sydney,Pantry,100.2003,430478.49,234
+MORO,Morocco,201,Melbourne,Pantry,99.7427,376838.95,235
+CHLE,Chile,201,Melbourne,Pantry,98.4068,421790.83,236
+GREE,Greece,301,Brisbane,Pantry,94.7617,186127.59,237
+FRAN,France (includes Andorra and Monaco),401,Port Adelaide,Pantry,89.9934,1468310.22,238
+NAMI,Namibia,301,Brisbane,Pantry,87.29,88393.89,239
+IVOR,Cote d'Ivoire,501,Fremantle,Pantry,82.8,2510000.0,240
+TURK,Turkiye,401,Port Adelaide,Pantry,82.0601,437082.13,241
+CHIN,China (excludes SARs and Taiwan),312,Townsville,Pantry,79.5,77337.33,242
+UAEM,United Arab Emirates,201,Melbourne,Pantry,78.185,158551.12,243
+KENY,Kenya,201,Melbourne,Pantry,77.704,115287.88,244
+NGRA,Nigeria,101,Sydney,Pantry,77.186,14785.08,245
+ISRA,Israel,301,Brisbane,Pantry,76.359,1281124.75,246
+AUST,Australia (Re-imports),301,Brisbane,Pantry,76.3285,451017.48,247
+SAFR,South Africa,301,Brisbane,Pantry,74.576,368547.89,248
+PERU,Peru,301,Brisbane,Pantry,72.931,667363.64,249
+THAI,Thailand,312,Townsville,Pantry,72.831,78537.51,250
+RUSS,Russian Federation,201,Melbourne,Pantry,72.7677,32445.7,251
+IRE,Ireland,201,Melbourne,Pantry,71.9665,864814.37,252
+PHIL,Philippines,401,Port Adelaide,Pantry,71.7552,149072.44,253
+CHIN,China (excludes SARs and Taiwan),701,Darwin,Pantry,68.6773,300339.72,254
+PSIA,Iran,401,Port Adelaide,Pantry,66.322,66211.36,255
+NGRA,Nigeria,201,Melbourne,Pantry,65.8191,95429.97,256
+NAMI,Namibia,401,Port Adelaide,Pantry,65.264,87415.77,257
+DOMI,Dominican Republic,101,Sydney,Pantry,64.1184,517121.96,258
+COST,Costa Rica,201,Melbourne,Pantry,62.4089,258816.12,259
+MLAY,Malaysia,601,Hobart,Pantry,61.309,96059.47,260
+BURM,Myanmar,201,Melbourne,Pantry,61.189,110453.53,261
+SLEO,Sierra Leone,101,Sydney,Pantry,58.08,62089.21,262
+HONG,Hong Kong (SAR of China),401,Port Adelaide,Pantry,56.1026,193579.4,263
+PAKI,Pakistan,701,Darwin,Pantry,54.9681,133591.22,264
+SAUD,Saudi Arabia,101,Sydney,Pantry,54.1393,96557.53,265
+ESTO,Estonia,401,Port Adelaide,Pantry,52.278,506245.39,266
+CROA,Croatia,401,Port Adelaide,Pantry,51.396,43259.98,267
+ESTO,Estonia,301,Brisbane,Pantry,51.154,763837.09,268
+CHLE,Chile,101,Sydney,Pantry,51.1039,267077.58,269
+UGAN,Uganda,201,Melbourne,Pantry,51.005,48931.29,270
+BOHR,Bosnia and Herzegovina,101,Sydney,Pantry,50.132,15109.68,271
+MLAY,Malaysia,605,Launceston,Pantry,49.9776,72417.12,272
+NEPA,Nepal,301,Brisbane,Pantry,49.527,72603.81,273
+LEBA,Lebanon,401,Port Adelaide,Pantry,48.621,6858.94,274
+PSIA,Iran,301,Brisbane,Pantry,47.887,75660.49,275
+ZIMB,Zimbabwe,101,Sydney,Pantry,46.4,71897.37,276
+FYRM,North Macedonia,301,Brisbane,Pantry,45.837,350456.52,277
+PORT,Portugal,301,Brisbane,Pantry,45.4449,445034.52,278
+SWED,Sweden,501,Fremantle,Pantry,44.8139,290912.44,279
+FYRM,North Macedonia,501,Fremantle,Pantry,44.8087,285650.05,280
+SERB,Serbia,501,Fremantle,Pantry,44.4892,9637.26,281
+RUSS,Russian Federation,101,Sydney,Pantry,44.3838,26216.95,282
+LIBE,Liberia,501,Fremantle,Pantry,43.32,37954.62,283
+DOMI,Dominican Republic,201,Melbourne,Pantry,42.92,581902.8,284
+NWAY,Norway,101,Sydney,Pantry,41.3084,92991.09,285
+NEPA,Nepal,401,Port Adelaide,Pantry,41.126,112851.14,286
+KUWA,Kuwait,101,Sydney,Pantry,40.91,178879.37,287
+INIA,India,598,Other Ports WA,Pantry,40.1301,98503.89,288
+SWED,Sweden,301,Brisbane,Pantry,40.066,56099.07,289
+GMLA,Guatemala,101,Sydney,Pantry,39.767,1047739.27,290
+NETH,Netherlands,401,Port Adelaide,Pantry,39.0099,346765.46,291
+BOHR,Bosnia and Herzegovina,201,Melbourne,Pantry,38.8324,4881.72,292
+IRAQ,Iraq,101,Sydney,Pantry,38.441,77372.28,293
+PSIA,Iran,501,Fremantle,Pantry,38.237,9835.76,294
+MASY,Madagascar,101,Sydney,Pantry,37.5115,506291.1,295
+SAUD,Saudi Arabia,201,Melbourne,Pantry,36.896,20726.86,296
+SRIL,Sri Lanka,401,Port Adelaide,Pantry,34.0418,51747.48,297
+UAEM,United Arab Emirates,301,Brisbane,Pantry,33.537,45441.67,298
+GHAN,Ghana,501,Fremantle,Pantry,31.867,32015.94,299
+BHRN,Bahrain,201,Melbourne,Pantry,31.27,18317.41,300
+MLTA,Malta,101,Sydney,Pantry,30.9017,54489.28,301
+LUX,Luxembourg,201,Melbourne,Pantry,30.5071,122326.26,302
+PNG,Papua New Guinea,101,Sydney,Pantry,30.311,254019.44,303
+CROA,Croatia,301,Brisbane,Pantry,30.074,18363.9,304
+SYRI,Syria,201,Melbourne,Pantry,30.06,108265.76,305
+BADE,Bangladesh,401,Port Adelaide,Pantry,29.8395,45549.62,306
+ETHI,Ethiopia,201,Melbourne,Pantry,29.0962,24925.45,307
+ZIMB,Zimbabwe,301,Brisbane,Pantry,28.64,1612.55,308
+CAN,Canada,401,Port Adelaide,Pantry,28.4022,136895.59,309
+CROA,Croatia,501,Fremantle,Pantry,26.5425,95494.95,310
+LIBE,Liberia,101,Sydney,Pantry,26.23,1710.13,311
+DJIB,Djibouti,201,Melbourne,Pantry,25.839,19746.69,312
+JAP,Japan,701,Darwin,Pantry,25.5733,11681.53,313
+UKRA,Ukraine,501,Fremantle,Pantry,25.43,69997.94,314
+UGAN,Uganda,301,Brisbane,Pantry,25.195,22391.16,315
+CMBD,Cambodia,701,Darwin,Pantry,24.12,32001.15,316
+IRAQ,Iraq,201,Melbourne,Pantry,24.0,16697.79,317
+COMB,Colombia,301,Brisbane,Pantry,22.9295,45524.41,318
+FINL,Finland,301,Brisbane,Pantry,22.786,142036.61,319
+PORT,Portugal,101,Sydney,Pantry,22.7224,228401.95,320
+SWZI,Eswatini,201,Melbourne,Pantry,22.618,15464.96,321
+TANZ,Tanzania,301,Brisbane,Pantry,22.59,12425.6,322
+LAOS,Laos,301,Brisbane,Pantry,22.242,38557.83,323
+ESTO,Estonia,101,Sydney,Pantry,22.0977,132756.85,324
+PERU,Peru,401,Port Adelaide,Pantry,22.08,210954.65,325
+CHLE,Chile,401,Port Adelaide,Pantry,22.03,245296.8,326
+GHAN,Ghana,301,Brisbane,Pantry,21.99,5803.57,327
+CHIN,China (excludes SARs and Taiwan),605,Launceston,Pantry,21.403,44399.23,328
+THAI,Thailand,598,Other Ports WA,Pantry,21.3904,40902.92,329
+IVOR,Cote d'Ivoire,301,Brisbane,Pantry,21.378,493681.13,330
+SING,Singapore,701,Darwin,Pantry,20.9952,51304.9,331
+PNG,Papua New Guinea,301,Brisbane,Pantry,20.249,201109.32,332
+EGYP,Egypt,301,Brisbane,Pantry,19.96,77450.71,333
+ICEL,Iceland,401,Port Adelaide,Pantry,19.922,540500.34,334
+POLA,Poland,401,Port Adelaide,Pantry,19.6253,114887.66,335
+MORO,Morocco,101,Sydney,Pantry,19.4458,8211.38,336
+UAEM,United Arab Emirates,401,Port Adelaide,Pantry,19.4,1831.72,337
+CZEH,Czechia,501,Fremantle,Pantry,19.3201,68112.3,338
+SAFR,South Africa,401,Port Adelaide,Pantry,19.26,22788.03,339
+ASTA,Austria,301,Brisbane,Pantry,19.144,485056.91,340
+CYPR,Cyprus,201,Melbourne,Pantry,18.969,73198.07,341
+JMCA,Jamaica,101,Sydney,Pantry,18.2258,21219.36,342
+INDO,Indonesia,312,Townsville,Pantry,18.0,43007.04,343
+BARB,Barbados,101,Sydney,Pantry,14.8928,49147.56,344
+RUSS,Russian Federation,301,Brisbane,Pantry,14.8562,8970.58,345
+SLEO,Sierra Leone,201,Melbourne,Pantry,13.62,17908.94,346
+GUIN,Guinea,101,Sydney,Pantry,13.35,8171.19,347
+BRAZ,Brazil,501,Fremantle,Pantry,13.013,29863.41,348
+ZIMB,Zimbabwe,201,Melbourne,Pantry,13.0,1823.7,349
+VANU,Vanuatu,101,Sydney,Pantry,12.837,24577.3,350
+TANZ,Tanzania,401,Port Adelaide,Pantry,12.6504,8118.83,351
+ROUM,Romania,101,Sydney,Pantry,12.6026,24408.44,352
+SOLO,Solomon Islands,101,Sydney,Pantry,12.214,45804.12,353
+GMLA,Guatemala,201,Melbourne,Pantry,11.9133,5246.57,354
+MORO,Morocco,301,Brisbane,Pantry,11.502,35515.67,355
+CAN,Canada,501,Fremantle,Pantry,11.3517,108272.26,356
+HDRS,Honduras,101,Sydney,Pantry,11.0995,143603.13,357
+BULG,Bulgaria,501,Fremantle,Pantry,10.9385,1173.01,358
+UAEM,United Arab Emirates,501,Fremantle,Pantry,10.3475,49163.72,359
+NEPA,Nepal,701,Darwin,Pantry,10.138,5574.45,360
+RKOR,"Korea, Republic of (South)",398,Other Ports Qld,Pantry,9.6641,5889.45,361
+NWAY,Norway,201,Melbourne,Pantry,9.044,237003.98,362
+MLTA,Malta,201,Melbourne,Pantry,8.5515,35512.56,363
+NZ,New Zealand,312,Townsville,Pantry,8.4004,94914.21,364
+TAIW,Taiwan,701,Darwin,Pantry,7.89,22569.51,365
+LUX,Luxembourg,301,Brisbane,Pantry,7.7524,92185.88,366
+ALBA,Albania,301,Brisbane,Pantry,7.38,70495.52,367
+KUWA,Kuwait,201,Melbourne,Pantry,7.3,44475.35,368
+COST,Costa Rica,101,Sydney,Pantry,7.192,67394.89,369
+KYRG,Kyrgyzstan,101,Sydney,Pantry,6.93,26006.0,370
+SWED,Sweden,401,Port Adelaide,Pantry,6.6894,58920.78,371
+CZEH,Czechia,301,Brisbane,Pantry,5.9007,12876.82,372
+VIET,Vietnam,701,Darwin,Pantry,5.34,8814.85,373
+MAUS,Mauritius,201,Melbourne,Pantry,4.75,1819.85,374
+ETHI,Ethiopia,101,Sydney,Pantry,3.455,9269.55,375
+SWIT,Switzerland (includes Liechtenstein),501,Fremantle,Pantry,2.988,17325.0,376
+JMCA,Jamaica,201,Melbourne,Pantry,1.8,6825.19,377
+ISRA,Israel,501,Fremantle,Pantry,1.5,26894.98,378
+QATA,Qatar,201,Melbourne,Pantry,1.408,9518.0,379
+PRGY,Paraguay,301,Brisbane,Pantry,1.035,1628.94,380
+BULG,Bulgaria,401,Port Adelaide,Pantry,1.03,18302.3,381
+MAUS,Mauritius,101,Sydney,Pantry,0.821,4047.89,382
+BURM,Myanmar,501,Fremantle,Pantry,0.5064,5819.99,383
+BELE,Belize,201,Melbourne,Pantry,0.4853,1184.2,384
+MASY,Madagascar,401,Port Adelaide,Pantry,0.414,19640.04,385
+IRE,Ireland,401,Port Adelaide,Pantry,0.1264,21693.21,386

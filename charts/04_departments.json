@@ -1,0 +1,93 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "Inter, Arial, sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 290,
+  "data": {
+    "url": "data/categories.csv"
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusEnd": 4,
+        "color": "#6A994E"
+      },
+      "encoding": {
+        "x": {
+          "field": "listing_count",
+          "type": "quantitative",
+          "title": "Product records"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": "-x",
+          "title": null
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "title": "Department"
+          },
+          {
+            "field": "listing_count",
+            "format": ",",
+            "title": "Recorded Listings"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "fontSize": 11,
+        "color": "#4f4135"
+      },
+      "encoding": {
+        "x": {
+          "field": "listing_count",
+          "type": "quantitative",
+          "title": "Product records"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": "-x",
+          "title": null
+        },
+        "text": {
+          "field": "listing_count",
+          "type": "quantitative",
+          "format": ","
+        }
+      }
+    }
+  ]
+}

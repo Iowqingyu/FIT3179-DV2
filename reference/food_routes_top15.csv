@@ -1,0 +1,106 @@
+﻿country_code,origin_country,ausport_code,destination_port,food_group,total_weight_tonnes,total_valuecif,rank
+NZ,New Zealand,201,Melbourne,All food,232014.21480000002,1443322211.5300002,1
+CHIN,China (excludes SARs and Taiwan),101,Sydney,All food,213967.36860000002,808146595.9300001,2
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,All food,189229.859,593570615.5699999,3
+NZ,New Zealand,101,Sydney,All food,188104.56459999998,1163858844.95,4
+USA,United States of America,101,Sydney,All food,155198.0684,905680461.99,5
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,All food,154748.3989,535295502.84000003,6
+THAI,Thailand,101,Sydney,All food,151900.9354,583861264.38,7
+THAI,Thailand,201,Melbourne,All food,146397.6871,512821779.66,8
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,All food,146272.678,524393854.31,9
+USA,United States of America,201,Melbourne,All food,142887.3911,829458401.92,10
+VIET,Vietnam,101,Sydney,All food,113800.534,561212660.8199999,11
+MLAY,Malaysia,201,Melbourne,All food,113076.99149999999,593039670.4200001,12
+NZ,New Zealand,301,Brisbane,All food,110983.6258,357022036.86,13
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,All food,94151.989,301133295.96,14
+INIA,India,201,Melbourne,All food,91141.5837,217074336.64,15
+NZ,New Zealand,101,Sydney,Bakery,15367.8748,87220630.09,1
+MLAY,Malaysia,101,Sydney,Bakery,13914.5423,85992237.46,2
+NZ,New Zealand,201,Melbourne,Bakery,11894.8706,81111416.58,3
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Bakery,11790.3558,45258369.03,4
+INDO,Indonesia,201,Melbourne,Bakery,10793.6987,43800917.27,5
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Bakery,10742.6722,41196679.49,6
+FRAN,France (includes Andorra and Monaco),201,Melbourne,Bakery,10443.1664,72274883.35,7
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,Bakery,10314.5173,72165224.26,8
+INDO,Indonesia,301,Brisbane,Bakery,9641.547,41913214.53,9
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Bakery,9435.2342,60588988.73,10
+NZ,New Zealand,301,Brisbane,Bakery,8646.9847,55961824.85,11
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Bakery,8509.0443,61838961.91,12
+MLAY,Malaysia,201,Melbourne,Bakery,7211.4069,21260502.91,13
+INIA,India,201,Melbourne,Bakery,7156.4674,22098115.18,14
+FRAN,France (includes Andorra and Monaco),101,Sydney,Bakery,7082.6565,48618370.94,15
+NZ,New Zealand,201,Melbourne,"Dairy, eggs & fridge",78177.5987,632366752.99,1
+NZ,New Zealand,101,Sydney,"Dairy, eggs & fridge",50582.562,354392159.47,2
+USA,United States of America,201,Melbourne,"Dairy, eggs & fridge",33475.1654,246947337.7,3
+USA,United States of America,101,Sydney,"Dairy, eggs & fridge",20671.1773,146571739.43,4
+NZ,New Zealand,301,Brisbane,"Dairy, eggs & fridge",7386.1883,54458046.0,5
+CHIN,China (excludes SARs and Taiwan),101,Sydney,"Dairy, eggs & fridge",7364.5049,23115944.4,6
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,"Dairy, eggs & fridge",7300.8361,96052256.28,7
+SPAI,Spain,201,Melbourne,"Dairy, eggs & fridge",6680.2627,29176599.34,8
+NETH,Netherlands,201,Melbourne,"Dairy, eggs & fridge",6538.7422,43481090.77,9
+FRAN,France (includes Andorra and Monaco),201,Melbourne,"Dairy, eggs & fridge",6059.8158,69256211.24,10
+NETH,Netherlands,101,Sydney,"Dairy, eggs & fridge",5895.3114,58707500.78,11
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,"Dairy, eggs & fridge",4985.1765,64771387.17,12
+USA,United States of America,301,Brisbane,"Dairy, eggs & fridge",4334.8002,29476456.33,13
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",101,Sydney,"Dairy, eggs & fridge",3306.8069,40570149.65,14
+NWAY,Norway,201,Melbourne,"Dairy, eggs & fridge",2769.2815,3977015.67,15
+NZ,New Zealand,101,Sydney,Drinks,33678.4622,63767019.97,1
+NZ,New Zealand,301,Brisbane,Drinks,31146.6561,44775824.18,2
+NZ,New Zealand,201,Melbourne,Drinks,30859.2048,69544638.07,3
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Drinks,24992.5467,32676027.02,4
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Drinks,23557.3253,70780610.32,5
+USA,United States of America,101,Sydney,Drinks,21161.6191,59754320.35,6
+ASTA,Austria,101,Sydney,Drinks,18184.9946,37335622.33,7
+RKOR,"Korea, Republic of (South)",101,Sydney,Drinks,14340.0346,31057329.49,8
+ASTA,Austria,201,Melbourne,Drinks,14270.4821,29526287.74,9
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Drinks,14145.8,22930377.98,10
+NETH,Netherlands,101,Sydney,Drinks,11149.8297,112740640.41,11
+SWIT,Switzerland (includes Liechtenstein),101,Sydney,Drinks,9600.4533,104750204.15,12
+UK,"United Kingdom, Channel Islands and Isle of Man, nfd",201,Melbourne,Drinks,7411.8093,16701905.72,13
+THAI,Thailand,101,Sydney,Drinks,7330.3918,40759499.06,14
+ASTA,Austria,301,Brisbane,Drinks,7306.7404,15020059.69,15
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Fruit & vegetables,80374.7887,243017015.32,1
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Fruit & vegetables,72779.1931,184897412.8,2
+NZ,New Zealand,201,Melbourne,Fruit & vegetables,63243.7036,196701363.33,3
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Fruit & vegetables,62354.3378,128638967.54,4
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Fruit & vegetables,55532.9944,103808006.37,5
+VIET,Vietnam,101,Sydney,Fruit & vegetables,47977.4122,169906538.2,6
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Fruit & vegetables,46948.2202,136476975.17,7
+USA,United States of America,101,Sydney,Fruit & vegetables,45042.7044,233385916.64,8
+THAI,Thailand,201,Melbourne,Fruit & vegetables,36241.0106,73635022.95,9
+NETH,Netherlands,101,Sydney,Fruit & vegetables,35210.1804,26424157.96,10
+VIET,Vietnam,201,Melbourne,Fruit & vegetables,34710.6682,156192919.13,11
+NZ,New Zealand,301,Brisbane,Fruit & vegetables,33145.3131,84355663.34,12
+THAI,Thailand,101,Sydney,Fruit & vegetables,31285.928,64760697.5,13
+BELG,Belgium,101,Sydney,Fruit & vegetables,29037.7448,81342945.51,14
+NZ,New Zealand,101,Sydney,Fruit & vegetables,28446.4727,116369677.29,15
+USA,United States of America,201,Melbourne,Meat & seafood,40785.62,246488983.32,1
+USA,United States of America,101,Sydney,Meat & seafood,39581.3346,197812466.69,2
+THAI,Thailand,201,Melbourne,Meat & seafood,31736.1481,214222029.69,3
+VIET,Vietnam,101,Sydney,Meat & seafood,26987.7784,259572465.37,4
+THAI,Thailand,101,Sydney,Meat & seafood,22813.0016,172688587.22,5
+DENM,Denmark (includes Greenland and Faroe Islands),101,Sydney,Meat & seafood,19735.9767,173063267.46,6
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Meat & seafood,16348.6425,117892291.35,7
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Meat & seafood,15371.3465,108196326.6,8
+VIET,Vietnam,201,Melbourne,Meat & seafood,14831.6022,148611723.2,9
+NZ,New Zealand,101,Sydney,Meat & seafood,13638.1798,114171274.8,10
+THAI,Thailand,301,Brisbane,Meat & seafood,13264.1838,76238393.91,11
+NZ,New Zealand,201,Melbourne,Meat & seafood,12517.7415,104945165.4,12
+DENM,Denmark (includes Greenland and Faroe Islands),201,Melbourne,Meat & seafood,12271.1057,111185204.49,13
+USA,United States of America,301,Brisbane,Meat & seafood,11372.5217,64863419.41,14
+NETH,Netherlands,101,Sydney,Meat & seafood,10183.6589,66346077.2,15
+MLAY,Malaysia,201,Melbourne,Pantry,99794.8587,537371518.96,1
+THAI,Thailand,101,Sydney,Pantry,85078.7161,272039674.22,2
+CHIN,China (excludes SARs and Taiwan),101,Sydney,Pantry,83943.2767,355932597.85,3
+CHIN,China (excludes SARs and Taiwan),201,Melbourne,Pantry,82452.3142,240856934.48,4
+THAI,Thailand,201,Melbourne,Pantry,69888.9726,191351960.77,5
+INIA,India,101,Sydney,Pantry,59162.2273,148581481.45,6
+MLAY,Malaysia,101,Sydney,Pantry,57810.7003,179736720.89,7
+INIA,India,201,Melbourne,Pantry,56961.528,133962661.65,8
+ITAL,Italy (includes Holy See and San Marino),201,Melbourne,Pantry,51930.1748,207342564.27,9
+ITAL,Italy (includes Holy See and San Marino),101,Sydney,Pantry,50204.6915,197103436.43,10
+MLAY,Malaysia,301,Brisbane,Pantry,48616.3616,90645128.92,11
+NZ,New Zealand,101,Sydney,Pantry,46391.0131,427938083.33,12
+THAI,Thailand,301,Brisbane,Pantry,39221.0813,95584915.61,13
+NZ,New Zealand,201,Melbourne,Pantry,35321.0956,358652875.16,14
+CHIN,China (excludes SARs and Taiwan),301,Brisbane,Pantry,31137.1074,83778715.38,15

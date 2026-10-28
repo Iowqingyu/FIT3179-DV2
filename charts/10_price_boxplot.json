@@ -1,0 +1,632 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Six horizontal price box plots. Coloured dots represent individual sample prices; boxes span Q1–Q3; dark strokes show medians; diamonds indicate means; whiskers use 1.5×IQR fences.",
+  "background": "transparent",
+  "width": 570,
+  "height": 420,
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "DM Sans, Arial, sans-serif",
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    }
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#374047",
+        "strokeWidth": 1.7,
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "whisker_min",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "x2": {
+          "field": "whisker_max"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Department"
+          },
+          {
+            "field": "q1",
+            "type": "quantitative",
+            "title": "Lower Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "median",
+            "type": "quantitative",
+            "title": "Median (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "q3",
+            "type": "quantitative",
+            "title": "Upper Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_min",
+            "type": "quantitative",
+            "title": "Lower Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_max",
+            "type": "quantitative",
+            "title": "Upper Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "mean",
+            "type": "quantitative",
+            "title": "Mean (A$)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "tick",
+        "color": "#374047",
+        "thickness": 1.9,
+        "size": 15
+      },
+      "encoding": {
+        "x": {
+          "field": "whisker_min",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "tick",
+        "color": "#374047",
+        "thickness": 1.9,
+        "size": 15
+      },
+      "encoding": {
+        "x": {
+          "field": "whisker_max",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "bar",
+        "size": 24,
+        "opacity": 0.86,
+        "stroke": "#303B40",
+        "strokeWidth": 1.4,
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "q1",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "x2": {
+          "field": "q3"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        },
+        "color": {
+          "field": "category",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Bakery",
+              "Dairy, eggs & fridge",
+              "Drinks",
+              "Fruit & vegetables",
+              "Meat & seafood",
+              "Pantry"
+            ],
+            "range": [
+              "#C58F5A",
+              "#8C8376",
+              "#A7C957",
+              "#6A994E",
+              "#F4A261",
+              "#8D6A4B"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Department"
+          },
+          {
+            "field": "q1",
+            "type": "quantitative",
+            "title": "Lower Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "median",
+            "type": "quantitative",
+            "title": "Median (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "q3",
+            "type": "quantitative",
+            "title": "Upper Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_min",
+            "type": "quantitative",
+            "title": "Lower Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_max",
+            "type": "quantitative",
+            "title": "Upper Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "mean",
+            "type": "quantitative",
+            "title": "Mean (A$)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "tick",
+        "color": "#1C292E",
+        "thickness": 3.2,
+        "size": 24
+      },
+      "encoding": {
+        "x": {
+          "field": "median",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Department"
+          },
+          {
+            "field": "q1",
+            "type": "quantitative",
+            "title": "Lower Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "median",
+            "type": "quantitative",
+            "title": "Median (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "q3",
+            "type": "quantitative",
+            "title": "Upper Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_min",
+            "type": "quantitative",
+            "title": "Lower Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_max",
+            "type": "quantitative",
+            "title": "Upper Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "mean",
+            "type": "quantitative",
+            "title": "Mean (A$)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_dot_sample.csv"
+      },
+      "mark": {
+        "type": "circle",
+        "size": 33,
+        "filled": true,
+        "opacity": 0.42,
+        "clip": true
+      },
+      "encoding": {
+        "x": {
+          "field": "price",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        },
+        "yOffset": {
+          "field": "jitter",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              -1,
+              1
+            ],
+            "range": [
+              -19,
+              19
+            ]
+          }
+        },
+        "color": {
+          "field": "category",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Bakery",
+              "Dairy, eggs & fridge",
+              "Drinks",
+              "Fruit & vegetables",
+              "Meat & seafood",
+              "Pantry"
+            ],
+            "range": [
+              "#C58F5A",
+              "#8C8376",
+              "#A7C957",
+              "#6A994E",
+              "#F4A261",
+              "#8D6A4B"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "title": "Department"
+          },
+          {
+            "field": "price",
+            "type": "quantitative",
+            "title": "Listed Price (A$)",
+            "format": ".2f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/price_box_stats.csv"
+      },
+      "mark": {
+        "type": "point",
+        "shape": "diamond",
+        "filled": true,
+        "size": 125,
+        "color": "#F6D18C",
+        "stroke": "#382C28",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "x": {
+          "field": "mean",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              40
+            ],
+            "nice": false
+          },
+          "axis": {
+            "tickCount": 9,
+            "format": "$,.0f",
+            "labelFontSize": 15,
+            "titleFontSize": 16
+          },
+          "title": "Listed package price (AUD)"
+        },
+        "y": {
+          "field": "category",
+          "type": "nominal",
+          "sort": [
+            "Bakery",
+            "Dairy, eggs & fridge",
+            "Drinks",
+            "Fruit & vegetables",
+            "Meat & seafood",
+            "Pantry"
+          ],
+          "title": null,
+          "axis": {
+            "labelFontSize": 15,
+            "labelLimit": 205,
+            "labelPadding": 12
+          }
+        },
+        "tooltip": [
+          {
+            "field": "category",
+            "type": "nominal",
+            "title": "Department"
+          },
+          {
+            "field": "q1",
+            "type": "quantitative",
+            "title": "Lower Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "median",
+            "type": "quantitative",
+            "title": "Median (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "q3",
+            "type": "quantitative",
+            "title": "Upper Quartile (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_min",
+            "type": "quantitative",
+            "title": "Lower Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "whisker_max",
+            "type": "quantitative",
+            "title": "Upper Whisker (A$)",
+            "format": ".2f"
+          },
+          {
+            "field": "mean",
+            "type": "quantitative",
+            "title": "Mean (A$)",
+            "format": ".2f"
+          }
+        ]
+      }
+    }
+  ],
+  "autosize": {
+    "type": "pad",
+    "contains": "padding",
+    "resize": false
+  }
+}

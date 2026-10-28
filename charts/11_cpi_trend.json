@@ -1,0 +1,126 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 16,
+      "titleFontSize": 17
+    },
+    "font": "Inter, Arial, sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 350,
+  "data": {
+    "url": "data/cpi.csv"
+  },
+  "mark": {
+    "type": "line",
+    "strokeWidth": 3.6
+  },
+  "encoding": {
+    "x": {
+      "field": "date",
+      "type": "temporal",
+      "title": null,
+      "axis": {
+        "format": "%b %Y",
+        "labelAngle": -35,
+        "labelOverlap": "greedy",
+        "tickCount": {
+          "interval": "month",
+          "step": 6
+        },
+        "labelFontSize": 14,
+        "title": null,
+        "labelExpr": "timeFormat(datum.value, '%b %Y')"
+      }
+    },
+    "y": {
+      "field": "index",
+      "type": "quantitative",
+      "title": "CPI index"
+    },
+    "color": {
+      "field": "category",
+      "type": "nominal",
+      "title": "Food category",
+      "scale": {
+        "domain": [
+          "Bread and cereal products",
+          "Meat and seafoods",
+          "Fruit",
+          "Vegetables",
+          "Non-alcoholic beverages"
+        ],
+        "range": [
+          "#2B5D93",
+          "#E68613",
+          "#1F8A89",
+          "#8E5FBF",
+          "#C74375"
+        ]
+      },
+      "legend": null
+    },
+    "tooltip": [
+      {
+        "field": "date",
+        "type": "temporal",
+        "title": "Month",
+        "format": "%b %Y"
+      },
+      {
+        "field": "category",
+        "title": "Department"
+      },
+      {
+        "field": "index",
+        "format": ".1f",
+        "title": "CPI Index"
+      }
+    ]
+  },
+  "params": [
+    {
+      "name": "selectedCPI",
+      "value": "All categories",
+      "bind": {
+        "input": "select",
+        "name": "Show CPI category: ",
+        "options": [
+          "All categories",
+          "Bread and cereal products",
+          "Meat and seafoods",
+          "Fruit",
+          "Vegetables",
+          "Non-alcoholic beverages"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.category !== 'Food and non-alcoholic beverages'"
+    },
+    {
+      "filter": "selectedCPI === 'All categories' || datum.category === selectedCPI"
+    }
+  ]
+}

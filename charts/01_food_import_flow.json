@@ -1,0 +1,241 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "width": 1080,
+  "height": 575,
+  "autosize": {
+    "type": "pad",
+    "contains": "padding"
+  },
+  "projection": {
+    "type": "equalEarth",
+    "rotate": [
+      -134,
+      0,
+      0
+    ],
+    "center": [
+      0,
+      -8
+    ],
+    "scale": 200,
+    "translate": [
+      540,
+      292
+    ]
+  },
+  "params": [
+    {
+      "name": "chosenDepartment",
+      "value": "All food",
+      "bind": {
+        "input": "select",
+        "name": "Select department: ",
+        "options": [
+          "All food",
+          "Pantry",
+          "Dairy, eggs & fridge",
+          "Drinks",
+          "Meat & seafood",
+          "Fruit & vegetables",
+          "Bakery"
+        ]
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "data/world_land.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#d8cfb9",
+        "stroke": "#8d6a4b",
+        "strokeWidth": 0.8
+      }
+    },
+    {
+      "data": {
+        "url": "data/food_flows_curved.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum.properties.food_group === chosenDepartment"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "filled": false,
+        "stroke": "#6A994E",
+        "strokeOpacity": 0.83,
+        "strokeCap": "round"
+      },
+      "encoding": {
+        "strokeWidth": {
+          "field": "properties.total_weight_tonnes",
+          "type": "quantitative",
+          "scale": {
+            "type": "sqrt",
+            "range": [
+              1.6,
+              5.5
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "properties.origin_country",
+            "title": "Origin Country"
+          },
+          {
+            "field": "properties.destination_port",
+            "title": "Australian entry port"
+          },
+          {
+            "field": "properties.food_group",
+            "title": "Department"
+          },
+          {
+            "field": "properties.total_weight_tonnes",
+            "title": "Weight (tonnes)",
+            "format": ",.0f"
+          },
+          {
+            "field": "properties.rank",
+            "title": "Route rank"
+          }
+        ]
+      },
+      "name": "animatedRoutes"
+    },
+    {
+      "data": {
+        "url": "data/food_flows_map.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.food_group === chosenDepartment"
+        },
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "total_weight_tonnes",
+              "as": "port_weight"
+            }
+          ],
+          "groupby": [
+            "destination_port",
+            "dest_lon",
+            "dest_lat"
+          ]
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "fill": "#72508B",
+        "stroke": "#fffdfa",
+        "strokeWidth": 1.8,
+        "size": 96
+      },
+      "encoding": {
+        "longitude": {
+          "field": "dest_lon"
+        },
+        "latitude": {
+          "field": "dest_lat"
+        },
+        "tooltip": [
+          {
+            "field": "destination_port",
+            "title": "Australian port"
+          },
+          {
+            "field": "port_weight",
+            "title": "Selected top-route weight (tonnes)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/food_flows_map.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.food_group === chosenDepartment"
+        },
+        {
+          "aggregate": [
+            {
+              "op": "max",
+              "field": "total_weight_tonnes",
+              "as": "max_weight"
+            }
+          ],
+          "groupby": [
+            "origin_country",
+            "origin_lon",
+            "origin_lat"
+          ]
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "fill": "#72508B",
+        "stroke": "#fffdfa",
+        "strokeWidth": 1.8,
+        "size": 96
+      },
+      "encoding": {
+        "longitude": {
+          "field": "origin_lon"
+        },
+        "latitude": {
+          "field": "origin_lat"
+        },
+        "tooltip": [
+          {
+            "field": "origin_country",
+            "title": "Origin Country"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "orient": "bottom",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "DM Sans, Arial, sans-serif",
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  }
+}

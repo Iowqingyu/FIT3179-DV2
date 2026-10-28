@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "Inter, Arial, sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 310,
+  "data": {
+    "url": "data/state_category.csv"
+  },
+  "mark": {
+    "type": "rect",
+    "stroke": "#fffdfa",
+    "strokeWidth": 1
+  },
+  "encoding": {
+    "x": {
+      "field": "state",
+      "type": "nominal",
+      "title": "State",
+      "axis": {
+        "labelAngle": -35,
+        "labelFontSize": 14,
+        "labelPadding": 8
+      }
+    },
+    "y": {
+      "field": "category",
+      "type": "nominal",
+      "title": null
+    },
+    "color": {
+      "field": "special_pct",
+      "type": "quantitative",
+      "scale": {
+        "range": [
+          "#FFF3BF",
+          "#FDDC8A",
+          "#FBB45C",
+          "#F28E2B",
+          "#D95F0E"
+        ]
+      },
+      "title": "On-special (%)"
+    },
+    "tooltip": [
+      {
+        "field": "state",
+        "title": "State / Territory"
+      },
+      {
+        "field": "category",
+        "title": "Department"
+      },
+      {
+        "field": "special_pct",
+        "title": "On special (%)",
+        "format": ".1f"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "width": 860,
+  "height": 510,
+  "projection": {
+    "type": "mercator",
+    "center": [
+      134,
+      -28
+    ],
+    "scale": 650,
+    "translate": [
+      430,
+      258
+    ]
+  },
+  "params": [
+    {
+      "name": "chosenChain",
+      "value": "Both chains",
+      "bind": {
+        "input": "select",
+        "name": "Retailer ",
+        "options": [
+          "Both chains",
+          "Coles",
+          "Woolworths"
+        ]
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "data/states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e9dfc9",
+        "stroke": "#8d6a4b",
+        "strokeWidth": 0.9
+      }
+    },
+    {
+      "data": {
+        "url": "data/store_locations.csv"
+      },
+      "transform": [
+        {
+          "filter": "chosenChain === 'Both chains' || datum.chain === chosenChain"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 16,
+        "opacity": 0.7,
+        "stroke": "#fffdfa",
+        "strokeWidth": 0.15
+      },
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "chain",
+          "type": "nominal",
+          "title": "Retailer",
+          "scale": {
+            "domain": [
+              "Coles",
+              "Woolworths"
+            ],
+            "range": [
+              "#C07A3A",
+              "#5C8746"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "store_name",
+            "title": "Store"
+          },
+          {
+            "field": "chain",
+            "title": "Retailer"
+          },
+          {
+            "field": "state",
+            "title": "State / Territory"
+          },
+          {
+            "field": "latitude",
+            "format": ".3f",
+            "title": "Latitude"
+          },
+          {
+            "field": "longitude",
+            "format": ".3f",
+            "title": "Longitude"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 16,
+      "titleFontSize": 17
+    },
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  }
+}

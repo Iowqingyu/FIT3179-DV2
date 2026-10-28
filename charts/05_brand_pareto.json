@@ -1,0 +1,155 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 15,
+      "titleFontSize": 16
+    },
+    "font": "DM Sans,Arial,sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 345,
+  "data": {
+    "url": "data/brands_pareto.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.rank <= 15"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "color": "#5F6CAF",
+        "cornerRadiusEnd": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "brand",
+          "type": "nominal",
+          "sort": [
+            "Coles",
+            "Cadbury",
+            "Kellogg's",
+            "Nescafe",
+            "Arnott's",
+            "Uncle Tobys",
+            "Vittoria",
+            "Twinings",
+            "Bega",
+            "Nestle",
+            "Lavazza",
+            "Carman's",
+            "Sanitarium",
+            "MasterFoods",
+            "Lindt"
+          ],
+          "axis": {
+            "labelAngle": -45,
+            "labelLimit": 96
+          },
+          "title": null
+        },
+        "y": {
+          "field": "listing_count",
+          "type": "quantitative",
+          "title": "Recorded listings"
+        },
+        "tooltip": [
+          {
+            "field": "brand",
+            "title": "Brand"
+          },
+          {
+            "field": "listing_count",
+            "format": ",",
+            "title": "Recorded Listings"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "point": {
+          "filled": true,
+          "size": 50
+        },
+        "strokeWidth": 3,
+        "color": "#D97706"
+      },
+      "encoding": {
+        "x": {
+          "field": "brand",
+          "type": "nominal",
+          "sort": [
+            "Coles",
+            "Cadbury",
+            "Kellogg's",
+            "Nescafe",
+            "Arnott's",
+            "Uncle Tobys",
+            "Vittoria",
+            "Twinings",
+            "Bega",
+            "Nestle",
+            "Lavazza",
+            "Carman's",
+            "Sanitarium",
+            "MasterFoods",
+            "Lindt"
+          ]
+        },
+        "y": {
+          "field": "cumulative_pct",
+          "type": "quantitative",
+          "title": "Cumulative share (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ]
+          },
+          "axis": {
+            "orient": "right"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "brand",
+            "title": "Brand"
+          },
+          {
+            "field": "cumulative_pct",
+            "format": ".1f",
+            "title": "Share of displayed 35-brand subset (%)"
+          }
+        ]
+      }
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  }
+}

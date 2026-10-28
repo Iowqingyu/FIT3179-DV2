@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "transparent",
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "gridColor": "#e7dcc8",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "legend": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14,
+      "titleFontSize": 15
+    },
+    "font": "DM Sans,Arial,sans-serif",
+    "header": {
+      "labelColor": "#362b23",
+      "titleColor": "#362b23",
+      "labelFontSize": 14
+    }
+  },
+  "width": "container",
+  "height": 355,
+  "data": {
+    "url": "data/cpi_bump_clean.csv"
+  },
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": true,
+      "size": 90
+    },
+    "strokeWidth": 3.5
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "sort": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "title": null,
+      "axis": {
+        "labelAngle": -35,
+        "labelFontSize": 14,
+        "labelPadding": 8
+      }
+    },
+    "y": {
+      "field": "rank",
+      "type": "quantitative",
+      "title": "Inflation rank (1 = highest)",
+      "scale": {
+        "domain": [
+          5.5,
+          0.5
+        ]
+      },
+      "axis": {
+        "values": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "labelAngle": 0,
+        "tickMinStep": 1,
+        "grid": false
+      }
+    },
+    "color": {
+      "field": "category",
+      "type": "nominal",
+      "title": "Food group",
+      "scale": {
+        "domain": [
+          "Bread & cereals",
+          "Fruit",
+          "Meat & seafood",
+          "Non-alcoholic drinks",
+          "Vegetables"
+        ],
+        "range": [
+          "#2B5D93",
+          "#1F8A89",
+          "#E68613",
+          "#C74375",
+          "#8E5FBF"
+        ]
+      },
+      "legend": {
+        "title": "Food category",
+        "labelFontSize": 15,
+        "titleFontSize": 16
+      }
+    },
+    "tooltip": [
+      {
+        "field": "category",
+        "title": "Department"
+      },
+      {
+        "field": "year",
+        "title": "Year"
+      },
+      {
+        "field": "rank",
+        "title": "Rank"
+      },
+      {
+        "field": "yoy_pct",
+        "title": "Annual CPI growth (%)",
+        "format": "+.1f"
+      }
+    ]
+  }
+}

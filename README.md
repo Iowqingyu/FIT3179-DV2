@@ -1,0 +1,3 @@
+# The Grocery Atlas — Supermarket Shopping In Australia
+
+The website displays 12 charts in narrative order. Their IDs and JSON filenames follow the sequence 01–12. The `charts/` folder contains only displayed chart specifications, and `data/` contains only files referenced by those specifications. The `reference/` folder retains two original freight-flow extracts for data provenance; those reference files are not loaded by the website.

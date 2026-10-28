@@ -1,0 +1,370 @@
+date,category,index
+2021-01-01,Bread and cereal products,79.74
+2021-01-01,Meat and seafoods,86.63
+2021-01-01,Fruit,86.4
+2021-01-01,Vegetables,84.26
+2021-01-01,Non-alcoholic beverages,78.16
+2021-02-01,Bread and cereal products,79.3
+2021-02-01,Meat and seafoods,86.71
+2021-02-01,Fruit,87.81
+2021-02-01,Vegetables,81.67
+2021-02-01,Non-alcoholic beverages,78.66
+2021-03-01,Bread and cereal products,79.16
+2021-03-01,Meat and seafoods,86.79
+2021-03-01,Fruit,83.92
+2021-03-01,Vegetables,81.36
+2021-03-01,Non-alcoholic beverages,78.26
+2021-04-01,Bread and cereal products,79.31
+2021-04-01,Meat and seafoods,87.17
+2021-04-01,Fruit,89.99
+2021-04-01,Vegetables,83.43
+2021-04-01,Non-alcoholic beverages,78.22
+2021-05-01,Bread and cereal products,79.45
+2021-05-01,Meat and seafoods,87.44
+2021-05-01,Fruit,92.33
+2021-05-01,Vegetables,88.5
+2021-05-01,Non-alcoholic beverages,78.89
+2021-06-01,Bread and cereal products,79.11
+2021-06-01,Meat and seafoods,87.32
+2021-06-01,Fruit,88.12
+2021-06-01,Vegetables,89.6
+2021-06-01,Non-alcoholic beverages,78.78
+2021-07-01,Bread and cereal products,78.98
+2021-07-01,Meat and seafoods,87.53
+2021-07-01,Fruit,86.47
+2021-07-01,Vegetables,88.15
+2021-07-01,Non-alcoholic beverages,79.26
+2021-08-01,Bread and cereal products,79.35
+2021-08-01,Meat and seafoods,87.8
+2021-08-01,Fruit,82.83
+2021-08-01,Vegetables,88.45
+2021-08-01,Non-alcoholic beverages,79.41
+2021-09-01,Bread and cereal products,79.22
+2021-09-01,Meat and seafoods,87.68
+2021-09-01,Fruit,76.29
+2021-09-01,Vegetables,86.39
+2021-09-01,Non-alcoholic beverages,78.84
+2021-10-01,Bread and cereal products,79.46
+2021-10-01,Meat and seafoods,87.47
+2021-10-01,Fruit,77.84
+2021-10-01,Vegetables,85.75
+2021-10-01,Non-alcoholic beverages,78.97
+2021-11-01,Bread and cereal products,80.1
+2021-11-01,Meat and seafoods,87.85
+2021-11-01,Fruit,81.03
+2021-11-01,Vegetables,86.76
+2021-11-01,Non-alcoholic beverages,78.62
+2021-12-01,Bread and cereal products,80.73
+2021-12-01,Meat and seafoods,88.21
+2021-12-01,Fruit,82.68
+2021-12-01,Vegetables,89.46
+2021-12-01,Non-alcoholic beverages,79.05
+2022-01-01,Bread and cereal products,81.15
+2022-01-01,Meat and seafoods,91.05
+2022-01-01,Fruit,83.22
+2022-01-01,Vegetables,91.4
+2022-01-01,Non-alcoholic beverages,81.03
+2022-02-01,Bread and cereal products,81.01
+2022-02-01,Meat and seafoods,92.92
+2022-02-01,Fruit,86.84
+2022-02-01,Vegetables,92.48
+2022-02-01,Non-alcoholic beverages,84.72
+2022-03-01,Bread and cereal products,82.56
+2022-03-01,Meat and seafoods,91.8
+2022-03-01,Fruit,85.18
+2022-03-01,Vegetables,95.47
+2022-03-01,Non-alcoholic beverages,84.76
+2022-04-01,Bread and cereal products,83.44
+2022-04-01,Meat and seafoods,91.9
+2022-04-01,Fruit,85.88
+2022-04-01,Vegetables,97.46
+2022-04-01,Non-alcoholic beverages,84.54
+2022-05-01,Bread and cereal products,83.86
+2022-05-01,Meat and seafoods,92.81
+2022-05-01,Fruit,88.8
+2022-05-01,Vegetables,98.83
+2022-05-01,Non-alcoholic beverages,84.83
+2022-06-01,Bread and cereal products,84.88
+2022-06-01,Meat and seafoods,92.88
+2022-06-01,Fruit,89.51
+2022-06-01,Vegetables,103.01
+2022-06-01,Non-alcoholic beverages,85.02
+2022-07-01,Bread and cereal products,85.69
+2022-07-01,Meat and seafoods,93.74
+2022-07-01,Fruit,95.68
+2022-07-01,Vegetables,104.21
+2022-07-01,Non-alcoholic beverages,85.82
+2022-08-01,Bread and cereal products,86.87
+2022-08-01,Meat and seafoods,94.11
+2022-08-01,Fruit,98.04
+2022-08-01,Vegetables,105.79
+2022-08-01,Non-alcoholic beverages,87.02
+2022-09-01,Bread and cereal products,88.5
+2022-09-01,Meat and seafoods,94.3
+2022-09-01,Fruit,91.09
+2022-09-01,Vegetables,100.08
+2022-09-01,Non-alcoholic beverages,87.05
+2022-10-01,Bread and cereal products,88.97
+2022-10-01,Meat and seafoods,94.33
+2022-10-01,Fruit,88.11
+2022-10-01,Vegetables,91.72
+2022-10-01,Non-alcoholic beverages,87.78
+2022-11-01,Bread and cereal products,89.73
+2022-11-01,Meat and seafoods,94.91
+2022-11-01,Fruit,92.56
+2022-11-01,Vegetables,92.17
+2022-11-01,Non-alcoholic beverages,87.35
+2022-12-01,Bread and cereal products,91.2
+2022-12-01,Meat and seafoods,95.62
+2022-12-01,Fruit,95.74
+2022-12-01,Vegetables,94.64
+2022-12-01,Non-alcoholic beverages,86.61
+2023-01-01,Bread and cereal products,91.36
+2023-01-01,Meat and seafoods,95.69
+2023-01-01,Fruit,91.36
+2023-01-01,Vegetables,93.21
+2023-01-01,Non-alcoholic beverages,89.08
+2023-02-01,Bread and cereal products,91.16
+2023-02-01,Meat and seafoods,95.94
+2023-02-01,Fruit,96.34
+2023-02-01,Vegetables,94.67
+2023-02-01,Non-alcoholic beverages,90.26
+2023-03-01,Bread and cereal products,91.46
+2023-03-01,Meat and seafoods,95.77
+2023-03-01,Fruit,96.96
+2023-03-01,Vegetables,96
+2023-03-01,Non-alcoholic beverages,90.92
+2023-04-01,Bread and cereal products,93.01
+2023-04-01,Meat and seafoods,96.01
+2023-04-01,Fruit,93.21
+2023-04-01,Vegetables,97.58
+2023-04-01,Non-alcoholic beverages,92.76
+2023-05-01,Bread and cereal products,94.58
+2023-05-01,Meat and seafoods,96.38
+2023-05-01,Fruit,93.74
+2023-05-01,Vegetables,99.58
+2023-05-01,Non-alcoholic beverages,92.66
+2023-06-01,Bread and cereal products,94.13
+2023-06-01,Meat and seafoods,95.37
+2023-06-01,Fruit,98.9
+2023-06-01,Vegetables,97.5
+2023-06-01,Non-alcoholic beverages,90.79
+2023-07-01,Bread and cereal products,94.18
+2023-07-01,Meat and seafoods,95.98
+2023-07-01,Fruit,97.47
+2023-07-01,Vegetables,93.53
+2023-07-01,Non-alcoholic beverages,91.66
+2023-08-01,Bread and cereal products,95.85
+2023-08-01,Meat and seafoods,96.53
+2023-08-01,Fruit,94.7
+2023-08-01,Vegetables,93.44
+2023-08-01,Non-alcoholic beverages,91.42
+2023-09-01,Bread and cereal products,96.35
+2023-09-01,Meat and seafoods,95.96
+2023-09-01,Fruit,90.77
+2023-09-01,Vegetables,91.33
+2023-09-01,Non-alcoholic beverages,91.28
+2023-10-01,Bread and cereal products,96.56
+2023-10-01,Meat and seafoods,96.01
+2023-10-01,Fruit,93.33
+2023-10-01,Vegetables,89.38
+2023-10-01,Non-alcoholic beverages,90.77
+2023-11-01,Bread and cereal products,97.12
+2023-11-01,Meat and seafoods,95.16
+2023-11-01,Fruit,94.1
+2023-11-01,Vegetables,92.07
+2023-11-01,Non-alcoholic beverages,92.02
+2023-12-01,Bread and cereal products,98.25
+2023-12-01,Meat and seafoods,93.78
+2023-12-01,Fruit,92.3
+2023-12-01,Vegetables,93.51
+2023-12-01,Non-alcoholic beverages,92.7
+2024-01-01,Bread and cereal products,98.14
+2024-01-01,Meat and seafoods,93.77
+2024-01-01,Fruit,90.04
+2024-01-01,Vegetables,96.62
+2024-01-01,Non-alcoholic beverages,94.19
+2024-02-01,Bread and cereal products,97.54
+2024-02-01,Meat and seafoods,94.07
+2024-02-01,Fruit,90.29
+2024-02-01,Vegetables,98.28
+2024-02-01,Non-alcoholic beverages,94.73
+2024-03-01,Bread and cereal products,98.15
+2024-03-01,Meat and seafoods,94.92
+2024-03-01,Fruit,90.28
+2024-03-01,Vegetables,99.04
+2024-03-01,Non-alcoholic beverages,95.9
+2024-04-01,Food and non-alcoholic beverages,96.18
+2024-04-01,Bread and cereal products,97.67
+2024-04-01,Meat and seafoods,95.5
+2024-04-01,Fruit,96.8
+2024-04-01,Vegetables,100.58
+2024-04-01,Non-alcoholic beverages,95.38
+2024-05-01,Food and non-alcoholic beverages,96.61
+2024-05-01,Bread and cereal products,97.77
+2024-05-01,Meat and seafoods,95.77
+2024-05-01,Fruit,99.47
+2024-05-01,Vegetables,102.66
+2024-05-01,Non-alcoholic beverages,96.17
+2024-06-01,Food and non-alcoholic beverages,96.48
+2024-06-01,Bread and cereal products,97.37
+2024-06-01,Meat and seafoods,95.23
+2024-06-01,Fruit,103.02
+2024-06-01,Vegetables,100.39
+2024-06-01,Non-alcoholic beverages,96.29
+2024-07-01,Food and non-alcoholic beverages,97.16
+2024-07-01,Bread and cereal products,98.26
+2024-07-01,Meat and seafoods,96.2
+2024-07-01,Fruit,106.66
+2024-07-01,Vegetables,98.94
+2024-07-01,Non-alcoholic beverages,96.15
+2024-08-01,Food and non-alcoholic beverages,97.36
+2024-08-01,Bread and cereal products,98.24
+2024-08-01,Meat and seafoods,96.77
+2024-08-01,Fruit,104.8
+2024-08-01,Vegetables,101.58
+2024-08-01,Non-alcoholic beverages,96.09
+2024-09-01,Food and non-alcoholic beverages,96.89
+2024-09-01,Bread and cereal products,98.13
+2024-09-01,Meat and seafoods,96.74
+2024-09-01,Fruit,98.6
+2024-09-01,Vegetables,99.85
+2024-09-01,Non-alcoholic beverages,94.86
+2024-10-01,Food and non-alcoholic beverages,97.03
+2024-10-01,Bread and cereal products,99.41
+2024-10-01,Meat and seafoods,97.21
+2024-10-01,Fruit,100.75
+2024-10-01,Vegetables,97.26
+2024-10-01,Non-alcoholic beverages,94.98
+2024-11-01,Food and non-alcoholic beverages,97.32
+2024-11-01,Bread and cereal products,99.75
+2024-11-01,Meat and seafoods,97.45
+2024-11-01,Fruit,100.83
+2024-11-01,Vegetables,96.82
+2024-11-01,Non-alcoholic beverages,95.31
+2024-12-01,Food and non-alcoholic beverages,97.56
+2024-12-01,Bread and cereal products,100.35
+2024-12-01,Meat and seafoods,97.56
+2024-12-01,Fruit,97.88
+2024-12-01,Vegetables,96.59
+2024-12-01,Non-alcoholic beverages,95.61
+2025-01-01,Food and non-alcoholic beverages,98.36
+2025-01-01,Bread and cereal products,101.08
+2025-01-01,Meat and seafoods,98.22
+2025-01-01,Fruit,101.11
+2025-01-01,Vegetables,99.78
+2025-01-01,Non-alcoholic beverages,96.75
+2025-02-01,Food and non-alcoholic beverages,98.23
+2025-02-01,Bread and cereal products,99.84
+2025-02-01,Meat and seafoods,98.23
+2025-02-01,Fruit,100.06
+2025-02-01,Vegetables,99.7
+2025-02-01,Non-alcoholic beverages,98.78
+2025-03-01,Food and non-alcoholic beverages,98.89
+2025-03-01,Bread and cereal products,100.61
+2025-03-01,Meat and seafoods,98.5
+2025-03-01,Fruit,102.67
+2025-03-01,Vegetables,102.43
+2025-03-01,Non-alcoholic beverages,99.68
+2025-04-01,Food and non-alcoholic beverages,99.27
+2025-04-01,Bread and cereal products,100.23
+2025-04-01,Meat and seafoods,97.91
+2025-04-01,Fruit,106.85
+2025-04-01,Vegetables,103.49
+2025-04-01,Non-alcoholic beverages,99.1
+2025-05-01,Food and non-alcoholic beverages,99.38
+2025-05-01,Bread and cereal products,99.66
+2025-05-01,Meat and seafoods,98.7
+2025-05-01,Fruit,104.02
+2025-05-01,Vegetables,104.27
+2025-05-01,Non-alcoholic beverages,101.13
+2025-06-01,Food and non-alcoholic beverages,99.81
+2025-06-01,Bread and cereal products,99.52
+2025-06-01,Meat and seafoods,98.42
+2025-06-01,Fruit,105.19
+2025-06-01,Vegetables,107.59
+2025-06-01,Non-alcoholic beverages,101.53
+2025-07-01,Food and non-alcoholic beverages,100.16
+2025-07-01,Bread and cereal products,100.22
+2025-07-01,Meat and seafoods,98.46
+2025-07-01,Fruit,107.16
+2025-07-01,Vegetables,107.36
+2025-07-01,Non-alcoholic beverages,101.61
+2025-08-01,Food and non-alcoholic beverages,100.26
+2025-08-01,Bread and cereal products,100.27
+2025-08-01,Meat and seafoods,99.56
+2025-08-01,Fruit,106.32
+2025-08-01,Vegetables,102.45
+2025-08-01,Non-alcoholic beverages,100.81
+2025-09-01,Food and non-alcoholic beverages,100
+2025-09-01,Bread and cereal products,100
+2025-09-01,Meat and seafoods,100
+2025-09-01,Fruit,100
+2025-09-01,Vegetables,100
+2025-09-01,Non-alcoholic beverages,100
+2025-10-01,Food and non-alcoholic beverages,100.15
+2025-10-01,Bread and cereal products,100.09
+2025-10-01,Meat and seafoods,100.95
+2025-10-01,Fruit,103.1
+2025-10-01,Vegetables,98.48
+2025-10-01,Non-alcoholic beverages,99.58
+2025-11-01,Food and non-alcoholic beverages,100.53
+2025-11-01,Bread and cereal products,100.91
+2025-11-01,Meat and seafoods,101.27
+2025-11-01,Fruit,104.03
+2025-11-01,Vegetables,98.96
+2025-11-01,Non-alcoholic beverages,99.78
+2025-12-01,Food and non-alcoholic beverages,100.91
+2025-12-01,Bread and cereal products,101.83
+2025-12-01,Meat and seafoods,101.85
+2025-12-01,Fruit,102
+2025-12-01,Vegetables,100.27
+2025-12-01,Non-alcoholic beverages,99.47
+2026-01-01,Food and non-alcoholic beverages,101.42
+2026-01-01,Bread and cereal products,102.03
+2026-01-01,Meat and seafoods,102.09
+2026-01-01,Fruit,101.84
+2026-01-01,Vegetables,101.77
+2026-01-01,Non-alcoholic beverages,100.03
+2026-02-01,Food and non-alcoholic beverages,101.28
+2026-02-01,Bread and cereal products,100.85
+2026-02-01,Meat and seafoods,102.65
+2026-02-01,Fruit,103.79
+2026-02-01,Vegetables,100.19
+2026-02-01,Non-alcoholic beverages,100.75
+2026-03-01,Food and non-alcoholic beverages,101.96
+2026-03-01,Bread and cereal products,101.19
+2026-03-01,Meat and seafoods,103.2
+2026-03-01,Fruit,107.12
+2026-03-01,Vegetables,102.23
+2026-03-01,Non-alcoholic beverages,101.84
+2026-04-01,Food and non-alcoholic beverages,102.03
+2026-04-01,Bread and cereal products,100.93
+2026-04-01,Meat and seafoods,102.85
+2026-04-01,Fruit,104.74
+2026-04-01,Vegetables,105.44
+2026-04-01,Non-alcoholic beverages,101.13
+2026-05-01,Food and non-alcoholic beverages,102.63
+2026-05-01,Bread and cereal products,101.18
+2026-05-01,Meat and seafoods,103.99
+2026-05-01,Fruit,108.39
+2026-05-01,Vegetables,104.5
+2026-05-01,Non-alcoholic beverages,102.62
+2026-06-01,Food and non-alcoholic beverages,103.06
+2026-06-01,Bread and cereal products,101.85
+2026-06-01,Meat and seafoods,103.72
+2026-06-01,Fruit,112.41
+2026-06-01,Vegetables,103.08
+2026-06-01,Non-alcoholic beverages,103.61
+2026-07-01,Food and non-alcoholic beverages,103.34
+2026-07-01,Bread and cereal products,101.54
+2026-07-01,Meat and seafoods,103.95
+2026-07-01,Fruit,110.5
+2026-07-01,Vegetables,102.98
+2026-07-01,Non-alcoholic beverages,103.61
+2026-08-01,Food and non-alcoholic beverages,103.25
+2026-08-01,Bread and cereal products,101.52
+2026-08-01,Meat and seafoods,103.03
+2026-08-01,Fruit,108.22
+2026-08-01,Vegetables,102.62
+2026-08-01,Non-alcoholic beverages,103.96
